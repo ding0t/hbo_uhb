@@ -18,13 +18,13 @@ Currently, I'm only seeing about 1% of the words in those files has having morph
 
 ### Finishing Morphological Data
 
-#### Option 1
+#### Stage 1
 
-Include morph from Shebanq if possible.  Looks like we would need to grab the parsing out of https://shebanq.ancient-data.org/shebanq/static/docs/tools/shebanq/plain.html and then splice them into the OSIS files.  **If** this necessitates a license change then we can work in our own fork (which would become the UHB).
+Write a comparer script that can verify our proposed parsings from http://hb.openscriptures.org/OshbParse/ against an existing dataset (such as https://shebanq.ancient-data.org/shebanq/static/docs/tools/shebanq/plain.html).  If they check out then they can be marked as verified and included in the XML files.
 
-#### Option 2
+#### Stage 2
 
-Create a process that takes parsings available https://github.com/openscriptures/morphhb/blob/master/wlc/ and programmatically guess at all the rest of the words in the OT (e.g. strip cantillation and find and replace for unknowns).  Feed these back into the parsing system at http://hb.openscriptures.org/OshbParse/ and have a team go through and update and verify them.
+Create a process that takes verified parsings from https://github.com/openscriptures/morphhb/blob/master/wlc/ and programmatically guess at the rest of the words in the OT (e.g. strip cantillation and find and replace for unknowns).  Feed these back into the parsing system at http://hb.openscriptures.org/OshbParse/ and verify them against an existing dataset and/or Editors.
 
 If we can make this an iterative process then we would be able to cut down the amount of manual intervention necessary to get the morph data.
 
