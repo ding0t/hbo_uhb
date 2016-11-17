@@ -4,6 +4,8 @@ The resource we are using as our UHB is the [Open Scriptures Hebrew Bible](https
 
 ## Parsing Status
 
+See the parsing status for the whole [Old Testament](http://hb.openscriptures.org/status_all.html).  Or use the book by book links below.
+
 * [Genesis First Pass](http://hb.openscriptures.org/status_gen.html)
 * [Exodus First Pass](http://hb.openscriptures.org/status_exo.html)
 * [Leviticus First Pass](http://hb.openscriptures.org/status_lev.html)
