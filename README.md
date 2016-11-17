@@ -5,6 +5,10 @@ The resource we are using as our UHB is the [Open Scriptures Hebrew Bible](https
 ## Parsing Status
 
 * [Genesis First Pass](http://hb.openscriptures.org/status_gen.html)
+* [Exodus First Pass](http://hb.openscriptures.org/status_exo.html)
+* [Leviticus First Pass](http://hb.openscriptures.org/status_lev.html)
+* [Numbers First Pass](http://hb.openscriptures.org/status_num.html)
+* [Deuteronomy First Pass](http://hb.openscriptures.org/status_deu.html)
 
 
 ## Roadmap
