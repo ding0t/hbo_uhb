@@ -1,6 +1,12 @@
 # UHB
 The resource we are using as our UHB is the [Open Scriptures Hebrew Bible](https://github.com/openscriptures/morphhb).  This project is the Westminster Leningrad Codex with Strongs lexical data and morphological data marked up in OSIS files.
 
+
+## Parsing Status
+
+* [Genesis First Pass](http://hb.openscriptures.org/status_gen.html)
+
+
 ## Roadmap
 
 
