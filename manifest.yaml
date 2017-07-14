@@ -1,0 +1,358 @@
+---
+
+dublin_core:
+  conformsto: 'rc0.2'
+  contributor:
+    - 'David Troidl'
+    - 'Daniel Owens'
+    - 'Christopher V. Kimball'
+    - 'Joseph Planeta'
+    - 'Rev. Graham Nind'
+    - 'David Instone-Brewer'
+  creator: 'Open Scriptures'
+  description: ' An open-licensed, lexically tagged, morphologically parsed Hebrew Old Testament. It enables the global Church to have access to the original texts of the Old Testament.'
+  format: 'text/osis'
+  identifier: 'uhb'
+  issued: ''
+  language:
+    direction: 'rtl'
+    identifier: 'hbo'
+    title: 'Ancient Hebrew'
+  modified: ''
+  publisher: 'unfoldingWord'
+  relation:
+    - 'en/ulb'
+    - 'en/udb'
+    - 'en/uhg'
+    - 'en/uag'
+    - 'en/uhal'
+  rights: 'CC BY-SA 4.0'
+  source:
+    -
+      identifier: 'uhb'
+      language: 'hbo'
+      version: '0'
+  subject: 'Hebrew Bible'
+  title: 'Unlocked Hebrew Bible'
+  type: 'bundle'
+  version: '0'
+
+checking:
+  checking_entity: []
+  checking_level: '1'
+
+projects:
+
+  -
+    title: 'Genesis'
+    versification: 'ufw'
+    identifier: 'gen'
+    sort: 1
+    path: './01-GEN.osis'
+    categories: [ 'bible-ot'  ]
+
+  -
+    title: 'Exodus'
+    versification: 'ufw'
+    identifier: 'exo'
+    sort: 2
+    path: './02-EXO.osis'
+    categories: [ 'bible-ot'  ]
+
+  -
+    title: 'Leviticus'
+    versification: 'ufw'
+    identifier: 'lev'
+    sort: 3
+    path: './03-LEV.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Numbers'
+    versification: 'ufw'
+    identifier: 'num'
+    sort: 4
+    path: './04-NUM.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Deuteronomy'
+    versification: 'ufw'
+    identifier: 'deu'
+    sort: 5
+    path: './05-DEU.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Joshua'
+    versification: 'ufw'
+    identifier: 'jos'
+    sort: 6
+    path: './06-JOS.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Judges'
+    versification: 'ufw'
+    identifier: 'jdg'
+    sort: 7
+    path: './07-JDG.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Ruth'
+    versification: 'ufw'
+    identifier: 'rut'
+    sort: 8
+    path: './08-RUT.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '1 Samuel'
+    versification: 'ufw'
+    identifier: '1sa'
+    sort: 9
+    path: './09-1SA.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '2 Samuel'
+    versification: 'ufw'
+    identifier: '2sa'
+    sort: 10
+    path: './10-2SA.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '1 Kings'
+    versification: 'ufw'
+    identifier: '1ki'
+    sort: 11
+    path: './11-1KI.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '2 Kings'
+    versification: 'ufw'
+    identifier: '2ki'
+    sort: 12
+    path: './12-2KI.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '1 Chronicles'
+    versification: 'ufw'
+    identifier: '1ch'
+    sort: 13
+    path: './13-1CH.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: '2 Chronicles'
+    versification: 'ufw'
+    identifier: '2ch'
+    sort: 14
+    path: './14-2CH.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Ezra'
+    versification: 'ufw'
+    identifier: 'ezr'
+    sort: 15
+    path: './15-EZR.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Nehemiah'
+    versification: 'ufw'
+    identifier: 'neh'
+    sort: 16
+    path: './16-NEH.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Esther'
+    versification: 'ufw'
+    identifier: 'est'
+    sort: 17
+    path: './17-EST.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Job'
+    versification: 'ufw'
+    identifier: 'job'
+    sort: 18
+    path: './18-JOB.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Psalms'
+    versification: 'ufw'
+    identifier: 'psa'
+    sort: 19
+    path: './19-PSA.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Proverbs'
+    versification: 'ufw'
+    identifier: 'pro'
+    sort: 20
+    path: './20-PRO.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Ecclesiastes'
+    versification: 'ufw'
+    identifier: 'ecc'
+    sort: 21
+    path: './21-ECC.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Song of Solomon'
+    versification: 'ufw'
+    identifier: 'sng'
+    sort: 22
+    path: './22-SNG.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Isaiah'
+    versification: 'ufw'
+    identifier: 'isa'
+    sort: 23
+    path: './23-ISA.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Jeremiah'
+    versification: 'ufw'
+    identifier: 'jer'
+    sort: 24
+    path: './24-JER.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Lamentations'
+    versification: 'ufw'
+    identifier: 'lam'
+    sort: 25
+    path: './25-LAM.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Ezekiel'
+    versification: 'ufw'
+    identifier: 'ezk'
+    sort: 26
+    path: './26-EZK.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Daniel'
+    versification: 'ufw'
+    identifier: 'dan'
+    sort: 27
+    path: './27-DAN.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Hosea'
+    versification: 'ufw'
+    identifier: 'hos'
+    sort: 28
+    path: './28-HOS.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Joel'
+    versification: 'ufw'
+    identifier: 'jol'
+    sort: 29
+    path: './29-JOL.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Amos'
+    versification: 'ufw'
+    identifier: 'amo'
+    sort: 30
+    path: './30-AMO.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Obadiah'
+    versification: 'ufw'
+    identifier: 'oba'
+    sort: 31
+    path: './31-OBA.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Jonah'
+    versification: 'ufw'
+    identifier: 'jon'
+    sort: 32
+    path: './32-JON.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Micah'
+    versification: 'ufw'
+    identifier: 'mic'
+    sort: 33
+    path: './33-MIC.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Nahum'
+    versification: 'ufw'
+    identifier: 'nam'
+    sort: 34
+    path: './34-NAM.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Habakkuk'
+    versification: 'ufw'
+    identifier: 'hab'
+    sort: 35
+    path: './35-HAB.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Zephaniah'
+    versification: 'ufw'
+    identifier: 'zep'
+    sort: 36
+    path: './36-ZEP.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Haggai'
+    versification: 'ufw'
+    identifier: 'hag'
+    sort: 37
+    path: './37-HAG.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Zechariah'
+    versification: 'ufw'
+    versification: 'ufw'
+    identifier: 'zec'
+    sort: 38
+    path: './38-ZEC.osis'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Malachi'
+    versification: 'ufw'
+    versification: 'ufw'
+    identifier: 'mal'
+    sort: 39
+    path: './39-MAL.osis'
+    categories: [ 'bible-ot' ]
