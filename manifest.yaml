@@ -11,14 +11,14 @@ dublin_core:
     - 'David Instone-Brewer'
   creator: 'Open Scriptures'
   description: ' An open-licensed, lexically tagged, morphologically parsed Hebrew Old Testament. It enables the global Church to have access to the original texts of the Old Testament.'
-  format: 'text/osis'
+  format: 'text/usfm3'
   identifier: 'uhb'
   issued: ''
   language:
     direction: 'rtl'
     identifier: 'hbo'
     title: 'Ancient Hebrew'
-  modified: ''
+  modified: '2018-01-01'
   publisher: 'unfoldingWord'
   relation:
     - 'en/ulb'
@@ -48,7 +48,7 @@ projects:
     versification: 'ufw'
     identifier: 'gen'
     sort: 1
-    path: './01-GEN.osis'
+    path: './01-GEN.usfm'
     categories: [ 'bible-ot'  ]
 
   -
@@ -56,7 +56,7 @@ projects:
     versification: 'ufw'
     identifier: 'exo'
     sort: 2
-    path: './02-EXO.osis'
+    path: './02-EXO.usfm'
     categories: [ 'bible-ot'  ]
 
   -
@@ -64,7 +64,7 @@ projects:
     versification: 'ufw'
     identifier: 'lev'
     sort: 3
-    path: './03-LEV.osis'
+    path: './03-LEV.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -72,7 +72,7 @@ projects:
     versification: 'ufw'
     identifier: 'num'
     sort: 4
-    path: './04-NUM.osis'
+    path: './04-NUM.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -80,7 +80,7 @@ projects:
     versification: 'ufw'
     identifier: 'deu'
     sort: 5
-    path: './05-DEU.osis'
+    path: './05-DEU.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -88,7 +88,7 @@ projects:
     versification: 'ufw'
     identifier: 'jos'
     sort: 6
-    path: './06-JOS.osis'
+    path: './06-JOS.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -96,7 +96,7 @@ projects:
     versification: 'ufw'
     identifier: 'jdg'
     sort: 7
-    path: './07-JDG.osis'
+    path: './07-JDG.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -104,7 +104,7 @@ projects:
     versification: 'ufw'
     identifier: 'rut'
     sort: 8
-    path: './08-RUT.osis'
+    path: './08-RUT.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -112,7 +112,7 @@ projects:
     versification: 'ufw'
     identifier: '1sa'
     sort: 9
-    path: './09-1SA.osis'
+    path: './09-1SA.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -120,7 +120,7 @@ projects:
     versification: 'ufw'
     identifier: '2sa'
     sort: 10
-    path: './10-2SA.osis'
+    path: './10-2SA.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -128,7 +128,7 @@ projects:
     versification: 'ufw'
     identifier: '1ki'
     sort: 11
-    path: './11-1KI.osis'
+    path: './11-1KI.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -136,7 +136,7 @@ projects:
     versification: 'ufw'
     identifier: '2ki'
     sort: 12
-    path: './12-2KI.osis'
+    path: './12-2KI.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -144,7 +144,7 @@ projects:
     versification: 'ufw'
     identifier: '1ch'
     sort: 13
-    path: './13-1CH.osis'
+    path: './13-1CH.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -152,7 +152,7 @@ projects:
     versification: 'ufw'
     identifier: '2ch'
     sort: 14
-    path: './14-2CH.osis'
+    path: './14-2CH.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -160,7 +160,7 @@ projects:
     versification: 'ufw'
     identifier: 'ezr'
     sort: 15
-    path: './15-EZR.osis'
+    path: './15-EZR.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -168,7 +168,7 @@ projects:
     versification: 'ufw'
     identifier: 'neh'
     sort: 16
-    path: './16-NEH.osis'
+    path: './16-NEH.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -176,7 +176,7 @@ projects:
     versification: 'ufw'
     identifier: 'est'
     sort: 17
-    path: './17-EST.osis'
+    path: './17-EST.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -184,7 +184,7 @@ projects:
     versification: 'ufw'
     identifier: 'job'
     sort: 18
-    path: './18-JOB.osis'
+    path: './18-JOB.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -192,7 +192,7 @@ projects:
     versification: 'ufw'
     identifier: 'psa'
     sort: 19
-    path: './19-PSA.osis'
+    path: './19-PSA.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -200,7 +200,7 @@ projects:
     versification: 'ufw'
     identifier: 'pro'
     sort: 20
-    path: './20-PRO.osis'
+    path: './20-PRO.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -208,7 +208,7 @@ projects:
     versification: 'ufw'
     identifier: 'ecc'
     sort: 21
-    path: './21-ECC.osis'
+    path: './21-ECC.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -216,7 +216,7 @@ projects:
     versification: 'ufw'
     identifier: 'sng'
     sort: 22
-    path: './22-SNG.osis'
+    path: './22-SNG.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -224,7 +224,7 @@ projects:
     versification: 'ufw'
     identifier: 'isa'
     sort: 23
-    path: './23-ISA.osis'
+    path: './23-ISA.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -232,7 +232,7 @@ projects:
     versification: 'ufw'
     identifier: 'jer'
     sort: 24
-    path: './24-JER.osis'
+    path: './24-JER.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -240,7 +240,7 @@ projects:
     versification: 'ufw'
     identifier: 'lam'
     sort: 25
-    path: './25-LAM.osis'
+    path: './25-LAM.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -248,7 +248,7 @@ projects:
     versification: 'ufw'
     identifier: 'ezk'
     sort: 26
-    path: './26-EZK.osis'
+    path: './26-EZK.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -256,7 +256,7 @@ projects:
     versification: 'ufw'
     identifier: 'dan'
     sort: 27
-    path: './27-DAN.osis'
+    path: './27-DAN.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -264,7 +264,7 @@ projects:
     versification: 'ufw'
     identifier: 'hos'
     sort: 28
-    path: './28-HOS.osis'
+    path: './28-HOS.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -272,7 +272,7 @@ projects:
     versification: 'ufw'
     identifier: 'jol'
     sort: 29
-    path: './29-JOL.osis'
+    path: './29-JOL.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -280,7 +280,7 @@ projects:
     versification: 'ufw'
     identifier: 'amo'
     sort: 30
-    path: './30-AMO.osis'
+    path: './30-AMO.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -288,7 +288,7 @@ projects:
     versification: 'ufw'
     identifier: 'oba'
     sort: 31
-    path: './31-OBA.osis'
+    path: './31-OBA.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -296,7 +296,7 @@ projects:
     versification: 'ufw'
     identifier: 'jon'
     sort: 32
-    path: './32-JON.osis'
+    path: './32-JON.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -304,7 +304,7 @@ projects:
     versification: 'ufw'
     identifier: 'mic'
     sort: 33
-    path: './33-MIC.osis'
+    path: './33-MIC.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -312,7 +312,7 @@ projects:
     versification: 'ufw'
     identifier: 'nam'
     sort: 34
-    path: './34-NAM.osis'
+    path: './34-NAM.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -320,7 +320,7 @@ projects:
     versification: 'ufw'
     identifier: 'hab'
     sort: 35
-    path: './35-HAB.osis'
+    path: './35-HAB.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -328,7 +328,7 @@ projects:
     versification: 'ufw'
     identifier: 'zep'
     sort: 36
-    path: './36-ZEP.osis'
+    path: './36-ZEP.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -336,7 +336,7 @@ projects:
     versification: 'ufw'
     identifier: 'hag'
     sort: 37
-    path: './37-HAG.osis'
+    path: './37-HAG.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -345,7 +345,7 @@ projects:
     versification: 'ufw'
     identifier: 'zec'
     sort: 38
-    path: './38-ZEC.osis'
+    path: './38-ZEC.usfm'
     categories: [ 'bible-ot' ]
 
   -
@@ -354,5 +354,5 @@ projects:
     versification: 'ufw'
     identifier: 'mal'
     sort: 39
-    path: './39-MAL.osis'
+    path: './39-MAL.usfm'
     categories: [ 'bible-ot' ]
