@@ -10,7 +10,7 @@
 \w שְׁפֹ֣ט|lemma="שָׁפַט" strong="H8199" x-morph="He,Vqc" \w*
 \w הַ​שֹּׁפְטִ֔ים|lemma="שָׁפַט" strong="d:H8199" x-morph="He,Td:Vqrmpa" \w*
 \w וַ​יְהִ֥י|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqw3ms" \w*
-\w רָעָ֖ב|lemma="רָעָב" strong="H7458" x-morph="He,Ncmsa" \w*
+\w רָעָ֖ב|lemma="רָעָב" strong="H7458" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/famine" \w*
 \w בָּ​אָ֑רֶץ|lemma="אֶרֶץ" strong="b:H0776" x-morph="He,Rd:Ncbsa" \w*
 \w וַ​יֵּ֨לֶךְ|lemma="יָלַךְ" strong="c:H3212" x-morph="He,C:Vqw3ms" \w*
 \w אִ֜ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
