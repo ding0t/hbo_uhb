@@ -338,7 +338,6 @@ projects:
   -
     title: 'Zechariah'
     versification: 'ufw'
-    versification: 'ufw'
     identifier: 'zec'
     sort: 38
     path: './38-ZEC.usfm'
@@ -346,7 +345,6 @@ projects:
 
   -
     title: 'Malachi'
-    versification: 'ufw'
     versification: 'ufw'
     identifier: 'mal'
     sort: 39
