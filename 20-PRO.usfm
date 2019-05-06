@@ -12,10 +12,10 @@
 
 \v 1
 \w מִ֭שְׁלֵי|lemma="מָשָׁל" strong="H4912" x-morph="He,Ncmpc" \w*
-\w שְׁלֹמֹ֣ה|lemma="שְׁלֹמֹה" strong="H8010" x-morph="He,Np" \w*
+\w שְׁלֹמֹ֣ה|lemma="שְׁלֹמֹה" strong="H8010" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/solomon" \w*
 \w בֶן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son" \w*־
 \w דָּוִ֑ד|lemma="דָּוִד" strong="H1732" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/david" \w*
-\w מֶ֝֗לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsc" \w*
+\w מֶ֝֗לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w יִשְׂרָאֵֽל|lemma="יִשְׂרָאֵל" strong="H3478" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/israel" \w*׃
 
 \v 2
@@ -31,7 +31,7 @@
 \w מוּסַ֣ר|lemma="מוּסָר" strong="H4148" x-morph="He,Ncmsc" \w*
 \w הַשְׂכֵּ֑ל|lemma="שָׂכַל" strong="H7919a" x-morph="He,Vha" \w*
 \w צֶ֥דֶק|lemma="צֶדֶק" strong="H6664" x-morph="He,Ncmsa" \w*
-\w וּ֝⁠מִשְׁפָּ֗ט|lemma="מִשְׁפָּט" strong="c:H4941" x-morph="He,C:Ncmsa" \w*
+\w וּ֝⁠מִשְׁפָּ֗ט|lemma="מִשְׁפָּט" strong="c:H4941" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/other/statute" \w*
 \w וּ⁠מֵישָׁרִֽים|lemma="מֵישָׁר" strong="c:H4339" x-morph="He,C:Ncmpa" \w*׃
 
 \v 4
@@ -55,7 +55,7 @@
 \w לְ⁠הָבִ֣ין|lemma="בִּין" strong="l:H0995" x-morph="He,R:Vhc" \w*
 \w מָ֭שָׁל|lemma="מָשָׁל" strong="H4912" x-morph="He,Ncmsa" \w*
 \w וּ⁠מְלִיצָ֑ה|lemma="מְלִיצָה" strong="c:H4426" x-morph="He,C:Ncfsa" \w*
-\w דִּבְרֵ֥י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" \w*
+\w דִּבְרֵ֥י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w חֲ֝כָמִ֗ים|lemma="חָכָם" strong="H2450" x-morph="He,Aampa" \w*
 \w וְ⁠חִידֹתָֽ⁠ם|lemma="חִידָה" strong="c:H2420" x-morph="He,C:Ncfpc:Sp3mp" \w*׃
 
@@ -218,9 +218,9 @@
 \w הִנֵּ֤ה|lemma="הִנֵּה" strong="H2009" x-morph="He,Tm" \w*
 \w אַבִּ֣יעָה|lemma="נָבַע" strong="H5042" x-morph="He,Vhh1cs" \w*
 \w לָ⁠כֶ֣ם|lemma="" strong="l" x-morph="He,R:Sp2mp" \w*
-\w רוּחִ֑⁠י|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsc:Sp1cs" \w*
+\w רוּחִ֑⁠י|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w אוֹדִ֖יעָה|lemma="יָדַע" strong="H3045" x-morph="He,Vhh1cs" \w*
-\w דְבָרַ֣⁠י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc:Sp1cs" \w*
+\w דְבָרַ֣⁠י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w אֶתְ⁠כֶֽם|lemma="אֵת" strong="H0853" x-morph="He,To:Sp2mp" \w*׃
 
 \v 24
@@ -344,18 +344,18 @@
 
 \v 4
 \w אִם|lemma="אִם" strong="H0518a" x-morph="He,C" \w*־
-\w תְּבַקְשֶׁ֥⁠נָּה|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi2ms:Sp3fs" \w*
+\w תְּבַקְשֶׁ֥⁠נָּה|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi2ms:Sp3fs" x-tw="rc://*/tw/dict/bible/other/seek" \w*
 \w כַ⁠כָּ֑סֶף|lemma="כֶּסֶף" strong="k:H3701" x-morph="He,Rd:Ncmsa" \w*
 \w וְֽ⁠כַ⁠מַּטְמוֹנִ֥ים|lemma="מַטְמוֹן" strong="c:k:H4301" x-morph="He,C:Rd:Ncmpa" \w*
 \w תַּחְפְּשֶֽׂ⁠נָּה|lemma="חָפַשׂ" strong="H2664" x-morph="He,Vqi2ms:Sp3fs" \w*׃
 
 \v 5
 \w אָ֗ז|lemma="אָז" strong="H0227a" x-morph="He,D" \w*
-\w תָּ֭בִין|lemma="בִּין" strong="H0995" x-morph="He,Vqi2ms" \w*
+\w תָּ֭בִין|lemma="בִּין" strong="H0995" x-morph="He,Vqi2ms" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w יִרְאַ֣ת|lemma="יִרְאָה" strong="H3374" x-morph="He,Ncfsc" \w*
 \w יְהוָ֑ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w וְ⁠דַ֖עַת|lemma="דַּעַת" strong="c:H1847" x-morph="He,C:Ncfsc" \w*
-\w אֱלֹהִ֣ים|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/falsegod" x\-tw\=\"rc://\*/tw/dict/bible/kt/god\" \w*
+\w אֱלֹהִ֣ים|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/god" x\-tw\=\"rc://\*/tw/dict/bible/kt/god\" \w*
 \w תִּמְצָֽא|lemma="מָצָא" strong="H4672" x-morph="He,Vqi2ms" \w*׃
 
 \v 6
@@ -385,9 +385,9 @@
 
 \v 9
 \w אָ֗ז|lemma="אָז" strong="H0227a" x-morph="He,D" \w*
-\w תָּ֭בִין|lemma="בִּין" strong="H0995" x-morph="He,Vqi2ms" \w*
+\w תָּ֭בִין|lemma="בִּין" strong="H0995" x-morph="He,Vqi2ms" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w צֶ֣דֶק|lemma="צֶדֶק" strong="H6664" x-morph="He,Ncmsa" \w*
-\w וּ⁠מִשְׁפָּ֑ט|lemma="מִשְׁפָּט" strong="c:H4941" x-morph="He,C:Ncmsa" \w*
+\w וּ⁠מִשְׁפָּ֑ט|lemma="מִשְׁפָּט" strong="c:H4941" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/other/statute" \w*
 \w וּ֝⁠מֵישָׁרִ֗ים|lemma="מֵישָׁר" strong="c:H4339" x-morph="He,C:Ncmpa" \w*
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־
 \w מַעְגַּל|lemma="מַעְגָּל" strong="H4570" x-morph="He,Ncmsc" \w*־
@@ -397,7 +397,7 @@
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־
 \w תָב֣וֹא|lemma="בּוֹא" strong="H0935" x-morph="He,Vqi3fs" \w*
 \w חָכְמָ֣ה|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsa" \w*
-\w בְ⁠לִבֶּ֑⁠ךָ|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp2ms" \w*
+\w בְ⁠לִבֶּ֑⁠ךָ|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/heart" \w*
 \w וְ֝⁠דַ֗עַת|lemma="דַּעַת" strong="c:H1847" x-morph="He,C:Ncfsa" \w*
 \w לְֽ⁠נַפְשְׁ⁠ךָ֥|lemma="נֶפֶשׁ" strong="l:H5315" x-morph="He,R:Ncbsc:Sp2ms" \w*
 \w יִנְעָֽם|lemma="נָעֵם" strong="H5276" x-morph="He,Vqi3ms" \w*׃
@@ -453,8 +453,8 @@
 \w אַלּ֣וּף|lemma="אַלּוּף" strong="H0441a" x-morph="He,Aamsc" \w*
 \w נְעוּרֶ֑י⁠הָ|lemma="נָעוּר" strong="H5271a" x-morph="He,Ncbpc:Sp3fs" \w*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To" \w*־
-\w בְּרִ֖ית|lemma="בְּרִית" strong="H1285" x-morph="He,Ncfsc" \w*
-\w אֱלֹהֶ֣י⁠הָ|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp3fs" x-tw="rc://*/tw/dict/bible/kt/falsegod" \w*
+\w בְּרִ֖ית|lemma="בְּרִית" strong="H1285" x-morph="He,Ncfsc" x-tw="rc://*/tw/dict/bible/kt/covenant" \w*
+\w אֱלֹהֶ֣י⁠הָ|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp3fs" x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \w שָׁכֵֽחָה|lemma="שָׁכַח" strong="H7911" x-morph="He,Vqp3fs" \w*׃
 
 \v 18
@@ -483,7 +483,7 @@
 \w בְּ⁠דֶ֣רֶךְ|lemma="דֶּרֶךְ" strong="b:H1870" x-morph="He,R:Ncbsc" \w*
 \w טוֹבִ֑ים|lemma="טוֹב" strong="H2896a" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
 \w וְ⁠אָרְח֖וֹת|lemma="אֹרַח" strong="c:H0734" x-morph="He,C:Ncbpc" \w*
-\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w תִּשְׁמֹֽר|lemma="שָׁמַר" strong="H8104" x-morph="He,Vqi2ms" \w*׃
 
 \v 21
@@ -544,7 +544,7 @@
 \w וְ⁠שֵֽׂכֶל|lemma="שֶׂכֶל" strong="c:H7922" x-morph="He,C:Ncmsa" \w*־
 \w ט֑וֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
 \w בְּ⁠עֵינֵ֖י|lemma="עַיִן" strong="b:H5869a" x-morph="He,R:Ncbdc" \w*
-\w אֱלֹהִ֣ים|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/falsegod" x\-tw\=\"rc://\*/tw/dict/bible/kt/god\" \w*
+\w אֱלֹהִ֣ים|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/god" x\-tw\=\"rc://\*/tw/dict/bible/kt/god\" \w*
 \w וְ⁠אָדָֽם|lemma="אָדָם" strong="c:H0120" x-morph="He,C:Ncmsa" \w*׃פ
 
 \v 5
@@ -637,7 +637,7 @@
 \w ט֣וֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
 \w סַ֭חְרָ⁠הּ|lemma="סַחַר" strong="H5504" x-morph="He,Ncmsc:Sp3fs" \w*
 \w מִ⁠סְּחַר|lemma="סָחַר" strong="m:H5505" x-morph="He,R:Ncmsc" \w*־
-\w כָּ֑סֶף|lemma="כֶּסֶף" strong="H3701" x-morph="He,Ncmsa" \w*
+\w כָּ֑סֶף|lemma="כֶּסֶף" strong="H3701" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/silver" \w*
 \w וּ֝⁠מֵ⁠חָר֗וּץ|lemma="חֲרוּץ" strong="c:m:H2742d" x-morph="He,C:R:Ncmsa" \w*
 \w תְּבוּאָתָֽ⁠הּ|lemma="תְּבוּאָה" strong="H8393" x-morph="He,Ncfsc:Sp3fs" \w*׃
 
@@ -665,7 +665,7 @@
 \w נֹ֑עַם|lemma="נֹעַם" strong="H5278" x-morph="He,Ncmsa" \w*
 \w וְֽ⁠כָל|lemma="כֹּל" strong="c:H3605" x-morph="He,C:Ncmsc" \w*־
 \w נְתִ֖יבוֹתֶ֣י⁠הָ|lemma="נָתִיב" strong="H5410b" x-morph="He,Ncbpc:Sp3fs" \w*
-\w שָׁלֽוֹם|lemma="שָׁלוֹם" strong="H7965" x-morph="He,Ncmsa" \w*׃
+\w שָׁלֽוֹם|lemma="שָׁלוֹם" strong="H7965" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/peace" \w*׃
 
 \v 18
 \w עֵץ|lemma="עֵץ" strong="H6086" x-morph="He,Ncmsc" \w*־
@@ -679,7 +679,7 @@
 \v 19
 \w יְֽהוָ֗ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w בְּ⁠חָכְמָ֥ה|lemma="חׇכְמָה" strong="b:H2451" x-morph="He,R:Ncfsa" \w*
-\w יָֽסַד|lemma="יָסַד" strong="H3245" x-morph="He,Vqp3ms" \w*־
+\w יָֽסַד|lemma="יָסַד" strong="H3245" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/other/foundation" \w*־
 \w אָ֑רֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsa" \w*
 \w כּוֹנֵ֥ן|lemma="כּוּן" strong="H3559a" x-morph="He,Vop3ms" \w*
 \w שָׁ֝מַ֗יִם|lemma="שָׁמַיִם" strong="H8064" x-morph="He,Ncmpa" \w*
@@ -811,10 +811,10 @@
 \v 33
 \w מְאֵרַ֣ת|lemma="מְאֵרָה" strong="H3994" x-morph="He,Ncfsc" \w*
 \w יְ֭הוָה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
-\w בְּ⁠בֵ֣ית|lemma="בַּיִת" strong="b:H1004b" x-morph="He,R:Ncmsc" \w*
+\w בְּ⁠בֵ֣ית|lemma="בַּיִת" strong="b:H1004b" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/kt/temple" \w*
 \w רָשָׁ֑ע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*
 \w וּ⁠נְוֵ֖ה|lemma="נָוֶה" strong="c:H5116a" x-morph="He,C:Ncbsc" \w*
-\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יְבָרֵֽךְ|lemma="בָּרַךְ" strong="H1288" x-morph="He,Vpi3ms" x-tw="rc://*/tw/dict/bible/kt/bless" \w*׃
 
 \v 34
@@ -871,10 +871,10 @@
 \w וַ⁠יֹּ֥אמֶר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3ms" \w*
 \w לִ֗⁠י|lemma="" strong="l" x-morph="He,R:Sp1cs" \w*
 \w יִֽתְמָךְ|lemma="תָּמַךְ" strong="H8551" x-morph="He,Vqj3ms" \w*־
-\w דְּבָרַ֥⁠י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc:Sp1cs" \w*
+\w דְּבָרַ֥⁠י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w לִבֶּ֑⁠ךָ|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w שְׁמֹ֖ר|lemma="שָׁמַר" strong="H8104" x-morph="He,Vqv2ms" \w*
-\w מִצְוֺתַ֣⁠י|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfpc:Sp1cs" \w*
+\w מִצְוֺתַ֣⁠י|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w וֶֽ⁠חְיֵֽה|lemma="חָיָה" strong="c:H2421" x-morph="He,C:Vqv2ms" \w*׃
 
 \v 5
@@ -951,7 +951,7 @@
 \w תִכָּשֵֽׁל|lemma="כָּשַׁל" strong="H3782" x-morph="He,VNi2ms" \w*׃
 
 \v 13
-\w הַחֲזֵ֣ק|lemma="חָזַק" strong="H2388" x-morph="He,Vhv2ms" \w*
+\w הַחֲזֵ֣ק|lemma="חָזַק" strong="H2388" x-morph="He,Vhv2ms" x-tw="rc://*/tw/dict/bible/other/courage" \w*
 \w בַּ⁠מּוּסָ֣ר|lemma="מוּסָר" strong="b:H4148" x-morph="He,Rd:Ncmsa" \w*
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־
 \w תֶּ֑רֶף|lemma="רָפָה" strong="H7503" x-morph="He,Vhj2ms" \w*
@@ -995,7 +995,7 @@
 \v 17
 \w כִּ֣י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w לָ֭חֲמוּ|lemma="לָחַם" strong="H3898b" x-morph="He,Vqp3cp" \w*
-\w לֶ֣חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc" \w*
+\w לֶ֣חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/other/bread" \w*
 \w רֶ֑שַׁע|lemma="רֶשַׁע" strong="H7562" x-morph="He,Ncmsa" \w*
 \w וְ⁠יֵ֖ין|lemma="יַיִן" strong="c:H3196" x-morph="He,C:Ncmsc" \w*
 \w חֲמָסִ֣ים|lemma="חָמָס" strong="H2555" x-morph="He,Ncmpa" \w*
@@ -1003,7 +1003,7 @@
 
 \v 18
 \w וְ⁠אֹ֣רַח|lemma="אֹרַח" strong="c:H0734" x-morph="He,C:Ncbsc" \w*
-\w צַ֭דִּיקִים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַ֭דִּיקִים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w כְּ⁠א֣וֹר|lemma="אוֹר" strong="k:H0216" x-morph="He,R:Ncbsc" \w*
 \w נֹ֑גַהּ|lemma="נֹגַהּ" strong="H5051" x-morph="He,Ncfsa" \w*
 \w הוֹלֵ֥ךְ|lemma="הָלַךְ" strong="H1980" x-morph="He,Vqrmsa" \w*
@@ -1035,7 +1035,7 @@
 \w מֵ⁠עֵינֶ֑י⁠ךָ|lemma="עַיִן" strong="m:H5869a" x-morph="He,R:Ncbdc:Sp2ms" \w*
 \w שָׁ֝מְרֵ֗⁠ם|lemma="שָׁמַר" strong="H8104" x-morph="He,Vqv2ms:Sp3mp" \w*
 \w בְּ⁠ת֣וֹךְ|lemma="תָּוֶךְ" strong="b:H8432" x-morph="He,R:Ncmsc" \w*
-\w לְבָבֶֽ⁠ךָ|lemma="לֵבָב" strong="H3824" x-morph="He,Ncmsc:Sp2ms" \w*׃
+\w לְבָבֶֽ⁠ךָ|lemma="לֵבָב" strong="H3824" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/kt/heart" \w*׃
 
 \v 22
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־
@@ -1179,7 +1179,7 @@
 \w זָרִ֣ים|lemma="זוּר" strong="H2114a" x-morph="He,Aampa" \w*
 \w כֹּחֶ֑⁠ךָ|lemma="כֹּחַ" strong="H3581b" x-morph="He,Ncmsc:Sp2ms" \w*
 \w וַ֝⁠עֲצָבֶ֗י⁠ךָ|lemma="עֶצֶב" strong="c:H6089a" x-morph="He,C:Ncmpc:Sp2ms" \w*
-\w בְּ⁠בֵ֣ית|lemma="בַּיִת" strong="b:H1004b" x-morph="He,R:Ncmsc" \w*
+\w בְּ⁠בֵ֣ית|lemma="בַּיִת" strong="b:H1004b" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/kt/temple" \w*
 \w נָכְרִֽי|lemma="נׇכְרִי" strong="H5237" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/other/foreigner" \w*׃
 
 \v 11
@@ -1214,7 +1214,7 @@
 \w בְ⁠כָל|lemma="כֹּל" strong="b:H3605" x-morph="He,R:Ncmsc" \w*־
 \w רָ֑ע|lemma="רַע" strong="H7451b" x-morph="He,Aamsa" \w*
 \w בְּ⁠ת֖וֹךְ|lemma="תָּוֶךְ" strong="b:H8432" x-morph="He,R:Ncmsc" \w*
-\w קָהָ֣ל|lemma="קָהָל" strong="H6951" x-morph="He,Ncmsa" \w*
+\w קָהָ֣ל|lemma="קָהָל" strong="H6951" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/assembly" \w*
 \w וְ⁠עֵדָֽה|lemma="עֵדָה" strong="c:H5712" x-morph="He,C:Ncfsa" \w*׃
 
 \v 15
@@ -1283,12 +1283,12 @@
 \w מְפַלֵּֽס|lemma="פָּלַס" strong="H6424" x-morph="He,Vprmsa" \w*׃
 
 \v 22
-\w עַֽווֹנוֹתָ֗י⁠ו|lemma="עָוֺן" strong="H5771" x-morph="He,Ncbpc:Sp3ms" \w*
+\w עַֽווֹנוֹתָ֗י⁠ו|lemma="עָוֺן" strong="H5771" x-morph="He,Ncbpc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/iniquity" \w*
 \w יִלְכְּדֻ⁠נ֥וֹ|lemma="לָכַד" strong="H3920" x-morph="He,Vqi3mp:Sp3ms" \w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־
 \w הָ⁠רָשָׁ֑ע|lemma="רָשָׁע" strong="d:H7563" x-morph="He,Td:Aamsa" \w*
 \w וּ⁠בְ⁠חַבְלֵ֥י|lemma="חֶבֶל" strong="c:b:H2256a" x-morph="He,C:R:Ncbpc" \w*
-\w חַ֝טָּאת֗⁠וֹ|lemma="חַטָּאָה" strong="H2403b" x-morph="He,Ncfsc:Sp3ms" \w*
+\w חַ֝טָּאת֗⁠וֹ|lemma="חַטָּאָה" strong="H2403b" x-morph="He,Ncfsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/sacrifice" \w*
 \w יִתָּמֵֽךְ|lemma="תָּמַךְ" strong="H8551" x-morph="He,VNi3ms" \w*׃
 
 \v 23
@@ -1310,7 +1310,7 @@
 \w לְ⁠רֵעֶ֑⁠ךָ|lemma="רֵעַ" strong="l:H7453" x-morph="He,R:Ncmsc:Sp2ms" \w*
 \w תָּקַ֖עְתָּ|lemma="תָּקַע" strong="H8628" x-morph="He,Vqp2ms" \w*
 \w לַ⁠זָּ֣ר|lemma="זוּר" strong="l:H2114a" x-morph="He,Rd:Aamsa" \w*
-\w כַּפֶּֽי⁠ךָ|lemma="כַּף" strong="H3709" x-morph="He,Ncfdc:Sp2ms" \w*׃
+\w כַּפֶּֽי⁠ךָ|lemma="כַּף" strong="H3709" x-morph="He,Ncfdc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/hand" \w*׃
 
 \v 2
 \w נוֹקַ֥שְׁתָּ|lemma="יָקֹשׁ" strong="H3369" x-morph="He,VNp2ms" \w*
@@ -1325,7 +1325,7 @@
 \w זֹ֥את|lemma="זֹאת" strong="H2063" x-morph="He,Pdxfs" \w*
 \w אֵפ֪וֹא|lemma="אֵפוֹ" strong="H0645" x-morph="He,D" \w*׀
 \w בְּנִ֡⁠י|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/son" \w*
-\w וְֽ⁠הִנָּצֵ֗ל|lemma="נָצַל" strong="c:H5337" x-morph="He,C:VNv2ms" \w*
+\w וְֽ⁠הִנָּצֵ֗ל|lemma="נָצַל" strong="c:H5337" x-morph="He,C:VNv2ms" x-tw="rc://*/tw/dict/bible/other/deliverer" \w*
 \w כִּ֘י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w בָ֤אתָ|lemma="בּוֹא" strong="H0935" x-morph="He,Vqp2ms" \w*
 \w בְ⁠כַף|lemma="כַּף" strong="b:H3709" x-morph="He,R:Ncfsc" \w*־
@@ -1371,7 +1371,7 @@
 \v 8
 \w תָּכִ֣ין|lemma="כּוּן" strong="H3559a" x-morph="He,Vhi3fs" \w*
 \w בַּ⁠קַּ֣יִץ|lemma="קַיִץ" strong="b:H7019" x-morph="He,Rd:Ncmsa" \w*
-\w לַחְמָ֑⁠הּ|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc:Sp3fs" \w*
+\w לַחְמָ֑⁠הּ|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/bread" \w*
 \w אָגְרָ֥ה|lemma="אָגַר" strong="H0103" x-morph="He,Vqp3fs" \w*
 \w בַ֝⁠קָּצִ֗יר|lemma="קָצִיר" strong="b:H7105a" x-morph="He,Rd:Ncmsa" \w*
 \w מַאֲכָלָֽ⁠הּ|lemma="מַאֲכָל" strong="H3978" x-morph="He,Ncmsc:Sp3fs" \w*׃
@@ -1422,7 +1422,7 @@
 
 \v 14
 \w תַּֽהְפֻּכ֨וֹת|lemma="תַּהְפֻּכָה" strong="H8419" x-morph="He,Ncfpa" \w*׀
-\w בְּ⁠לִבּ֗⁠וֹ|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp3ms" \w*
+\w בְּ⁠לִבּ֗⁠וֹ|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/heart" \w*
 \w חֹרֵ֣שׁ|lemma="חָרַשׁ" strong="H2790a" x-morph="He,Vqrmsa" \w*
 \w רָ֣ע|lemma="רַע" strong="H7451b" x-morph="He,Aamsa" \w*
 \w בְּ⁠כָל|lemma="כֹּל" strong="b:H3605" x-morph="He,R:Ncmsc" \w*־
@@ -1455,7 +1455,7 @@
 \w רָ֭מוֹת|lemma="רוּם" strong="H7311a" x-morph="He,Vqrfpa" \w*
 \w לְשׁ֣וֹן|lemma="לָשׁוֹן" strong="H3956" x-morph="He,Ncbsc" \w*
 \w שָׁ֑קֶר|lemma="שֶׁקֶר" strong="H8267" x-morph="He,Ncmsa" \w*
-\w וְ֝⁠יָדַ֗יִם|lemma="יָד" strong="c:H3027" x-morph="He,C:Ncbda" \w*
+\w וְ֝⁠יָדַ֗יִם|lemma="יָד" strong="c:H3027" x-morph="He,C:Ncbda" x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w שֹׁפְכ֥וֹת|lemma="שָׁפַךְ" strong="H8210" x-morph="He,Vqrfpa" \w*
 \w דָּם|lemma="דָּם" strong="H1818" x-morph="He,Ncmsa" \w*־
 \w נָקִֽי|lemma="נָקִי" strong="H5355a" x-morph="He,Aamsa" \w*׃
@@ -1483,7 +1483,7 @@
 \v 20
 \w נְצֹ֣ר|lemma="נָצַר" strong="H5341" x-morph="He,Vqv2ms" \w*
 \w בְּ֭נִ⁠י|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/son" \w*
-\w מִצְוַ֣ת|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfsc" \w*
+\w מִצְוַ֣ת|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfsc" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w אָבִ֑י⁠ךָ|lemma="אָב" strong="H0001" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/father" \w*
 \w וְ⁠אַל|lemma="אַל" strong="c:H0408" x-morph="He,C:Tn" \w*־
 \w תִּ֝טֹּ֗שׁ|lemma="נָטַשׁ" strong="H5203" x-morph="He,Vqj2ms" \w*
@@ -1513,7 +1513,7 @@
 \v 23
 \w כִּ֤י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w נֵ֣ר|lemma="נִיר" strong="H5216a" x-morph="He,Ncmsa" \w*
-\w מִ֭צְוָה|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfsa" \w*
+\w מִ֭צְוָה|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w וְ⁠ת֣וֹרָה|lemma="תּוֹרָה" strong="c:H8451" x-morph="He,C:Ncfsa" \w*
 \w א֑וֹר|lemma="אוֹר" strong="H0216" x-morph="He,Ncbsa" \w*
 \w וְ⁠דֶ֥רֶךְ|lemma="דֶּרֶךְ" strong="c:H1870" x-morph="He,C:Ncbsc" \w*
@@ -1545,7 +1545,7 @@
 \w זוֹנָ֗ה|lemma="זָנָה" strong="H2181" x-morph="He,Vqrfsa" \w*
 \w עַֽד|lemma="עַד" strong="H5704" x-morph="He,R" \w*־
 \w כִּכַּ֫ר|lemma="כִּכָּר" strong="H3603" x-morph="He,Ncbsc" \w*
-\w לָ֥חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" \w*
+\w לָ֥חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/other/bread" \w*
 \w וְ⁠אֵ֥שֶׁת|lemma="אִשָּׁה" strong="c:H0802" x-morph="He,C:Ncfsc" \w*
 \w אִ֑ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
 \w נֶ֖פֶשׁ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/life" \w*
@@ -1635,7 +1635,7 @@
 \v 35
 \w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־
 \w יִ֭שָּׂא|lemma="נָשָׂא" strong="H5375" x-morph="He,Vqi3ms" \w*
-\w פְּנֵ֣י|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" \w*
+\w פְּנֵ֣י|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" x-tw="rc://*/tw/dict/bible/other/face" \w*
 \w כָל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־
 \w כֹּ֑פֶר|lemma="כֹּפֶר" strong="H3724a" x-morph="He,Ncmsa" \w*
 \w וְ⁠לֹֽא|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn" \w*־
@@ -1657,7 +1657,7 @@
 
 \v 2
 \w שְׁמֹ֣ר|lemma="שָׁמַר" strong="H8104" x-morph="He,Vqv2ms" \w*
-\w מִצְוֺתַ֣⁠י|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfpc:Sp1cs" \w*
+\w מִצְוֺתַ֣⁠י|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w וֶ⁠חְיֵ֑ה|lemma="חָיָה" strong="c:H2421" x-morph="He,C:Vqv2ms" \w*
 \w וְ֝⁠תוֹרָתִ֗⁠י|lemma="תּוֹרָה" strong="c:H8451" x-morph="He,C:Ncfsc:Sp1cs" \w*
 \w כְּ⁠אִישׁ֥וֹן|lemma="אִישׁוֹן" strong="k:H0380" x-morph="He,R:Ncmsc" \w*
@@ -1700,7 +1700,7 @@
 \v 7
 \w וָ⁠אֵ֤רֶא|lemma="רָאָה" strong="c:H7200" x-morph="He,C:Vqw1cs" \w*
 \w בַ⁠פְּתָאיִ֗ם|lemma="פְּתִי" strong="b:H6612a" x-morph="He,Rd:Ncmpa" \w*
-\w אָ֘בִ֤ינָה|lemma="בִּין" strong="H0995" x-morph="He,Vqh1cs" \w*
+\w אָ֘בִ֤ינָה|lemma="בִּין" strong="H0995" x-morph="He,Vqh1cs" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w בַ⁠בָּנִ֗ים|lemma="בֵּן" strong="b:H1121a" x-morph="He,Rd:Ncmpa" \w*
 \w נַ֣עַר|lemma="נַעַר" strong="H5288" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/servant" \w*
 \w חֲסַר|lemma="חָסֵר" strong="H2638" x-morph="He,Aamsc" \w*־
@@ -1736,7 +1736,7 @@
 \w הֹמִיָּ֣ה|lemma="הָמָה" strong="H1993" x-morph="He,Vqrfsa" \w*
 \w הִ֣יא|lemma="הוּא" strong="H1931" x-morph="He,Pp3fs" \w*
 \w וְ⁠סֹרָ֑רֶת|lemma="סָרַר" strong="c:H5637" x-morph="He,C:Vqrfsa" \w*
-\w בְּ֝⁠בֵיתָ֗⁠הּ|lemma="בַּיִת" strong="b:H1004b" x-morph="He,R:Ncmsc:Sp3fs" \w*
+\w בְּ֝⁠בֵיתָ֗⁠הּ|lemma="בַּיִת" strong="b:H1004b" x-morph="He,R:Ncmsc:Sp3fs" x-tw="rc://*/tw/dict/bible/kt/temple" \w*
 \w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־
 \w יִשְׁכְּנ֥וּ|lemma="שָׁכַן" strong="H7931" x-morph="He,Vqi3mp" \w*
 \w רַגְלֶֽי⁠הָ|lemma="רֶגֶל" strong="H7272" x-morph="He,Ncfdc:Sp3fs" \w*׃
@@ -1757,7 +1757,7 @@
 \w וְ⁠נָ֣שְׁקָה|lemma="נָשַׁק" strong="c:H5401a" x-morph="He,C:Vqq3fs" \w*־
 \w לּ֑⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms" \w*
 \w הֵעֵ֥זָה|lemma="עָזַז" strong="H5810" x-morph="He,Vhp3fs" \w*
-\w פָ֝נֶ֗י⁠הָ|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc:Sp3fs" \w*
+\w פָ֝נֶ֗י⁠הָ|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/face" \w*
 \w וַ⁠תֹּ֣אמַר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3fs" \w*
 \w לֽ⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms" \w*׃
 
@@ -1775,7 +1775,7 @@
 \w יָצָ֣אתִי|lemma="יָצָא" strong="H3318" x-morph="He,Vqp1cs" \w*
 \w לִ⁠קְרָאתֶ֑⁠ךָ|lemma="קִרְאָה" strong="l:H7125" x-morph="He,R:Vqc:Sp2ms" \w*
 \w לְ⁠שַׁחֵ֥ר|lemma="שָׁחַר" strong="l:H7836" x-morph="He,R:Vpc" \w*
-\w פָּ֝נֶ֗י⁠ךָ|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc:Sp2ms" \w*
+\w פָּ֝נֶ֗י⁠ךָ|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/face" \w*
 \w וָ⁠אֶמְצָאֶֽ⁠ךָּ|lemma="מָצָא" strong="c:H4672" x-morph="He,C:Vqw1cs:Sp2ms" \w*׃
 
 \v 16
@@ -1806,16 +1806,16 @@
 \w כִּ֤י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w אֵ֣ין|lemma="אַיִן" strong="H0369" x-morph="He,Tn" \w*
 \w הָ⁠אִ֣ישׁ|lemma="אִישׁ" strong="d:H0376" x-morph="He,Td:Ncmsa" \w*
-\w בְּ⁠בֵית֑⁠וֹ|lemma="בַּיִת" strong="b:H1004b" x-morph="He,R:Ncmsc:Sp3ms" \w*
+\w בְּ⁠בֵית֑⁠וֹ|lemma="בַּיִת" strong="b:H1004b" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/temple" \w*
 \w הָ֝לַ֗ךְ|lemma="הָלַךְ" strong="H1980" x-morph="He,Vqp3ms" \w*
 \w בְּ⁠דֶ֣רֶךְ|lemma="דֶּרֶךְ" strong="b:H1870" x-morph="He,R:Ncbsa" \w*
 \w מֵ⁠רָחֽוֹק|lemma="רָחוֹק" strong="m:H7350" x-morph="He,R:Aamsa" \w*׃
 
 \v 20
 \w צְֽרוֹר|lemma="צְרוֹר" strong="H6872a" x-morph="He,Ncmsc" \w*־
-\w הַ֭⁠כֶּסֶף|lemma="כֶּסֶף" strong="d:H3701" x-morph="He,Td:Ncmsa" \w*
+\w הַ֭⁠כֶּסֶף|lemma="כֶּסֶף" strong="d:H3701" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/other/silver" \w*
 \w לָקַ֣ח|lemma="לָקַח" strong="H3947" x-morph="He,Vqp3ms" \w*
-\w בְּ⁠יָד֑⁠וֹ|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc:Sp3ms" \w*
+\w בְּ⁠יָד֑⁠וֹ|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w לְ⁠י֥וֹם|lemma="יוֹם" strong="l:H3117" x-morph="He,R:Ncmsc" \w*
 \w הַ֝⁠כֵּ֗סֶא|lemma="כֶּסֶא" strong="d:H3677" x-morph="He,Td:Ncmsa" \w*
 \w יָבֹ֥א|lemma="בּוֹא" strong="H0935" x-morph="He,Vqi3ms" \w*
@@ -1933,11 +1933,11 @@
 \w אָדָֽם|lemma="אָדָם" strong="H0120" x-morph="He,Ncmsa" \w*׃
 
 \v 5
-\w הָבִ֣ינוּ|lemma="בִּין" strong="H0995" x-morph="He,Vhv2mp" \w*
+\w הָבִ֣ינוּ|lemma="בִּין" strong="H0995" x-morph="He,Vhv2mp" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w פְתָאיִ֣ם|lemma="פְּתִי" strong="H6612a" x-morph="He,Ncmpa" \w*
 \w עָרְמָ֑ה|lemma="עׇרְמָה" strong="H6195" x-morph="He,Ncfsa" \w*
 \w וּ֝⁠כְסִילִ֗ים|lemma="כְּסִיל" strong="c:H3684" x-morph="He,C:Aampa" \w*
-\w הָבִ֥ינוּ|lemma="בִּין" strong="H0995" x-morph="He,Vhv2mp" \w*
+\w הָבִ֥ינוּ|lemma="בִּין" strong="H0995" x-morph="He,Vhv2mp" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w לֵֽב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*׃
 
 \v 6
@@ -1980,7 +1980,7 @@
 \w קְחֽוּ|lemma="לָקַח" strong="H3947" x-morph="He,Vqv2mp" \w*־
 \w מוּסָרִ֥⁠י|lemma="מוּסָר" strong="H4148" x-morph="He,Ncmsc:Sp1cs" \w*
 \w וְ⁠אַל|lemma="אַל" strong="c:H0408" x-morph="He,C:Tn" \w*־
-\w כָּ֑סֶף|lemma="כֶּסֶף" strong="H3701" x-morph="He,Ncmsa" \w*
+\w כָּ֑סֶף|lemma="כֶּסֶף" strong="H3701" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/silver" \w*
 \w וְ֝⁠דַ֗עַת|lemma="דַּעַת" strong="c:H1847" x-morph="He,C:Ncfsa" \w*
 \w מֵ⁠חָר֥וּץ|lemma="חֲרוּץ" strong="m:H2742d" x-morph="He,R:Ncmsa" \w*
 \w נִבְחָֽר|lemma="בָּחַר" strong="H0977" x-morph="He,VNrmsa" \w*׃
@@ -2029,7 +2029,7 @@
 
 \v 15
 \w בִּ֭⁠י|lemma="" strong="b" x-morph="He,R:Sp1cs" \w*
-\w מְלָכִ֣ים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" \w*
+\w מְלָכִ֣ים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w יִמְלֹ֑כוּ|lemma="מָלַךְ" strong="H4427a" x-morph="He,Vqi3mp" \w*
 \w וְ֝⁠רוֹזְנִ֗ים|lemma="רָזַן" strong="c:H7336" x-morph="He,C:Vqrmpa" \w*
 \w יְחֹ֣קְקוּ|lemma="חָקַק" strong="H2710" x-morph="He,Vmi3mp" \w*
@@ -2037,7 +2037,7 @@
 
 \v 16
 \w בִּ֭⁠י|lemma="" strong="b" x-morph="He,R:Sp1cs" \w*
-\w שָׂרִ֣ים|lemma="שַׂר" strong="H8269" x-morph="He,Ncmpa" \w*
+\w שָׂרִ֣ים|lemma="שַׂר" strong="H8269" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/prince" \w*
 \w יָשֹׂ֑רוּ|lemma="שָׂרַר" strong="H8323" x-morph="He,Vqi3mp" \w*
 \w וּ֝⁠נְדִיבִ֗ים|lemma="נָדִיב" strong="c:H5081" x-morph="He,C:Aampa" \w*
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־
@@ -2122,7 +2122,7 @@
 \w עָ֭שָׂה|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqp3ms" \w*
 \w אֶ֣רֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsa" \w*
 \w וְ⁠חוּצ֑וֹת|lemma="חוּץ" strong="c:H2351" x-morph="He,C:Ncmpa" \w*
-\w וְ֝⁠רֹ֗אשׁ|lemma="רֹאשׁ" strong="c:H7218a" x-morph="He,C:Ncmsc" \w*
+\w וְ֝⁠רֹ֗אשׁ|lemma="רֹאשׁ" strong="c:H7218a" x-morph="He,C:Ncmsc" x-tw="rc://*/tw/dict/bible/other/head" \w*
 \w עָפְר֥וֹת|lemma="עָפָר" strong="H6083" x-morph="He,Ncmpc" \w*
 \w תֵּבֵֽל|lemma="תֵּבֵל" strong="H8398" x-morph="He,Ncfsa" \w*׃
 
@@ -2134,7 +2134,7 @@
 \w בְּ⁠ח֥וּק⁠וֹ|lemma="חָקַק" strong="b:H2710" x-morph="He,R:Vqc:Sp3ms" \w*
 \w ח֝֗וּג|lemma="חוּג" strong="H2329" x-morph="He,Ncmsa" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
-\w פְּנֵ֥י|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" \w*
+\w פְּנֵ֥י|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" x-tw="rc://*/tw/dict/bible/other/face" \w*
 \w תְהֽוֹם|lemma="תְּהוֹם" strong="H8415" x-morph="He,Ncbsa" \w*׃
 
 \v 28
@@ -2148,7 +2148,7 @@
 \v 29
 \w בְּ⁠שׂ֘וּמ֤⁠וֹ|lemma="שׂוּם" strong="b:H7760a" x-morph="He,R:Vqc:Sp3ms" \w*
 \w לַ⁠יָּ֨ם|lemma="יָם" strong="l:H3220" x-morph="He,Rd:Ncmsa" \w*׀
-\w חֻקּ֗⁠וֹ|lemma="חֹק" strong="H2706" x-morph="He,Ncmsc:Sp3ms" \w*
+\w חֻקּ֗⁠וֹ|lemma="חֹק" strong="H2706" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/ordinance" \w*
 \w וּ֭⁠מַיִם|lemma="מַיִם" strong="c:H4325" x-morph="He,C:Ncmpa" \w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
 \w יַֽעַבְרוּ|lemma="עָבַר" strong="H5674a" x-morph="He,Vqi3mp" \w*־
@@ -2398,12 +2398,12 @@
 
 \v 1
 \w מִשְׁלֵ֗י|lemma="מָשָׁל" strong="H4912" x-morph="He,Ncmpc" \w*
-\w שְׁלֹ֫מֹ֥ה|lemma="שְׁלֹמֹה" strong="H8010" x-morph="He,Np" \w*פ
+\w שְׁלֹ֫מֹ֥ה|lemma="שְׁלֹמֹה" strong="H8010" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/solomon" \w*פ
 \w בֵּ֣ן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/son" \w*
 \w חָ֭כָם|lemma="חָכָם" strong="H2450" x-morph="He,Aamsa" \w*
-\w יְשַׂמַּח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms" \w*־
+\w יְשַׂמַּח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*־
 \w אָ֑ב|lemma="אָב" strong="H0001" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/father" \w*
-\w וּ⁠בֵ֥ן|lemma="בֵּן" strong="c:H1121a" x-morph="He,C:Ncmsa" \w*
+\w וּ⁠בֵ֥ן|lemma="בֵּן" strong="c:H1121a" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/son" \w*
 \w כְּ֝סִ֗יל|lemma="כְּסִיל" strong="H3684" x-morph="He,Aamsa" \w*
 \w תּוּגַ֥ת|lemma="תּוּגָה" strong="H8424" x-morph="He,Ncfsc" \w*
 \w אִמּֽ⁠וֹ|lemma="אֵם" strong="H0517" x-morph="He,Ncfsc:Sp3ms" \w*׃
@@ -2422,7 +2422,7 @@
 \w יַרְעִ֣יב|lemma="רָעֵב" strong="H7456" x-morph="He,Vhi3ms" \w*
 \w יְ֭הוָה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w נֶ֣פֶשׁ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/kt/life" \w*
-\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w וְ⁠הַוַּ֖ת|lemma="הַוָּה" strong="c:H1942" x-morph="He,C:Ncfsc" \w*
 \w רְשָׁעִ֣ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
 \w יֶהְדֹּֽף|lemma="הָדַף" strong="H1920" x-morph="He,Vqi3ms" \w*׃
@@ -2430,9 +2430,9 @@
 \v 4
 \w רָ֗אשׁ|lemma="רוּשׁ" strong="H7326" x-morph="He,Ncmsa" \w*
 \w עֹשֶׂ֥ה|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqrmsa" \w*
-\w כַף|lemma="כַּף" strong="H3709" x-morph="He,Ncfsc" \w*־
+\w כַף|lemma="כַּף" strong="H3709" x-morph="He,Ncfsc" x-tw="rc://*/tw/dict/bible/other/hand" \w*־
 \w רְמִיָּ֑ה|lemma="רְמִיָּה" strong="H7423b" x-morph="He,Ncfsa" \w*
-\w וְ⁠יַ֖ד|lemma="יָד" strong="c:H3027" x-morph="He,C:Ncbsc" \w*
+\w וְ⁠יַ֖ד|lemma="יָד" strong="c:H3027" x-morph="He,C:Ncbsc" x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w חָרוּצִ֣ים|lemma="חֲרוּץ" strong="H2742a" x-morph="He,Aampa" \w*
 \w תַּעֲשִֽׁיר|lemma="עָשַׁר" strong="H6238" x-morph="He,Vhi3fs" \w*׃
 
@@ -2444,12 +2444,12 @@
 \w נִרְדָּ֥ם|lemma="רָדַם" strong="H7290" x-morph="He,VNrmsa" \w*
 \w בַּ֝⁠קָּצִ֗יר|lemma="קָצִיר" strong="b:H7105a" x-morph="He,Rd:Ncmsa" \w*
 \w בֵּ֣ן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/son" \w*
-\w מֵבִֽישׁ|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrmsa" \w*׃
+\w מֵבִֽישׁ|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*׃
 
 \v 6
 \w בְּ֭רָכוֹת|lemma="בְּרָכָה" strong="H1293" x-morph="He,Ncfpa" \w*
 \w לְ⁠רֹ֣אשׁ|lemma="רֹאשׁ" strong="l:H7218a" x-morph="He,R:Ncmsa" \w*
-\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w וּ⁠פִ֥י|lemma="פֶּה" strong="c:H6310" x-morph="He,C:Ncmsc" \w*
 \w רְ֝שָׁעִ֗ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
 \w יְכַסֶּ֥ה|lemma="כָּסָה" strong="H3680" x-morph="He,Vpi3ms" \w*
@@ -2457,7 +2457,7 @@
 
 \v 7
 \w זֵ֣כֶר|lemma="זֵכֶר" strong="H2143" x-morph="He,Ncmsc" \w*
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w לִ⁠בְרָכָ֑ה|lemma="בְּרָכָה" strong="l:H1293" x-morph="He,R:Ncfsa" \w*
 \w וְ⁠שֵׁ֖ם|lemma="שֵׁם" strong="c:H8034" x-morph="He,C:Ncmsc" \w*
 \w רְשָׁעִ֣ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
@@ -2467,7 +2467,7 @@
 \w חֲכַם|lemma="חָכָם" strong="H2450" x-morph="He,Aamsc" \w*־
 \w לֵ֭ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w יִקַּ֣ח|lemma="לָקַח" strong="H3947" x-morph="He,Vqi3ms" \w*
-\w מִצְוֺ֑ת|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfpa" \w*
+\w מִצְוֺ֑ת|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfpa" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w וֶ⁠אֱוִ֥יל|lemma="אֱוִיל" strong="c:H0191" x-morph="He,C:Aamsa" \w*
 \w שְׂ֝פָתַ֗יִם|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfda" \w*
 \w יִלָּבֵֽט|lemma="לָבַט" strong="H3832" x-morph="He,VNi3ms" \w*׃
@@ -2494,7 +2494,7 @@
 \w מְק֣וֹר|lemma="מָקוֹר" strong="H4726" x-morph="He,Ncmsc" \w*
 \w חַ֭יִּים|lemma="חַי" strong="H2416e" x-morph="He,Ncmpa" \w*
 \w פִּ֣י|lemma="פֶּה" strong="H6310" x-morph="He,Ncmsc" \w*
-\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w וּ⁠פִ֥י|lemma="פֶּה" strong="c:H6310" x-morph="He,C:Ncmsc" \w*
 \w רְ֝שָׁעִ֗ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
 \w יְכַסֶּ֥ה|lemma="כָּסָה" strong="H3680" x-morph="He,Vpi3ms" \w*
@@ -2512,7 +2512,7 @@
 
 \v 13
 \w בְּ⁠שִׂפְתֵ֣י|lemma="שָׂפָה" strong="b:H8193" x-morph="He,R:Ncfdc" \w*
-\w נָ֭בוֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" \w*
+\w נָ֭בוֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w תִּמָּצֵ֣א|lemma="מָצָא" strong="H4672" x-morph="He,VNi3fs" \w*
 \w חָכְמָ֑ה|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsa" \w*
 \w וְ֝⁠שֵׁ֗בֶט|lemma="שֵׁבֶט" strong="c:H7626" x-morph="He,C:Ncmsa" \w*
@@ -2540,7 +2540,7 @@
 
 \v 16
 \w פְּעֻלַּ֣ת|lemma="פְּעֻלָּה" strong="H6468" x-morph="He,Ncfsc" \w*
-\w צַדִּ֣יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֣יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w לְ⁠חַיִּ֑ים|lemma="חַי" strong="l:H2416e" x-morph="He,R:Ncmpa" \w*
 \w תְּבוּאַ֖ת|lemma="תְּבוּאָה" strong="H8393" x-morph="He,Ncfsc" \w*
 \w רָשָׁ֣ע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*
@@ -2560,14 +2560,14 @@
 \w שִׂ֭נְאָה|lemma="שִׂנְאָה" strong="H8135" x-morph="He,Ncfsa" \w*
 \w שִׂפְתֵי|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfdc" \w*־
 \w שָׁ֑קֶר|lemma="שֶׁקֶר" strong="H8267" x-morph="He,Ncmsa" \w*
-\w וּ⁠מוֹצִ֥א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vhrmsa" \w*
+\w וּ⁠מוֹצִ֥א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vhrmsa" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w דִ֝בָּ֗ה|lemma="דִּבָּה" strong="H1681" x-morph="He,Ncfsa" \w*
 \w ה֣וּא|lemma="הוּא" strong="H1931" x-morph="He,Pp3ms" \w*
 \w כְסִֽיל|lemma="כְּסִיל" strong="H3684" x-morph="He,Aamsa" \w*׃
 
 \v 19
 \w בְּ⁠רֹ֣ב|lemma="רֹב" strong="b:H7230" x-morph="He,R:Ncbsc" \w*
-\w דְּ֭בָרִים|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpa" \w*
+\w דְּ֭בָרִים|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
 \w יֶחְדַּל|lemma="חָדַל" strong="H2308" x-morph="He,Vqi3ms" \w*־
 \w פָּ֑שַׁע|lemma="פֶּשַׁע" strong="H6588" x-morph="He,Ncmsa" \w*
@@ -2576,17 +2576,17 @@
 \w מַשְׂכִּֽיל|lemma="שָׂכַל" strong="H7919a" x-morph="He,Vhrmsa" \w*׃
 
 \v 20
-\w כֶּ֣סֶף|lemma="כֶּסֶף" strong="H3701" x-morph="He,Ncmsa" \w*
+\w כֶּ֣סֶף|lemma="כֶּסֶף" strong="H3701" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/silver" \w*
 \w נִ֭בְחָר|lemma="בָּחַר" strong="H0977" x-morph="He,VNrmsa" \w*
 \w לְשׁ֣וֹן|lemma="לָשׁוֹן" strong="H3956" x-morph="He,Ncbsc" \w*
-\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w לֵ֖ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w רְשָׁעִ֣ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
 \w כִּ⁠מְעָֽט|lemma="מְעַט" strong="k:H4592" x-morph="He,R:Ncmsa" \w*׃
 
 \v 21
 \w שִׂפְתֵ֣י|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfdc" \w*
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יִרְע֣וּ|lemma="רָעָה" strong="H7462b" x-morph="He,Vqi3mp" \w*
 \w רַבִּ֑ים|lemma="רַב" strong="H7227a" x-morph="He,Aampa" \w*
 \w וֶֽ֝⁠אֱוִילִ֗ים|lemma="אֱוִיל" strong="c:H0191" x-morph="He,C:Aampa" \w*
@@ -2619,7 +2619,7 @@
 \w הִ֣יא|lemma="הוּא" strong="H1931" x-morph="He,Pp3fs" \w*
 \w תְבוֹאֶ֑⁠נּוּ|lemma="בּוֹא" strong="H0935" x-morph="He,Vqi3fs:Sp3ms" \w*
 \w וְ⁠תַאֲוַ֖ת|lemma="תַּאֲוָה" strong="c:H8378" x-morph="He,C:Ncfsc" \w*
-\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יִתֵּֽן|lemma="נָתַן" strong="H5414" x-morph="He,Vqi3ms" \w*׃
 
 \v 25
@@ -2651,7 +2651,7 @@
 
 \v 28
 \w תּוֹחֶ֣לֶת|lemma="תּוֹחֶלֶת" strong="H8431" x-morph="He,Ncfsc" \w*
-\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w שִׂמְחָ֑ה|lemma="שִׂמְחָה" strong="H8057" x-morph="He,Ncfsa" \w*
 \w וְ⁠תִקְוַ֖ת|lemma="תִּקְוָה" strong="c:H8615b" x-morph="He,C:Ncfsc" \w*
 \w רְשָׁעִ֣ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
@@ -2667,7 +2667,7 @@
 \w אָֽוֶן|lemma="אָוֶן" strong="H0205" x-morph="He,Ncmsa" \w*׃
 
 \v 30
-\w צַדִּ֣יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֣יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w לְ⁠עוֹלָ֣ם|lemma="עוֹלָם" strong="l:H5769" x-morph="He,R:Ncmsa" \w*
 \w בַּל|lemma="בַּל" strong="H1077" x-morph="He,Tn" \w*־
 \w יִמּ֑וֹט|lemma="מוֹט" strong="H4131" x-morph="He,VNi3ms" \w*
@@ -2678,7 +2678,7 @@
 
 \v 31
 \w פִּֽי|lemma="פֶּה" strong="H6310" x-morph="He,Ncmsc" \w*־
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יָנ֣וּב|lemma="נוּב" strong="H5107" x-morph="He,Vqi3ms" \w*
 \w חָכְמָ֑ה|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsa" \w*
 \w וּ⁠לְשׁ֥וֹן|lemma="לָשׁוֹן" strong="c:H3956" x-morph="He,C:Ncbsc" \w*
@@ -2687,7 +2687,7 @@
 
 \v 32
 \w שִׂפְתֵ֣י|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfdc" \w*
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יֵדְע֣וּ⁠ן|lemma="יָדַע" strong="H3045" x-morph="He,Vqi3mp:Sn" \w*
 \w רָצ֑וֹן|lemma="רָצוֹן" strong="H7522" x-morph="He,Ncmsa" \w*
 \w וּ⁠פִ֥י|lemma="פֶּה" strong="c:H6310" x-morph="He,C:Ncmsc" \w*
@@ -2761,7 +2761,7 @@
 \w אָבָֽדָה|lemma="אָבַד" strong="H0006" x-morph="He,Vqp3fs" \w*׃
 
 \v 8
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w מִ⁠צָּרָ֣ה|lemma="צָרָה" strong="m:H6869b" x-morph="He,R:Ncfsa" \w*
 \w נֶחֱלָ֑ץ|lemma="חָלַץ" strong="H2502a" x-morph="He,VNrmsa" \w*
 \w וַ⁠יָּבֹ֖א|lemma="בּוֹא" strong="c:H0935" x-morph="He,C:Vqw3ms" \w*
@@ -2774,12 +2774,12 @@
 \w יַשְׁחִ֣ת|lemma="שָׁחַת" strong="H7843" x-morph="He,Vhi3ms" \w*
 \w רֵעֵ֑⁠הוּ|lemma="רֵעַ" strong="H7453" x-morph="He,Ncmsc:Sp3ms" \w*
 \w וּ֝⁠בְ⁠דַ֗עַת|lemma="דַּעַת" strong="c:b:H1847" x-morph="He,C:R:Ncfsa" \w*
-\w צַדִּיקִ֥ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֥ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יֵחָלֵֽצוּ|lemma="חָלַץ" strong="H2502a" x-morph="He,VNi3mp" \w*׃
 
 \v 10
 \w בְּ⁠ט֣וּב|lemma="טוּב" strong="b:H2898" x-morph="He,R:Ncmsc" \w*
-\w צַ֭דִּיקִים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַ֭דִּיקִים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w תַּעֲלֹ֣ץ|lemma="עָלַץ" strong="H5970" x-morph="He,Vqi3fs" \w*
 \w קִרְיָ֑ה|lemma="קִרְיָה" strong="H7151" x-morph="He,Ncfsa" \w*
 \w וּ⁠בַ⁠אֲבֹ֖ד|lemma="אָבַד" strong="c:b:H0006" x-morph="He,C:R:Vqc" \w*
@@ -2810,9 +2810,9 @@
 \w מְגַלֶּה|lemma="גָּלָה" strong="H1540" x-morph="He,Vprmsa" \w*־
 \w סּ֑וֹד|lemma="סוֹד" strong="H5475" x-morph="He,Ncmsa" \w*
 \w וְ⁠נֶאֱמַן|lemma="אָמַן" strong="c:H0539" x-morph="He,C:VNrmsc" \w*־
-\w ר֝֗וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" \w*
+\w ר֝֗וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w מְכַסֶּ֥ה|lemma="כָּסָה" strong="H3680" x-morph="He,Vprmsa" \w*
-\w דָבָֽר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" \w*׃
+\w דָבָֽר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/word" \w*׃
 
 \v 14
 \w בְּ⁠אֵ֣ין|lemma="אַיִן" strong="b:H0369" x-morph="He,R:Tn" \w*
@@ -2821,7 +2821,7 @@
 \w עָ֑ם|lemma="עַם" strong="H5971a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
 \w וּ֝⁠תְשׁוּעָ֗ה|lemma="תְּשׁוּעָה" strong="c:H8668" x-morph="He,C:Ncfsa" \w*
 \w בְּ⁠רֹ֣ב|lemma="רֹב" strong="b:H7230" x-morph="He,R:Ncbsc" \w*
-\w יוֹעֵֽץ|lemma="יָעַץ" strong="H3289" x-morph="He,Vqrmsa" \w*׃
+\w יוֹעֵֽץ|lemma="יָעַץ" strong="H3289" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/other/counselor" \w*׃
 
 \v 15
 \w רַע|lemma="רַע" strong="H7451b" x-morph="He,Aamsa" \w*־
@@ -2885,12 +2885,12 @@
 \w יִנָּ֣קֶה|lemma="נָקָה" strong="H5352" x-morph="He,VNi3ms" \w*
 \w רָּ֑ע|lemma="רַע" strong="H7451a" x-morph="He,Aamsa" \w*
 \w וְ⁠זֶ֖רַע|lemma="זֶרַע" strong="c:H2233" x-morph="He,C:Ncmsc" \w*
-\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w נִמְלָֽט|lemma="מָלַט" strong="H4422" x-morph="He,VNp3ms" \w*׃
 
 \v 22
 \w נֶ֣זֶם|lemma="נֶזֶם" strong="H5141" x-morph="He,Ncmsc" \w*
-\w זָ֭הָב|lemma="זָהָב" strong="H2091" x-morph="He,Ncmsa" \w*
+\w זָ֭הָב|lemma="זָהָב" strong="H2091" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/gold" \w*
 \w בְּ⁠אַ֣ף|lemma="אַף" strong="b:H0639" x-morph="He,R:Ncmsc" \w*
 \w חֲזִ֑יר|lemma="חֲזִיר" strong="H2386" x-morph="He,Ncmsa" \w*
 \w אִשָּׁ֥ה|lemma="אִשָּׁה" strong="H0802" x-morph="He,Ncfsa" \w*
@@ -2900,7 +2900,7 @@
 
 \v 23
 \w תַּאֲוַ֣ת|lemma="תַּאֲוָה" strong="H8378" x-morph="He,Ncfsc" \w*
-\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w אַךְ|lemma="אַךְ" strong="H0389" x-morph="He,Ta" \w*־
 \w ט֑וֹב|lemma="טוֹב" strong="H2896b" x-morph="He,Aamsa" \w*
 \w תִּקְוַ֖ת|lemma="תִּקְוָה" strong="H8615b" x-morph="He,Ncfsc" x-tw="rc://*/tw/dict/bible/kt/hope" \w*
@@ -2938,7 +2938,7 @@
 \v 27
 \w שֹׁ֣חֵֽר|lemma="שָׁחַר" strong="H7836" x-morph="He,Vqrmsa" \w*
 \w ט֭וֹב|lemma="טוֹב" strong="H2896b" x-morph="He,Aamsa" \w*
-\w יְבַקֵּ֣שׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3ms" \w*
+\w יְבַקֵּ֣שׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3ms" x-tw="rc://*/tw/dict/bible/other/seek" \w*
 \w רָצ֑וֹן|lemma="רָצוֹן" strong="H7522" x-morph="He,Ncmsa" \w*
 \w וְ⁠דֹרֵ֖שׁ|lemma="דָּרַשׁ" strong="c:H1875" x-morph="He,C:Vqrmsa" \w*
 \w רָעָ֣ה|lemma="רַע" strong="H7451c" x-morph="He,Ncfsa" \w*
@@ -2950,14 +2950,14 @@
 \w ה֣וּא|lemma="הוּא" strong="H1931" x-morph="He,Pp3ms" \w*
 \w יִפֹּ֑ל|lemma="נָפַל" strong="H5307" x-morph="He,Vqi3ms" \w*
 \w וְ֝⁠כֶ⁠עָלֶ֗ה|lemma="עָלֶה" strong="c:k:H5929" x-morph="He,C:Rd:Ncmsa" \w*
-\w צַדִּיקִ֥ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֥ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יִפְרָֽחוּ|lemma="פָּרַח" strong="H6524a" x-morph="He,Vqi3mp" \w*׃
 
 \v 29
 \w עוֹכֵ֣ר|lemma="עָכַר" strong="H5916" x-morph="He,Vqrmsa" \w*
 \w בֵּ֭ית⁠וֹ|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/house" \w*
 \w יִנְחַל|lemma="נָחַל" strong="H5157" x-morph="He,Vqi3ms" \w*־
-\w ר֑וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" \w*
+\w ר֑וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w וְ⁠עֶ֥בֶד|lemma="עֶבֶד" strong="c:H5650" x-morph="He,C:Ncmsa" \w*
 \w אֱ֝וִ֗יל|lemma="אֱוִיל" strong="H0191" x-morph="He,Aamsa" \w*
 \w לַ⁠חֲכַם|lemma="חָכָם" strong="l:H2450" x-morph="He,R:Aamsc" \w*־
@@ -2965,7 +2965,7 @@
 
 \v 30
 \w פְּֽרִי|lemma="פְּרִי" strong="H6529" x-morph="He,Ncmsc" \w*־
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w עֵ֣ץ|lemma="עֵץ" strong="H6086" x-morph="He,Ncmsc" \w*
 \w חַיִּ֑ים|lemma="חַי" strong="H2416e" x-morph="He,Ncmpa" \w*
 \w וְ⁠לֹקֵ֖חַ|lemma="לָקַח" strong="c:H3947" x-morph="He,C:Vqrmsa" \w*
@@ -2974,7 +2974,7 @@
 
 \v 31
 \w הֵ֣ן|lemma="הֵן" strong="H2005" x-morph="He,Tm" \w*
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w בָּ⁠אָ֣רֶץ|lemma="אֶרֶץ" strong="b:H0776" x-morph="He,Rd:Ncbsa" \w*
 \w יְשֻׁלָּ֑ם|lemma="שָׁלַם" strong="H7999a" x-morph="He,VPi3ms" \w*
 \w אַ֝֗ף|lemma="אַף" strong="H0637" x-morph="He,Ta" \w*
@@ -3009,7 +3009,7 @@
 \w אָדָ֣ם|lemma="אָדָם" strong="H0120" x-morph="He,Ncmsa" \w*
 \w בְּ⁠רֶ֑שַׁע|lemma="רֶשַׁע" strong="b:H7562" x-morph="He,R:Ncmsa" \w*
 \w וְ⁠שֹׁ֥רֶשׁ|lemma="שֶׁרֶשׁ" strong="c:H8328" x-morph="He,C:Ncmsc" \w*
-\w צַ֝דִּיקִ֗ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַ֝דִּיקִ֗ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w בַּל|lemma="בַּל" strong="H1077" x-morph="He,Tn" \w*־
 \w יִמּֽוֹט|lemma="מוֹט" strong="H4131" x-morph="He,VNi3ms" \w*׃
 
@@ -3020,18 +3020,18 @@
 \w בַּעְלָ֑⁠הּ|lemma="בַּעַל" strong="H1167" x-morph="He,Ncmsc:Sp3fs" \w*
 \w וּ⁠כְ⁠רָקָ֖ב|lemma="רָקָב" strong="c:k:H7538" x-morph="He,C:R:Ncmsa" \w*
 \w בְּ⁠עַצְמוֹתָ֣י⁠ו|lemma="עֶצֶם" strong="b:H6106" x-morph="He,R:Ncfpc:Sp3ms" \w*
-\w מְבִישָֽׁה|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrfsa" \w*׃
+\w מְבִישָֽׁה|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrfsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*׃
 
 \v 5
 \w מַחְשְׁב֣וֹת|lemma="מַחֲשָׁבָה" strong="H4284" x-morph="He,Ncfpc" \w*
-\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w מִשְׁפָּ֑ט|lemma="מִשְׁפָּט" strong="H4941" x-morph="He,Ncmsa" \w*
 \w תַּחְבֻּל֖וֹת|lemma="תַּחְבֻּלָה" strong="H8458" x-morph="He,Ncfpc" \w*
 \w רְשָׁעִ֣ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
 \w מִרְמָֽה|lemma="מִרְמָה" strong="H4820" x-morph="He,Ncfsa" \w*׃
 
 \v 6
-\w דִּבְרֵ֣י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" \w*
+\w דִּבְרֵ֣י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w רְשָׁעִ֣ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
 \w אֱרָב|lemma="אָרַב" strong="H0693" x-morph="He,Vqc" \w*־
 \w דָּ֑ם|lemma="דָּם" strong="H1818" x-morph="He,Ncmsa" \w*
@@ -3044,12 +3044,12 @@
 \w רְשָׁעִ֣ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
 \w וְ⁠אֵינָ֑⁠ם|lemma="אַיִן" strong="c:H0369" x-morph="He,C:Tn:Sp3mp" \w*
 \w וּ⁠בֵ֖ית|lemma="בַּיִת" strong="c:H1004b" x-morph="He,C:Ncmsc" \w*
-\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יַעֲמֹֽד|lemma="עָמַד" strong="H5975" x-morph="He,Vqi3ms" \w*׃
 
 \v 8
 \w לְֽ⁠פִי|lemma="פֶּה" strong="l:H6310" x-morph="He,R:Ncmsc" \w*־
-\w שִׂ֭כְל⁠וֹ|lemma="שֶׂכֶל" strong="H7922" x-morph="He,Ncmsc:Sp3ms" \w*
+\w שִׂ֭כְל⁠וֹ|lemma="שֶׂכֶל" strong="H7922" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w יְהֻלַּל|lemma="הָלַל" strong="H1984b" x-morph="He,VPi3ms" \w*־
 \w אִ֑ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
 \w וְ⁠נַעֲוֵה|lemma="עָוָה" strong="c:H5753a" x-morph="He,C:VNrmsc" \w*־
@@ -3064,11 +3064,11 @@
 \w ל֑⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms" \w*
 \w מִ֝⁠מְּתַכַּבֵּ֗ד|lemma="כָּבַד" strong="m:H3513" x-morph="He,R:Vtrmsa" \w*
 \w וַ⁠חֲסַר|lemma="חָסֵר" strong="c:H2638" x-morph="He,C:Aamsc" \w*־
-\w לָֽחֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" \w*׃
+\w לָֽחֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/other/bread" \w*׃
 
 \v 10
 \w יוֹדֵ֣עַ|lemma="יָדַע" strong="H3045" x-morph="He,Vqrmsa" \w*
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w נֶ֣פֶשׁ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/kt/life" \w*
 \w בְּהֶמְתּ֑⁠וֹ|lemma="בְּהֵמָה" strong="H0929" x-morph="He,Ncfsc:Sp3ms" \w*
 \w וְֽ⁠רַחֲמֵ֥י|lemma="רַחַם" strong="c:H7356b" x-morph="He,C:Ncmpc" \w*
@@ -3079,7 +3079,7 @@
 \w עֹבֵ֣ד|lemma="עָבַד" strong="H5647" x-morph="He,Vqrmsa" \w*
 \w אַ֭דְמָת⁠וֹ|lemma="אֲדָמָה" strong="H0127" x-morph="He,Ncfsc:Sp3ms" \w*
 \w יִֽשְׂבַּֽע|lemma="שָׂבַע" strong="H7646" x-morph="He,Vqi3ms" \w*־
-\w לָ֑חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" \w*
+\w לָ֑חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/other/bread" \w*
 \w וּ⁠מְרַדֵּ֖ף|lemma="רָדַף" strong="c:H7291" x-morph="He,C:Vprmsa" \w*
 \w רֵיקִ֣ים|lemma="רֵיק" strong="H7386" x-morph="He,Aampa" \w*
 \w חֲסַר|lemma="חָסֵר" strong="H2638" x-morph="He,Aamsc" \w*־
@@ -3091,7 +3091,7 @@
 \w מְצ֣וֹד|lemma="מָצוֹד" strong="H4685b" x-morph="He,Ncbsc" \w*
 \w רָעִ֑ים|lemma="רַע" strong="H7451a" x-morph="He,Aampa" \w*
 \w וְ⁠שֹׁ֖רֶשׁ|lemma="שֶׁרֶשׁ" strong="c:H8328" x-morph="He,C:Ncmsc" \w*
-\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יִתֵּֽן|lemma="נָתַן" strong="H5414" x-morph="He,Vqi3ms" \w*׃
 
 \v 13
@@ -3099,9 +3099,9 @@
 \w שְׂ֭פָתַיִם|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfda" \w*
 \w מוֹקֵ֣שׁ|lemma="מוֹקֵשׁ" strong="H4170" x-morph="He,Ncmsa" \w*
 \w רָ֑ע|lemma="רַע" strong="H7451a" x-morph="He,Aamsa" \w*
-\w וַ⁠יֵּצֵ֖א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vqw3ms" \w*
+\w וַ⁠יֵּצֵ֖א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vqw3ms" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w מִ⁠צָּרָ֣ה|lemma="צָרָה" strong="m:H6869b" x-morph="He,R:Ncfsa" \w*
-\w צַדִּֽיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*׃
+\w צַדִּֽיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*׃
 
 \v 14
 \w מִ⁠פְּרִ֣י|lemma="פְּרִי" strong="m:H6529" x-morph="He,R:Ncmsc" \w*
@@ -3163,11 +3163,11 @@
 
 \v 20
 \w מִ֭רְמָה|lemma="מִרְמָה" strong="H4820" x-morph="He,Ncfsa" \w*
-\w בְּ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" \w*־
+\w בְּ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/other/heart" \w*־
 \w חֹ֣רְשֵׁי|lemma="חָרַשׁ" strong="H2790a" x-morph="He,Vqrmpc" \w*
 \w רָ֑ע|lemma="רַע" strong="H7451b" x-morph="He,Aamsa" \w*
 \w וּֽ⁠לְ⁠יֹעֲצֵ֖י|lemma="יָעַץ" strong="c:l:H3289" x-morph="He,C:R:Vqrmpc" \w*
-\w שָׁל֣וֹם|lemma="שָׁלוֹם" strong="H7965" x-morph="He,Ncmsa" \w*
+\w שָׁל֣וֹם|lemma="שָׁלוֹם" strong="H7965" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/peace" \w*
 \w שִׂמְחָֽה|lemma="שִׂמְחָה" strong="H8057" x-morph="He,Ncfsa" \w*׃
 
 \v 21
@@ -3209,17 +3209,17 @@
 
 \v 25
 \w דְּאָגָ֣ה|lemma="דְּאָגָה" strong="H1674" x-morph="He,Ncfsa" \w*
-\w בְ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" \w*־
+\w בְ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/other/heart" \w*־
 \w אִ֣ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
 \w יַשְׁחֶ֑⁠נָּה|lemma="שָׁחָה" strong="H7812" x-morph="He,Vhi3ms:Sp3fs" \w*
 \w וְ⁠דָבָ֖ר|lemma="דָּבָר" strong="c:H1697" x-morph="He,C:Ncmsa" \w*
 \w ט֣וֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
-\w יְשַׂמְּחֶֽ⁠נָּה|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms:Sp3fs" \w*׃
+\w יְשַׂמְּחֶֽ⁠נָּה|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms:Sp3fs" x-tw="rc://*/tw/dict/bible/other/joy" \w*׃
 
 \v 26
 \w יָתֵ֣ר|lemma="תּוּר" strong="H8446" x-morph="He,Vhi3ms" \w*
 \w מֵ⁠רֵעֵ֣⁠הוּ|lemma="רֵעַ" strong="m:H7453" x-morph="He,R:Ncmsc:Sp3ms" \w*
-\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w וְ⁠דֶ֖רֶךְ|lemma="דֶּרֶךְ" strong="c:H1870" x-morph="He,C:Ncbsc" \w*
 \w רְשָׁעִ֣ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
 \w תַּתְעֵֽ⁠ם|lemma="תָּעָה" strong="H8582" x-morph="He,Vhi3fs:Sp3mp" \w*׃
@@ -3286,10 +3286,10 @@
 \w תְּדֻשָּֽׁן|lemma="דָּשֵׁן" strong="H1878" x-morph="He,VPi3fs" \w*׃
 
 \v 5
-\w דְּבַר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsc" \w*־
+\w דְּבַר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/word" \w*־
 \w שֶׁ֭קֶר|lemma="שֶׁקֶר" strong="H8267" x-morph="He,Ncmsa" \w*
 \w יִשְׂנָ֣א|lemma="שָׂנֵא" strong="H8130" x-morph="He,Vqi3ms" \w*
-\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w וְ֝⁠רָשָׁ֗ע|lemma="רָשָׁע" strong="c:H7563" x-morph="He,C:Aamsa" \w*
 \w יַבְאִ֥ישׁ|lemma="בָּאַשׁ" strong="H0887" x-morph="He,Vhi3ms" \w*
 \w וְ⁠יַחְפִּֽיר|lemma="חָפֵר" strong="c:H2659" x-morph="He,C:Vhi3ms" \w*׃
@@ -3301,7 +3301,7 @@
 \w דָּ֑רֶךְ|lemma="דֶּרֶךְ" strong="H1870" x-morph="He,Ncbsa" \w*
 \w וְ֝⁠רִשְׁעָ֗ה|lemma="רִשְׁעָה" strong="c:H7564" x-morph="He,C:Ncfsa" \w*
 \w תְּסַלֵּ֥ף|lemma="סָלַף" strong="H5557" x-morph="He,Vpi3fs" \w*
-\w חַטָּֽאת|lemma="חַטָּאָה" strong="H2403b" x-morph="He,Ncfsa" \w*׃
+\w חַטָּֽאת|lemma="חַטָּאָה" strong="H2403b" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/sacrifice" \w*׃
 
 \v 7
 \w יֵ֣שׁ|lemma="יֵשׁ" strong="H3426" x-morph="He,Tm" \w*
@@ -3324,8 +3324,8 @@
 
 \v 9
 \w אוֹר|lemma="אוֹר" strong="H0216" x-morph="He,Ncbsc" \w*־
-\w צַדִּיקִ֥ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
-\w יִשְׂמָ֑ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqi3ms" \w*
+\w צַדִּיקִ֥ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
+\w יִשְׂמָ֑ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*
 \w וְ⁠נֵ֖ר|lemma="נִיר" strong="c:H5216a" x-morph="He,C:Ncmsc" \w*
 \w רְשָׁעִ֣ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
 \w יִדְעָֽךְ|lemma="דָּעַךְ" strong="H1846" x-morph="He,Vqi3ms" \w*׃
@@ -3336,7 +3336,7 @@
 \w יִתֵּ֣ן|lemma="נָתַן" strong="H5414" x-morph="He,Vqi3ms" \w*
 \w מַצָּ֑ה|lemma="מַצָּה" strong="H4683" x-morph="He,Ncfsa" \w*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0854" x-morph="He,C:R" \w*־
-\w נ֖וֹעָצִ֣ים|lemma="יָעַץ" strong="H3289" x-morph="He,VNrmpa" \w*
+\w נ֖וֹעָצִ֣ים|lemma="יָעַץ" strong="H3289" x-morph="He,VNrmpa" x-tw="rc://*/tw/dict/bible/other/counselor" \w*
 \w חָכְמָֽה|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsa" \w*׃
 
 \v 11
@@ -3364,7 +3364,7 @@
 \w יֵחָ֣בֶל|lemma="חָבַל" strong="H2254b" x-morph="He,VNi3ms" \w*
 \w ל֑⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms" \w*
 \w וִ⁠ירֵ֥א|lemma="יָרֵא" strong="c:H3373" x-morph="He,C:Aamsc" \w*
-\w מִ֝צְוָ֗ה|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfsa" \w*
+\w מִ֝צְוָ֗ה|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w ה֣וּא|lemma="הוּא" strong="H1931" x-morph="He,Pp3ms" \w*
 \w יְשֻׁלָּֽם|lemma="שָׁלַם" strong="H7999a" x-morph="He,VPi3ms" \w*׃
 
@@ -3378,7 +3378,7 @@
 \w מָֽוֶת|lemma="מָוֶת" strong="H4194" x-morph="He,Ncmsa" \w*׃
 
 \v 15
-\w שֵֽׂכֶל|lemma="שֶׂכֶל" strong="H7922" x-morph="He,Ncmsa" \w*־
+\w שֵֽׂכֶל|lemma="שֶׂכֶל" strong="H7922" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*־
 \w ט֭וֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
 \w יִתֶּן|lemma="נָתַן" strong="H5414" x-morph="He,Vqi3ms" \w*־
 \w חֵ֑ן|lemma="חֵן" strong="H2580" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/favor" \w*
@@ -3437,7 +3437,7 @@
 \w תְּרַדֵּ֣ף|lemma="רָדַף" strong="H7291" x-morph="He,Vpi3fs" \w*
 \w רָעָ֑ה|lemma="רַע" strong="H7451c" x-morph="He,Ncfsa" \w*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To" \w*־
-\w צַ֝דִּיקִ֗ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַ֝דִּיקִ֗ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יְשַׁלֶּם|lemma="שָׁלַם" strong="H7999a" x-morph="He,Vpi3ms" \w*־
 \w טֽוֹב|lemma="טוֹב" strong="H2896b" x-morph="He,Aamsa" \w*׃
 
@@ -3462,7 +3462,7 @@
 \w מִשְׁפָּֽט|lemma="מִשְׁפָּט" strong="H4941" x-morph="He,Ncmsa" \w*׃
 
 \v 24
-\w חוֹשֵׂ֣ךְ|lemma="חָשַׂךְ" strong="H2820" x-morph="He,Vqrmsa" \w*
+\w חוֹשֵׂ֣ךְ|lemma="חָשַׂךְ" strong="H2820" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/other/punish" \w*
 \w שִׁ֭בְט⁠וֹ|lemma="שֵׁבֶט" strong="H7626" x-morph="He,Ncmsc:Sp3ms" \w*
 \w שׂוֹנֵ֣א|lemma="שָׂנֵא" strong="H8130" x-morph="He,Vqrmsa" \w*
 \w בְנ֑⁠וֹ|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/son" \w*
@@ -3471,7 +3471,7 @@
 \w מוּסָֽר|lemma="מוּסָר" strong="H4148" x-morph="He,Ncmsa" \w*׃
 
 \v 25
-\w צַדִּ֗יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֗יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w אֹ֭כֵל|lemma="אָכַל" strong="H0398" x-morph="He,Vqrmsa" \w*
 \w לְ⁠שֹׂ֣בַע|lemma="שֹׂבַע" strong="l:H7648" x-morph="He,R:Ncmsc" \w*
 \w נַפְשׁ֑⁠וֹ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/life" \w*
@@ -3488,7 +3488,7 @@
 \w בָּנְתָ֣ה|lemma="בָּנָה" strong="H1129" x-morph="He,Vqp3fs" \w*
 \w בֵיתָ֑⁠הּ|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/house" \w*
 \w וְ֝⁠אִוֶּ֗לֶת|lemma="אִוֶּלֶת" strong="c:H0200" x-morph="He,C:Ncfsa" \w*
-\w בְּ⁠יָדֶ֥י⁠הָ|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbdc:Sp3fs" \w*
+\w בְּ⁠יָדֶ֥י⁠הָ|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbdc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w תֶהֶרְסֶֽ⁠נּוּ|lemma="הָרַס" strong="H2040" x-morph="He,Vqi3fs:Sp3ms" \w*׃
 
 \v 2
@@ -3530,7 +3530,7 @@
 \w שָֽׁקֶר|lemma="שֶׁקֶר" strong="H8267" x-morph="He,Ncmsa" \w*׃
 
 \v 6
-\w בִּקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpp3ms" \w*־
+\w בִּקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpp3ms" x-tw="rc://*/tw/dict/bible/other/seek" \w*־
 \w לֵ֣ץ|lemma="לוּץ" strong="H3887" x-morph="He,Aamsa" \w*
 \w חָכְמָ֣ה|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsa" \w*
 \w וָ⁠אָ֑יִן|lemma="אַיִן" strong="c:H0369" x-morph="He,C:Tn" \w*
@@ -3551,7 +3551,7 @@
 \v 8
 \w חָכְמַ֣ת|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsc" \w*
 \w עָ֭רוּם|lemma="עָרוּם" strong="H6175" x-morph="He,Aamsa" \w*
-\w הָבִ֣ין|lemma="בִּין" strong="H0995" x-morph="He,Vhc" \w*
+\w הָבִ֣ין|lemma="בִּין" strong="H0995" x-morph="He,Vhc" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w דַּרְכּ֑⁠וֹ|lemma="דֶּרֶךְ" strong="H1870" x-morph="He,Ncbsc:Sp3ms" \w*
 \w וְ⁠אִוֶּ֖לֶת|lemma="אִוֶּלֶת" strong="c:H0200" x-morph="He,C:Ncfsc" \w*
 \w כְּסִילִ֣ים|lemma="כְּסִיל" strong="H3684" x-morph="He,Aampa" \w*
@@ -3615,9 +3615,9 @@
 \w פֶּ֭תִי|lemma="פְּתִי" strong="H6612a" x-morph="He,Ncmsa" \w*
 \w יַאֲמִ֣ין|lemma="אָמַן" strong="H0539" x-morph="He,Vhi3ms" \w*
 \w לְ⁠כָל|lemma="כֹּל" strong="l:H3605" x-morph="He,R:Ncmsc" \w*־
-\w דָּבָ֑ר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" \w*
+\w דָּבָ֑ר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w וְ֝⁠עָר֗וּם|lemma="עָרוּם" strong="c:H6175" x-morph="He,C:Aamsa" \w*
-\w יָבִ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" \w*
+\w יָבִ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w לַ⁠אֲשֻׁרֽ⁠וֹ|lemma="אָשֻׁר" strong="l:H0838a" x-morph="He,R:Ncfsc:Sp3ms" \w*׃
 
 \v 16
@@ -3654,7 +3654,7 @@
 \w וּ֝⁠רְשָׁעִ֗ים|lemma="רָשָׁע" strong="c:H7563" x-morph="He,C:Aampa" \w*
 \w עַֽל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
 \w שַׁעֲרֵ֥י|lemma="שַׁעַר" strong="H8179" x-morph="He,Ncmpc" \w*
-\w צַדִּֽיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*׃
+\w צַדִּֽיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*׃
 
 \v 20
 \w גַּם|lemma="גַּם" strong="H1571" x-morph="He,Ta" \w*־
@@ -3715,7 +3715,7 @@
 \w יְ֭הוָה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w מִבְטַח|lemma="מִבְטָח" strong="H4009" x-morph="He,Ncmsc" \w*־
 \w עֹ֑ז|lemma="עֹז" strong="H5797" x-morph="He,Ncmsa" \w*
-\w וּ֝⁠לְ⁠בָנָ֗י⁠ו|lemma="בֵּן" strong="c:l:H1121a" x-morph="He,C:R:Ncmpc:Sp3ms" \w*
+\w וּ֝⁠לְ⁠בָנָ֗י⁠ו|lemma="בֵּן" strong="c:l:H1121a" x-morph="He,C:R:Ncmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/son" \w*
 \w יִהְיֶ֥ה|lemma="הָיָה" strong="H1961" x-morph="He,Vqi3ms" \w*
 \w מַחְסֶֽה|lemma="מַחֲסֶה" strong="H4268" x-morph="He,Ncmsa" \w*׃
 
@@ -3732,7 +3732,7 @@
 \w בְּ⁠רָב|lemma="רֹב" strong="b:H7230" x-morph="He,R:Ncbsc" \w*־
 \w עָ֥ם|lemma="עַם" strong="H5971a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
 \w הַדְרַת|lemma="הֲדָרָה" strong="H1927" x-morph="He,Ncfsc" \w*־
-\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w וּ⁠בְ⁠אֶ֥פֶס|lemma="אֶפֶס" strong="c:b:H0657a" x-morph="He,C:R:Ncmsc" \w*
 \w לְ֝אֹ֗ם|lemma="לְאֹם" strong="H3816" x-morph="He,Ncmsa" \w*
 \w מְחִתַּ֥ת|lemma="מְחִתָּה" strong="H4288" x-morph="He,Ncfsc" \w*
@@ -3744,7 +3744,7 @@
 \w רַב|lemma="רַב" strong="H7227a" x-morph="He,Aamsc" \w*־
 \w תְּבוּנָ֑ה|lemma="תָּבוּן" strong="H8394" x-morph="He,Ncfsa" \w*
 \w וּ⁠קְצַר|lemma="קָצֵר" strong="c:H7116" x-morph="He,C:Aamsc" \w*־
-\w ר֝֗וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" \w*
+\w ר֝֗וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w מֵרִ֥ים|lemma="רוּם" strong="H7311a" x-morph="He,Vhrmsa" \w*
 \w אִוֶּֽלֶת|lemma="אִוֶּלֶת" strong="H0200" x-morph="He,Ncfsa" \w*׃
 
@@ -3772,11 +3772,11 @@
 \w רָשָׁ֑ע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*
 \w וְ⁠חֹסֶ֖ה|lemma="חָסָה" strong="c:H2620" x-morph="He,C:Vqrmsa" \w*
 \w בְ⁠מוֹת֣⁠וֹ|lemma="מָוֶת" strong="b:H4194" x-morph="He,R:Ncmsc:Sp3ms" \w*
-\w צַדִּֽיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*׃
+\w צַדִּֽיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*׃
 
 \v 33
-\w בְּ⁠לֵ֣ב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsa" \w*
-\w נָ֭בוֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" \w*
+\w בְּ⁠לֵ֣ב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsa" x-tw="rc://*/tw/dict/bible/other/heart" \w*
+\w נָ֭בוֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w תָּנ֣וּחַ|lemma="נוּחַ" strong="H5117" x-morph="He,Vqi3fs" \w*
 \w חָכְמָ֑ה|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsa" \w*
 \w וּ⁠בְ⁠קֶ֥רֶב|lemma="קֶרֶב" strong="c:b:H7130" x-morph="He,C:R:Ncmsc" \w*
@@ -3786,19 +3786,19 @@
 \v 34
 \w צְדָקָ֥ה|lemma="צְדָקָה" strong="H6666" x-morph="He,Ncfsa" \w*
 \w תְרֽוֹמֵֽם|lemma="רוּם" strong="H7311a" x-morph="He,Voi3fs" \w*־
-\w גּ֑וֹי|lemma="גּוֹי" strong="H1471a" x-morph="He,Ncmsa" \w*
+\w גּ֑וֹי|lemma="גּוֹי" strong="H1471a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/nation" \w*
 \w וְ⁠חֶ֖סֶד|lemma="חֶסֶד" strong="c:H2617b" x-morph="He,C:Ncmsc" \w*
 \w לְאֻמִּ֣ים|lemma="לְאֹם" strong="H3816" x-morph="He,Ncmpa" \w*
-\w חַטָּֽאת|lemma="חַטָּאָה" strong="H2403b" x-morph="He,Ncfsa" \w*׃
+\w חַטָּֽאת|lemma="חַטָּאָה" strong="H2403b" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/sacrifice" \w*׃
 
 \v 35
 \w רְֽצוֹן|lemma="רָצוֹן" strong="H7522" x-morph="He,Ncmsc" \w*־
-\w מֶ֭לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֭לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w לְ⁠עֶ֣בֶד|lemma="עֶבֶד" strong="l:H5650" x-morph="He,R:Ncmsa" \w*
 \w מַשְׂכִּ֑יל|lemma="שָׂכַל" strong="H7919a" x-morph="He,Vhrmsa" \w*
 \w וְ֝⁠עֶבְרָת֗⁠וֹ|lemma="עֶבְרָה" strong="c:H5678" x-morph="He,C:Ncfsc:Sp3ms" \w*
 \w תִּהְיֶ֥ה|lemma="הָיָה" strong="H1961" x-morph="He,Vqi3fs" \w*
-\w מֵבִֽישׁ|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrmsa" \w*׃
+\w מֵבִֽישׁ|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*׃
 
 \c 15
 \p
@@ -3853,7 +3853,7 @@
 
 \v 6
 \w בֵּ֣ית|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/house" \w*
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w חֹ֣סֶן|lemma="חֹסֶן" strong="H2633" x-morph="He,Ncmsa" \w*
 \w רָ֑ב|lemma="רַב" strong="H7227a" x-morph="He,Aamsa" \w*
 \w וּ⁠בִ⁠תְבוּאַ֖ת|lemma="תְּבוּאָה" strong="c:b:H8393" x-morph="He,C:R:Ncfsc" \w*
@@ -3923,16 +3923,16 @@
 \w לֵ֣ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w שָׂ֭מֵחַ|lemma="שָׂמֵחַ" strong="H8056" x-morph="He,Aamsa" \w*
 \w יֵיטִ֣ב|lemma="יָטַב" strong="H3190" x-morph="He,Vhi3ms" \w*
-\w פָּנִ֑ים|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpa" \w*
+\w פָּנִ֑ים|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpa" x-tw="rc://*/tw/dict/bible/other/face" \w*
 \w וּ⁠בְ⁠עַצְּבַת|lemma="עַצֶּבֶת" strong="c:b:H6094" x-morph="He,C:R:Ncfsc" \w*־
 \w לֵ֝ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
-\w ר֣וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" \w*
+\w ר֣וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w נְכֵאָֽה|lemma="נָכֵא" strong="H5218b" x-morph="He,Aafsa" \w*׃
 
 \v 14
 \w לֵ֣ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
-\w נָ֭בוֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" \w*
-\w יְבַקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3ms" \w*־
+\w נָ֭בוֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*
+\w יְבַקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3ms" x-tw="rc://*/tw/dict/bible/other/seek" \w*־
 \w דָּ֑עַת|lemma="דַּעַת" strong="H1847" x-morph="He,Ncfsa" \w*
 \w ו⁠פני|lemma="פָּנִים" strong="c:H6440" x-morph="He,C:Ncbpc" \w*
 \w כְ֝סִילִ֗ים|lemma="כְּסִיל" strong="H3684" x-morph="He,Aampa" \w*
@@ -3992,7 +3992,7 @@
 \v 20
 \w בֵּ֣ן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/son" \w*
 \w חָ֭כָם|lemma="חָכָם" strong="H2450" x-morph="He,Aamsa" \w*
-\w יְשַׂמַּח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms" \w*־
+\w יְשַׂמַּח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*־
 \w אָ֑ב|lemma="אָב" strong="H0001" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/father" \w*
 \w וּ⁠כְסִ֥יל|lemma="כְּסִיל" strong="c:H3684" x-morph="He,C:Aamsa" \w*
 \w אָ֝דָ֗ם|lemma="אָדָם" strong="H0120" x-morph="He,Ncmsa" \w*
@@ -4015,7 +4015,7 @@
 \w בְּ⁠אֵ֣ין|lemma="אַיִן" strong="b:H0369" x-morph="He,R:Tn" \w*
 \w ס֑וֹד|lemma="סוֹד" strong="H5475" x-morph="He,Ncmsa" \w*
 \w וּ⁠בְ⁠רֹ֖ב|lemma="רֹב" strong="c:b:H7230" x-morph="He,C:R:Ncbsc" \w*
-\w יוֹעֲצִ֣ים|lemma="יָעַץ" strong="H3289" x-morph="He,Vqrmpa" \w*
+\w יוֹעֲצִ֣ים|lemma="יָעַץ" strong="H3289" x-morph="He,Vqrmpa" x-tw="rc://*/tw/dict/bible/other/counselor" \w*
 \w תָּקֽוּם|lemma="קוּם" strong="H6965b" x-morph="He,Vqi3fs" \w*׃
 
 \v 23
@@ -4067,7 +4067,7 @@
 
 \v 28
 \w לֵ֣ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יֶהְגֶּ֣ה|lemma="הָגָה" strong="H1897" x-morph="He,Vqi3ms" \w*
 \w לַ⁠עֲנ֑וֹת|lemma="עָנָה" strong="l:H6030b" x-morph="He,R:Vqc" \w*
 \w וּ⁠פִ֥י|lemma="פֶּה" strong="c:H6310" x-morph="He,C:Ncmsc" \w*
@@ -4080,13 +4080,13 @@
 \w יְ֭הוָה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w מֵ⁠רְשָׁעִ֑ים|lemma="רָשָׁע" strong="m:H7563" x-morph="He,R:Aampa" \w*
 \w וּ⁠תְפִלַּ֖ת|lemma="תְּפִלָּה" strong="c:H8605" x-morph="He,C:Ncfsc" \w*
-\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַדִּיקִ֣ים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יִשְׁמָֽע|lemma="שָׁמַע" strong="H8085" x-morph="He,Vqi3ms" \w*׃
 
 \v 30
 \w מְֽאוֹר|lemma="מָאוֹר" strong="H3974" x-morph="He,Ncmsc" \w*־
 \w עֵ֭ינַיִם|lemma="עַיִן" strong="H5869a" x-morph="He,Ncbda" \w*
-\w יְשַׂמַּֽח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms" \w*־
+\w יְשַׂמַּֽח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*־
 \w לֵ֑ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w שְׁמוּעָ֥ה|lemma="שְׁמוּעָה" strong="H8052" x-morph="He,Ncfsa" \w*
 \w ט֝וֹבָ֗ה|lemma="טוֹב" strong="H2896a" x-morph="He,Aafsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
@@ -4139,7 +4139,7 @@
 \w זַ֣ךְ|lemma="זַךְ" strong="H2134" x-morph="He,Aamsa" \w*
 \w בְּ⁠עֵינָ֑י⁠ו|lemma="עַיִן" strong="b:H5869a" x-morph="He,R:Ncbdc:Sp3ms" \w*
 \w וְ⁠תֹכֵ֖ן|lemma="תָּכַן" strong="c:H8505" x-morph="He,C:Vqrmsa" \w*
-\w רוּח֣וֹת|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbpa" \w*
+\w רוּח֣וֹת|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbpa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w יְהוָֽה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*׃
 
 \v 3
@@ -4175,7 +4175,7 @@
 \w בְּ⁠חֶ֣סֶד|lemma="חֶסֶד" strong="b:H2617a" x-morph="He,R:Ncmsa" \w*
 \w וֶ֭⁠אֱמֶת|lemma="אֶמֶת" strong="c:H0571" x-morph="He,C:Ncfsa" \w*
 \w יְכֻפַּ֣ר|lemma="כָּפַר" strong="H3722a" x-morph="He,VPi3ms" \w*
-\w עָוֺ֑ן|lemma="עָוֺן" strong="H5771" x-morph="He,Ncbsa" \w*
+\w עָוֺ֑ן|lemma="עָוֺן" strong="H5771" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/iniquity" \w*
 \w וּ⁠בְ⁠יִרְאַ֥ת|lemma="יִרְאָה" strong="c:b:H3374" x-morph="He,C:R:Ncfsc" \w*
 \w יְ֝הוָ֗ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w ס֣וּר|lemma="סוּר" strong="H5493" x-morph="He,Vqc" \w*
@@ -4213,10 +4213,10 @@
 \w קֶ֤סֶם|lemma="קֶסֶם" strong="H7081" x-morph="He,Ncmsa" \w*׀
 \w עַֽל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
 \w שִׂפְתֵי|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfdc" \w*־
-\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w בְּ֝⁠מִשְׁפָּ֗ט|lemma="מִשְׁפָּט" strong="b:H4941" x-morph="He,R:Ncmsa" \w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
-\w יִמְעַל|lemma="מָעַל" strong="H4603" x-morph="He,Vqi3ms" \w*־
+\w יִמְעַל|lemma="מָעַל" strong="H4603" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/kt/trespass" \w*־
 \w פִּֽי⁠ו|lemma="פֶּה" strong="H6310" x-morph="He,Ncmsc:Sp3ms" \w*׃
 
 \v 11
@@ -4231,7 +4231,7 @@
 
 \v 12
 \w תּוֹעֲבַ֣ת|lemma="תּוֹעֵבַה" strong="H8441" x-morph="He,Ncfsc" \w*
-\w מְ֭לָכִים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" \w*
+\w מְ֭לָכִים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w עֲשׂ֣וֹת|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqc" \w*
 \w רֶ֑שַׁע|lemma="רֶשַׁע" strong="H7562" x-morph="He,Ncmsa" \w*
 \w כִּ֥י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
@@ -4241,7 +4241,7 @@
 
 \v 13
 \w רְצ֣וֹן|lemma="רָצוֹן" strong="H7522" x-morph="He,Ncmsc" \w*
-\w מְ֭לָכִים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" \w*
+\w מְ֭לָכִים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w שִׂפְתֵי|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfdc" \w*־
 \w צֶ֑דֶק|lemma="צֶדֶק" strong="H6664" x-morph="He,Ncmsa" \w*
 \w וְ⁠דֹבֵ֖ר|lemma="דָבַר" strong="c:H1696" x-morph="He,C:Vqrmsa" \w*
@@ -4250,7 +4250,7 @@
 
 \v 14
 \w חֲמַת|lemma="חֵמָה" strong="H2534" x-morph="He,Ncfsc" \w*־
-\w מֶ֥לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֥לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w מַלְאֲכֵי|lemma="מַלְאָךְ" strong="H4397" x-morph="He,Ncmpc" \w*־
 \w מָ֑וֶת|lemma="מָוֶת" strong="H4194" x-morph="He,Ncmsa" \w*
 \w וְ⁠אִ֖ישׁ|lemma="אִישׁ" strong="c:H0376" x-morph="He,C:Ncmsa" \w*
@@ -4259,8 +4259,8 @@
 
 \v 15
 \w בְּ⁠אוֹר|lemma="אוֹר" strong="b:H0216" x-morph="He,R:Ncbsc" \w*־
-\w פְּנֵי|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" \w*־
-\w מֶ֥לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w פְּנֵי|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" x-tw="rc://*/tw/dict/bible/other/face" \w*־
+\w מֶ֥לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w חַיִּ֑ים|lemma="חַי" strong="H2416e" x-morph="He,Ncmpa" \w*
 \w וּ֝⁠רְצוֹנ֗⁠וֹ|lemma="רָצוֹן" strong="c:H7522" x-morph="He,C:Ncmsc:Sp3ms" \w*
 \w כְּ⁠עָ֣ב|lemma="עָב" strong="k:H5645" x-morph="He,R:Ncbsc" \w*
@@ -4294,12 +4294,12 @@
 \w וְ⁠לִ⁠פְנֵ֥י|lemma="פָּנִים" strong="c:l:H6440" x-morph="He,C:R:Ncbpc" \w*
 \w כִ֝שָּׁל֗וֹן|lemma="כִּשָּׁלוֹן" strong="H3783" x-morph="He,Ncmsa" \w*
 \w גֹּ֣בַהּ|lemma="גֹּבַהּ" strong="H1363" x-morph="He,Ncmsc" \w*
-\w רֽוּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" \w*׃
+\w רֽוּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*׃
 
 \v 19
 \w ט֣וֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
 \w שְׁפַל|lemma="שָׁפָל" strong="H8217" x-morph="He,Vqc" \w*־
-\w ר֭וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" \w*
+\w ר֭וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w אֶת|lemma="אֵת" strong="H0854" x-morph="He,R" \w*־
 \w עניים|lemma="עָנִי" strong="H6041" x-morph="He,Aampa" \w*
 \w מֵֽ⁠חַלֵּ֥ק|lemma="חָלַק" strong="m:H2505a" x-morph="He,R:Vpc" \w*
@@ -4310,7 +4310,7 @@
 \v 20
 \w מַשְׂכִּ֣יל|lemma="שָׂכַל" strong="H7919a" x-morph="He,Vhrmsa" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
-\w דָּ֭בָר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" \w*
+\w דָּ֭בָר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w יִמְצָא|lemma="מָצָא" strong="H4672" x-morph="He,Vqi3ms" \w*־
 \w ט֑וֹב|lemma="טוֹב" strong="H2896b" x-morph="He,Aamsa" \w*
 \w וּ⁠בוֹטֵ֖חַ|lemma="בָּטַח" strong="c:H0982" x-morph="He,C:Vqrmsa" \w*
@@ -4321,7 +4321,7 @@
 \w לַ⁠חֲכַם|lemma="חָכָם" strong="l:H2450" x-morph="He,R:Aamsc" \w*־
 \w לֵ֭ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w יִקָּרֵ֣א|lemma="קָרָא" strong="H7121" x-morph="He,VNi3ms" \w*
-\w נָב֑וֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" \w*
+\w נָב֑וֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w וּ⁠מֶ֥תֶק|lemma="מֶתֶק" strong="c:H4986" x-morph="He,C:Ncmsc" \w*
 \w שְׂ֝פָתַ֗יִם|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfda" \w*
 \w יֹסִ֥יף|lemma="יָסַף" strong="H3254" x-morph="He,Vhi3ms" \w*
@@ -4330,7 +4330,7 @@
 \v 22
 \w מְק֣וֹר|lemma="מָקוֹר" strong="H4726" x-morph="He,Ncmsc" \w*
 \w חַ֭יִּים|lemma="חַי" strong="H2416e" x-morph="He,Ncmpa" \w*
-\w שֵׂ֣כֶל|lemma="שֶׂכֶל" strong="H7922" x-morph="He,Ncmsc" \w*
+\w שֵׂ֣כֶל|lemma="שֶׂכֶל" strong="H7922" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w בְּעָלָ֑י⁠ו|lemma="בַּעַל" strong="H1167" x-morph="He,Ncmpc:Sp3ms" \w*
 \w וּ⁠מוּסַ֖ר|lemma="מוּסָר" strong="c:H4148" x-morph="He,C:Ncmsc" \w*
 \w אֱוִלִ֣ים|lemma="אֱוִיל" strong="H0191" x-morph="He,Aampa" \w*
@@ -4412,7 +4412,7 @@
 \w תַּהְפֻּכ֑וֹת|lemma="תַּהְפֻּכָה" strong="H8419" x-morph="He,Ncfpa" \w*
 \w קֹרֵ֥ץ|lemma="קָרַץ" strong="H7169" x-morph="He,Vqrmsa" \w*
 \w שְׂ֝פָתָ֗י⁠ו|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfdc:Sp3ms" \w*
-\w כִּלָּ֥ה|lemma="כָּלָה" strong="H3615" x-morph="He,Vpp3ms" \w*
+\w כִּלָּ֥ה|lemma="כָּלָה" strong="H3615" x-morph="He,Vpp3ms" x-tw="rc://*/tw/dict/bible/other/consume" \w*
 \w רָעָֽה|lemma="רַע" strong="H7451c" x-morph="He,Ncfsa" \w*׃
 
 \v 31
@@ -4457,11 +4457,11 @@
 \w רִֽיב|lemma="רִיב" strong="H7379" x-morph="He,Ncbsa" \w*׃
 
 \v 2
-\w עֶֽבֶד|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsa" \w*־
+\w עֶֽבֶד|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/servant" \w*־
 \w מַשְׂכִּ֗יל|lemma="שָׂכַל" strong="H7919a" x-morph="He,Vhrmsa" \w*
 \w יִ֭מְשֹׁל|lemma="מָשַׁל" strong="H4910" x-morph="He,Vqi3ms" \w*
 \w בְּ⁠בֵ֣ן|lemma="בֵּן" strong="b:H1121a" x-morph="He,R:Ncmsa" \w*
-\w מֵבִ֑ישׁ|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrmsa" \w*
+\w מֵבִ֑ישׁ|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w וּ⁠בְ⁠ת֥וֹךְ|lemma="תָּוֶךְ" strong="c:b:H8432" x-morph="He,C:R:Ncmsc" \w*
 \w אַ֝חִ֗ים|lemma="אָח" strong="H0251" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/brother" \w*
 \w יַחֲלֹ֥ק|lemma="חָלַק" strong="H2505a" x-morph="He,Vqi3ms" \w*
@@ -4471,7 +4471,7 @@
 \w מַצְרֵ֣ף|lemma="מִצְרֵף" strong="H4715" x-morph="He,Ncmsa" \w*
 \w לַ֭⁠כֶּסֶף|lemma="כֶּסֶף" strong="l:H3701" x-morph="He,Rd:Ncmsa" \w*
 \w וְ⁠כ֣וּר|lemma="כּוּר" strong="c:H3564" x-morph="He,C:Ncmsa" \w*
-\w לַ⁠זָּהָ֑ב|lemma="זָהָב" strong="l:H2091" x-morph="He,Rd:Ncmsa" \w*
+\w לַ⁠זָּהָ֑ב|lemma="זָהָב" strong="l:H2091" x-morph="He,Rd:Ncmsa" x-tw="rc://*/tw/dict/bible/other/gold" \w*
 \w וּ⁠בֹחֵ֖ן|lemma="בָּחַן" strong="c:H0974" x-morph="He,C:Vqrmsa" \w*
 \w לִבּ֣וֹת|lemma="לִבָּה" strong="H3826" x-morph="He,Ncfpa" \w*
 \w יְהוָֽה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*׃
@@ -4534,10 +4534,10 @@
 \v 9
 \w מְֽכַסֶּה|lemma="כָּסָה" strong="H3680" x-morph="He,Vprmsa" \w*־
 \w פֶּ֭שַׁע|lemma="פֶּשַׁע" strong="H6588" x-morph="He,Ncmsa" \w*
-\w מְבַקֵּ֣שׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vprmsa" \w*
+\w מְבַקֵּ֣שׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vprmsa" x-tw="rc://*/tw/dict/bible/other/seek" \w*
 \w אַהֲבָ֑ה|lemma="אַהֲבָה" strong="H0160" x-morph="He,Ncfsa" \w*
 \w וְ⁠שֹׁנֶ֥ה|lemma="שָׁנָה" strong="c:H8138b" x-morph="He,C:Vqrmsa" \w*
-\w בְ֝⁠דָבָ֗ר|lemma="דָּבָר" strong="b:H1697" x-morph="He,R:Ncmsa" \w*
+\w בְ֝⁠דָבָ֗ר|lemma="דָּבָר" strong="b:H1697" x-morph="He,R:Ncmsa" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w מַפְרִ֥יד|lemma="פָּרַד" strong="H6504" x-morph="He,Vhrmsa" \w*
 \w אַלּֽוּף|lemma="אַלּוּף" strong="H0441a" x-morph="He,Aamsa" \w*׃
 
@@ -4552,7 +4552,7 @@
 \v 11
 \w אַךְ|lemma="אַךְ" strong="H0389" x-morph="He,Ta" \w*־
 \w מְרִ֥י|lemma="מְרִי" strong="H4805" x-morph="He,Ncmsa" \w*
-\w יְבַקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3ms" \w*־
+\w יְבַקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3ms" x-tw="rc://*/tw/dict/bible/other/seek" \w*־
 \w רָ֑ע|lemma="רַע" strong="H7451b" x-morph="He,Aamsa" \w*
 \w וּ⁠מַלְאָ֥ךְ|lemma="מַלְאָךְ" strong="c:H4397" x-morph="He,C:Ncmsa" \w*
 \w אַ֝כְזָרִ֗י|lemma="אַכְזָרִי" strong="H0394" x-morph="He,Aamsa" \w*
@@ -4592,7 +4592,7 @@
 \w מַצְדִּ֣יק|lemma="צָדַק" strong="H6663" x-morph="He,Vhrmsa" \w*
 \w רָ֭שָׁע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*
 \w וּ⁠מַרְשִׁ֣יעַ|lemma="רָשַׁע" strong="c:H7561" x-morph="He,C:Vhrmsa" \w*
-\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w תּוֹעֲבַ֥ת|lemma="תּוֹעֵבַה" strong="H8441" x-morph="He,Ncfsc" \w*
 \w יְ֝הוָ֗ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w גַּם|lemma="גַּם" strong="H1571" x-morph="He,Ta" \w*־
@@ -4602,7 +4602,7 @@
 \w לָ⁠מָּה|lemma="מָה" strong="l:H4100" x-morph="He,R:Ti" \w*־
 \w זֶּ֣ה|lemma="זֶה" strong="H2088" x-morph="He,Pdxms" \w*
 \w מְחִ֣יר|lemma="מְחִיר" strong="H4242" x-morph="He,Ncmsa" \w*
-\w בְּ⁠יַד|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc" \w*־
+\w בְּ⁠יַד|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc" x-tw="rc://*/tw/dict/bible/other/hand" \w*־
 \w כְּסִ֑יל|lemma="כְּסִיל" strong="H3684" x-morph="He,Aamsa" \w*
 \w לִ⁠קְנ֖וֹת|lemma="קָנָה" strong="l:H7069" x-morph="He,R:Vqc" \w*
 \w חָכְמָ֣ה|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsa" \w*
@@ -4614,7 +4614,7 @@
 \w עֵ֭ת|lemma="עֵת" strong="H6256" x-morph="He,Ncbsa" \w*
 \w אֹהֵ֣ב|lemma="אָהַב" strong="H0157" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/kt/love" \w*
 \w הָ⁠רֵ֑עַ|lemma="רֵעַ" strong="d:H7453" x-morph="He,Td:Ncmsa" \w*
-\w וְ⁠אָ֥ח|lemma="אָח" strong="c:H0251" x-morph="He,C:Ncmsa" \w*
+\w וְ⁠אָ֥ח|lemma="אָח" strong="c:H0251" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/brother" \w*
 \w לְ֝⁠צָרָ֗ה|lemma="צָרָה" strong="l:H6869b" x-morph="He,R:Ncfsa" \w*
 \w יִוָּלֵֽד|lemma="יָלַד" strong="H3205" x-morph="He,VNi3ms" \w*׃
 
@@ -4623,7 +4623,7 @@
 \w חֲסַר|lemma="חָסֵר" strong="H2638" x-morph="He,Aamsc" \w*־
 \w לֵ֭ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w תּוֹקֵ֣עַ|lemma="תָּקַע" strong="H8628" x-morph="He,Vqrmsa" \w*
-\w כָּ֑ף|lemma="כַּף" strong="H3709" x-morph="He,Ncfsa" \w*
+\w כָּ֑ף|lemma="כַּף" strong="H3709" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w עֹרֵ֥ב|lemma="עָרַב" strong="H6148" x-morph="He,Vqrmsa" \w*
 \w עֲ֝רֻבָּ֗ה|lemma="עֲרֻבָּה" strong="H6161" x-morph="He,Ncfsa" \w*
 \w לִ⁠פְנֵ֥י|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc" \w*
@@ -4636,7 +4636,7 @@
 \w מַצָּ֑ה|lemma="מַצָּה" strong="H4683" x-morph="He,Ncfsa" \w*
 \w מַגְבִּ֥יהַּ|lemma="גָּבַהּ" strong="H1361" x-morph="He,Vhrmsa" \w*
 \w פִּ֝תְח֗⁠וֹ|lemma="פֶּתַח" strong="H6607" x-morph="He,Ncmsc:Sp3ms" \w*
-\w מְבַקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vprmsa" \w*־
+\w מְבַקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vprmsa" x-tw="rc://*/tw/dict/bible/other/seek" \w*־
 \w שָֽׁבֶר|lemma="שֶׁבֶר" strong="H7667" x-morph="He,Ncmsa" \w*׃
 
 \v 20
@@ -4656,7 +4656,7 @@
 \w לְ⁠ת֣וּגָה|lemma="תּוּגָה" strong="l:H8424" x-morph="He,R:Ncfsa" \w*
 \w ל֑⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms" \w*
 \w וְ⁠לֹֽא|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn" \w*־
-\w יִ֝שְׂמַ֗ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqi3ms" \w*
+\w יִ֝שְׂמַ֗ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*
 \w אֲבִ֣י|lemma="אָב" strong="H0001" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/father" \w*
 \w נָבָֽל|lemma="נָבָל" strong="H5036" x-morph="He,Aamsa" \w*׃
 
@@ -4681,8 +4681,8 @@
 
 \v 24
 \w אֶת|lemma="אֵת" strong="H0854" x-morph="He,R" \w*־
-\w פְּנֵ֣י|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" \w*
-\w מֵבִ֣ין|lemma="בִּין" strong="H0995" x-morph="He,Vhrmsa" \w*
+\w פְּנֵ֣י|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" x-tw="rc://*/tw/dict/bible/other/face" \w*
+\w מֵבִ֣ין|lemma="בִּין" strong="H0995" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w חָכְמָ֑ה|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsa" \w*
 \w וְ⁠עֵינֵ֥י|lemma="עַיִן" strong="c:H5869a" x-morph="He,C:Ncbdc" \w*
 \w כְ֝סִ֗יל|lemma="כְּסִיל" strong="H3684" x-morph="He,Aamsa" \w*
@@ -4709,12 +4709,12 @@
 \w יֹֽשֶׁר|lemma="יֹשֶׁר" strong="H3476" x-morph="He,Ncmsa" \w*׃
 
 \v 27
-\w חוֹשֵׂ֣ךְ|lemma="חָשַׂךְ" strong="H2820" x-morph="He,Vqrmsa" \w*
+\w חוֹשֵׂ֣ךְ|lemma="חָשַׂךְ" strong="H2820" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/other/punish" \w*
 \w אֲ֭מָרָי⁠ו|lemma="אֵמֶר" strong="H0561" x-morph="He,Ncmpc:Sp3ms" \w*
 \w יוֹדֵ֣עַ|lemma="יָדַע" strong="H3045" x-morph="He,Vqrmsa" \w*
 \w דָּ֑עַת|lemma="דַּעַת" strong="H1847" x-morph="He,Ncfsa" \w*
 \w ו⁠קר|lemma="קַר" strong="c:H7119" x-morph="He,C:Aamsc" \w*־
-\w ר֝֗וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" \w*
+\w ר֝֗וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w אִ֣ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsc" \w*
 \w תְּבוּנָֽה|lemma="תָּבוּן" strong="H8394" x-morph="He,Ncfsa" \w*׃
 
@@ -4726,14 +4726,14 @@
 \w יֵחָשֵׁ֑ב|lemma="חָשַׁב" strong="H2803" x-morph="He,VNi3ms" \w*
 \w אֹטֵ֖ם|lemma="אָטַם" strong="H0331" x-morph="He,Vqrmsa" \w*
 \w שְׂפָתָ֣י⁠ו|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfdc:Sp3ms" \w*
-\w נָבֽוֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" \w*׃
+\w נָבֽוֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*׃
 
 \c 18
 \p
 
 \v 1
 \w לְֽ֭⁠תַאֲוָה|lemma="תַּאֲוָה" strong="l:H8378" x-morph="He,R:Ncfsa" \w*
-\w יְבַקֵּ֣שׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3ms" \w*
+\w יְבַקֵּ֣שׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3ms" x-tw="rc://*/tw/dict/bible/other/seek" \w*
 \w נִפְרָ֑ד|lemma="פָּרַד" strong="H6504" x-morph="He,VNrmsa" \w*
 \w בְּ⁠כָל|lemma="כֹּל" strong="b:H3605" x-morph="He,R:Ncmsc" \w*־
 \w תּ֝וּשִׁיָּ֗ה|lemma="תּוּשִׁיָּה" strong="H8454" x-morph="He,Ncfsa" \w*
@@ -4762,7 +4762,7 @@
 \v 4
 \w מַ֣יִם|lemma="מַיִם" strong="H4325" x-morph="He,Ncmpa" \w*
 \w עֲ֭מֻקִּים|lemma="עָמֹק" strong="H6013" x-morph="He,Aampa" \w*
-\w דִּבְרֵ֣י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" \w*
+\w דִּבְרֵ֣י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w פִי|lemma="פֶּה" strong="H6310" x-morph="He,Ncmsc" \w*־
 \w אִ֑ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
 \w נַ֥חַל|lemma="נַחַל" strong="H5158a" x-morph="He,Ncmsa" \w*
@@ -4772,12 +4772,12 @@
 
 \v 5
 \w שְׂאֵ֣ת|lemma="נָשָׂא" strong="H5375" x-morph="He,Vqc" \w*
-\w פְּנֵי|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" \w*־
+\w פְּנֵי|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" x-tw="rc://*/tw/dict/bible/other/face" \w*־
 \w רָשָׁ֣ע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*
 \w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־
 \w ט֑וֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
 \w לְ⁠הַטּ֥וֹת|lemma="נָטָה" strong="l:H5186" x-morph="He,R:Vhc" \w*
-\w צַ֝דִּ֗יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֝דִּ֗יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w בַּ⁠מִּשְׁפָּֽט|lemma="מִשְׁפָּט" strong="b:H4941" x-morph="He,Rd:Ncmsa" \w*׃
 
 \v 6
@@ -4799,7 +4799,7 @@
 \w נַפְשֽׁ⁠וֹ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/life" \w*׃
 
 \v 8
-\w דִּבְרֵ֣י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" \w*
+\w דִּבְרֵ֣י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w נִ֭רְגָּן|lemma="נִרְגָּן" strong="H5372" x-morph="He,VNrmsa" \w*
 \w כְּ⁠מִֽתְלַהֲמִ֑ים|lemma="לָהַם" strong="k:H3859" x-morph="He,R:Vtrmpa" \w*
 \w וְ֝⁠הֵ֗ם|lemma="הֵם" strong="c:H1992" x-morph="He,C:Pp3mp" \w*
@@ -4823,7 +4823,7 @@
 \w יְהוָ֑ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w בּֽ⁠וֹ|lemma="" strong="b" x-morph="He,R:Sp3ms" \w*־
 \w יָר֖וּץ|lemma="רוּץ" strong="H7323" x-morph="He,Vqi3ms" \w*
-\w צַדִּ֣יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֣יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w וְ⁠נִשְׂגָּֽב|lemma="שָׂגַב" strong="c:H7682" x-morph="He,C:VNq3ms" \w*׃
 
 \v 11
@@ -4847,7 +4847,7 @@
 
 \v 13
 \w מֵשִׁ֣יב|lemma="שׁוּב" strong="H7725" x-morph="He,Vhrmsa" \w*
-\w דָּ֭בָר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" \w*
+\w דָּ֭בָר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w בְּ⁠טֶ֣רֶם|lemma="טֶרֶם" strong="b:H2962" x-morph="He,R:D" \w*
 \w יִשְׁמָ֑ע|lemma="שָׁמַע" strong="H8085" x-morph="He,Vqi3ms" \w*
 \w אִוֶּ֥לֶת|lemma="אִוֶּלֶת" strong="H0200" x-morph="He,Ncfsa" \w*
@@ -4856,7 +4856,7 @@
 \w וּ⁠כְלִמָּֽה|lemma="כְּלִמָּה" strong="c:H3639" x-morph="He,C:Ncfsa" \w*׃
 
 \v 14
-\w רֽוּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsc" \w*־
+\w רֽוּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*־
 \w אִ֭ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
 \w יְכַלְכֵּ֣ל|lemma="כּוּל" strong="H3557" x-morph="He,Vli3ms" \w*
 \w מַחֲלֵ֑⁠הוּ|lemma="מַחֲלֶה" strong="H4245a" x-morph="He,Ncmsc:Sp3ms" \w*
@@ -4867,12 +4867,12 @@
 
 \v 15
 \w לֵ֣ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
-\w נָ֭בוֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" \w*
+\w נָ֭בוֹן|lemma="בִּין" strong="H0995" x-morph="He,VNrmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w יִקְנֶה|lemma="קָנָה" strong="H7069" x-morph="He,Vqi3ms" \w*־
 \w דָּ֑עַת|lemma="דַּעַת" strong="H1847" x-morph="He,Ncfsa" \w*
 \w וְ⁠אֹ֥זֶן|lemma="אֹזֶן" strong="c:H0241" x-morph="He,C:Ncfsc" \w*
 \w חֲ֝כָמִ֗ים|lemma="חָכָם" strong="H2450" x-morph="He,Aampa" \w*
-\w תְּבַקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3fs" \w*־
+\w תְּבַקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3fs" x-tw="rc://*/tw/dict/bible/other/seek" \w*־
 \w דָּֽעַת|lemma="דַּעַת" strong="H1847" x-morph="He,Ncfsa" \w*׃
 
 \v 16
@@ -4885,7 +4885,7 @@
 \w יַנְחֶֽ⁠נּוּ|lemma="נָחָה" strong="H5148" x-morph="He,Vhi3ms:Sp3ms" \w*׃
 
 \v 17
-\w צַדִּ֣יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֣יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w הָ⁠רִאשׁ֣וֹן|lemma="רִאשׁוֹן" strong="d:H7223" x-morph="He,Td:Aomsa" \w*
 \w בְּ⁠רִיב֑⁠וֹ|lemma="רִיב" strong="b:H7379" x-morph="He,R:Ncbsc:Sp3ms" \w*
 \w יבא|lemma="בּוֹא" strong="H0935" x-morph="He,Vqi3ms" \w*־
@@ -4922,7 +4922,7 @@
 \v 21
 \w מָ֣וֶת|lemma="מָוֶת" strong="H4194" x-morph="He,Ncmsa" \w*
 \w וְ֭⁠חַיִּים|lemma="חַי" strong="c:H2416e" x-morph="He,C:Ncmpa" \w*
-\w בְּ⁠יַד|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc" \w*־
+\w בְּ⁠יַד|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc" x-tw="rc://*/tw/dict/bible/other/hand" \w*־
 \w לָשׁ֑וֹן|lemma="לָשׁוֹן" strong="H3956" x-morph="He,Ncbsa" \w*
 \w וְ֝⁠אֹהֲבֶ֗י⁠הָ|lemma="אָהַב" strong="c:H0157" x-morph="He,C:Vqrmpc:Sp3fs" \w*
 \w יֹאכַ֥ל|lemma="אָכַל" strong="H0398" x-morph="He,Vqi3ms" \w*
@@ -4952,7 +4952,7 @@
 \w וְ⁠יֵ֥שׁ|lemma="יֵשׁ" strong="c:H3426" x-morph="He,C:Tm" \w*
 \w אֹ֝הֵ֗ב|lemma="אָהַב" strong="H0157" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/kt/love" \w*
 \w דָּבֵ֥ק|lemma="דָּבֵק" strong="H1695" x-morph="He,Aamsa" \w*
-\w מֵ⁠אָֽח|lemma="אָח" strong="m:H0251" x-morph="He,R:Ncmsa" \w*׃
+\w מֵ⁠אָֽח|lemma="אָח" strong="m:H0251" x-morph="He,R:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/brother" \w*׃
 
 \c 19
 \p
@@ -5010,7 +5010,7 @@
 \v 6
 \w רַ֭בִּים|lemma="רַב" strong="H7227a" x-morph="He,Aampa" \w*
 \w יְחַלּ֣וּ|lemma="חָלָה" strong="H2470b" x-morph="He,Vpi3mp" \w*
-\w פְנֵֽי|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" \w*־
+\w פְנֵֽי|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" x-tw="rc://*/tw/dict/bible/other/face" \w*־
 \w נָדִ֑יב|lemma="נָדִיב" strong="H5081" x-morph="He,Aamsa" \w*
 \w וְ⁠כָל|lemma="כֹּל" strong="c:H3605" x-morph="He,C:Ncmsc" \w*־
 \w הָ֝⁠רֵ֗עַ|lemma="רֵעַ" strong="d:H7453" x-morph="He,Td:Ncmsa" \w*
@@ -5063,7 +5063,7 @@
 \w בְּ⁠שָׂרִֽים|lemma="שַׂר" strong="b:H8269" x-morph="He,R:Ncmpa" \w*׃
 
 \v 11
-\w שֵׂ֣כֶל|lemma="שֶׂכֶל" strong="H7922" x-morph="He,Ncmsc" \w*
+\w שֵׂ֣כֶל|lemma="שֶׂכֶל" strong="H7922" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w אָ֭דָם|lemma="אָדָם" strong="H0120" x-morph="He,Ncmsa" \w*
 \w הֶאֱרִ֣יךְ|lemma="אָרַךְ" strong="H0748" x-morph="He,Vhp3ms" \w*
 \w אַפּ֑⁠וֹ|lemma="אַף" strong="H0639" x-morph="He,Ncmsc:Sp3ms" \w*
@@ -5076,7 +5076,7 @@
 \w נַ֣הַם|lemma="נַהַם" strong="H5099" x-morph="He,Ncmsa" \w*
 \w כַּ֭⁠כְּפִיר|lemma="כְּפִיר" strong="k:H3715a" x-morph="He,Rd:Ncmsa" \w*
 \w זַ֣עַף|lemma="זַעַף" strong="H2197" x-morph="He,Ncmsc" \w*
-\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w וּ⁠כְ⁠טַ֖ל|lemma="טַל" strong="c:k:H2919" x-morph="He,C:R:Ncmsa" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
 \w עֵ֣שֶׂב|lemma="עֶשֶׂב" strong="H6212" x-morph="He,Ncmsa" \w*
@@ -5111,7 +5111,7 @@
 
 \v 16
 \w שֹׁמֵ֣ר|lemma="שָׁמַר" strong="H8104" x-morph="He,Vqrmsc" \w*
-\w מִ֭צְוָה|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfsa" \w*
+\w מִ֭צְוָה|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w שֹׁמֵ֣ר|lemma="שָׁמַר" strong="H8104" x-morph="He,Vqrmsc" \w*
 \w נַפְשׁ֑⁠וֹ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/life" \w*
 \w בּוֹזֵ֖ה|lemma="בָּזָה" strong="H0959" x-morph="He,Vqrmsc" \w*
@@ -5162,7 +5162,7 @@
 \v 21
 \w רַבּ֣וֹת|lemma="רַב" strong="H7227a" x-morph="He,Aafpa" \w*
 \w מַחֲשָׁב֣וֹת|lemma="מַחֲשָׁבָה" strong="H4284" x-morph="He,Ncfpa" \w*
-\w בְּ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" \w*־
+\w בְּ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/other/heart" \w*־
 \w אִ֑ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
 \w וַ⁠עֲצַ֥ת|lemma="עֵצָה" strong="c:H6098" x-morph="He,C:Ncfsc" \w*
 \w יְ֝הוָ֗ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
@@ -5185,7 +5185,7 @@
 \w וְ⁠שָׂבֵ֥עַ|lemma="שָׂבֵעַ" strong="c:H7649" x-morph="He,C:Aamsa" \w*
 \w יָ֝לִ֗ין|lemma="לוּן" strong="H3885a" x-morph="He,Vqi3ms" \w*
 \w בַּל|lemma="בַּל" strong="H1077" x-morph="He,Tn" \w*־
-\w יִפָּ֥קֶד|lemma="פָּקַד" strong="H6485a" x-morph="He,VNi3ms" \w*
+\w יִפָּ֥קֶד|lemma="פָּקַד" strong="H6485a" x-morph="He,VNi3ms" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w רָֽע|lemma="רַע" strong="H7451b" x-morph="He,Aamsa" \w*׃
 
 \v 24
@@ -5206,7 +5206,7 @@
 \w יַעְרִ֑ם|lemma="עָרַם" strong="H6191" x-morph="He,Vqi3ms" \w*
 \w וְ⁠הוֹכִ֥יחַ|lemma="יָכַח" strong="c:H3198" x-morph="He,C:Vhc" \w*
 \w לְ֝⁠נָב֗וֹן|lemma="בִּין" strong="l:H0995" x-morph="He,R:VNrmsa" \w*
-\w יָבִ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" \w*
+\w יָבִ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w דָּֽעַת|lemma="דַּעַת" strong="H1847" x-morph="He,Ncfsa" \w*׃
 
 \v 26
@@ -5215,7 +5215,7 @@
 \w יַבְרִ֣יחַ|lemma="בָּרַח" strong="H1272" x-morph="He,Vhi3ms" \w*
 \w אֵ֑ם|lemma="אֵם" strong="H0517" x-morph="He,Ncfsa" \w*
 \w בֵּ֝֗ן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/son" \w*
-\w מֵבִ֥ישׁ|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrmsa" \w*
+\w מֵבִ֥ישׁ|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w וּ⁠מַחְפִּֽיר|lemma="חָפֵר" strong="c:H2659" x-morph="He,C:Vhrmsa" \w*׃
 
 \v 27
@@ -5263,7 +5263,7 @@
 \w נַ֣הַם|lemma="נַהַם" strong="H5099" x-morph="He,Ncmsa" \w*
 \w כַּ֭⁠כְּפִיר|lemma="כְּפִיר" strong="k:H3715a" x-morph="He,Rd:Ncmsa" \w*
 \w אֵ֣ימַת|lemma="אֵימָה" strong="H0367" x-morph="He,Ncfsc" \w*
-\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w מִ֝תְעַבְּר֗⁠וֹ|lemma="עָבַר" strong="H5674b" x-morph="He,Vtrmsc:Sp3ms" \w*
 \w חוֹטֵ֥א|lemma="חָטָא" strong="H2398" x-morph="He,Vqrmsa" \w*
 \w נַפְשֽׁ⁠וֹ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/life" \w*׃
@@ -5290,7 +5290,7 @@
 \w מַ֣יִם|lemma="מַיִם" strong="H4325" x-morph="He,Ncmpa" \w*
 \w עֲ֭מֻקִּים|lemma="עָמֹק" strong="H6013" x-morph="He,Aampa" \w*
 \w עֵצָ֣ה|lemma="עֵצָה" strong="H6098" x-morph="He,Ncfsa" \w*
-\w בְ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" \w*־
+\w בְ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/other/heart" \w*־
 \w אִ֑ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
 \w וְ⁠אִ֖ישׁ|lemma="אִישׁ" strong="c:H0376" x-morph="He,C:Ncmsc" \w*
 \w תְּבוּנָ֣ה|lemma="תָּבוּן" strong="H8394" x-morph="He,Ncfsa" \w*
@@ -5310,13 +5310,13 @@
 \v 7
 \w מִתְהַלֵּ֣ךְ|lemma="הָלַךְ" strong="H1980" x-morph="He,Vtrmsa" \w*
 \w בְּ⁠תֻמּ֣⁠וֹ|lemma="תֹּם" strong="b:H8537" x-morph="He,R:Ncmsc:Sp3ms" \w*
-\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w אַשְׁרֵ֖י|lemma="אֶשֶׁר" strong="H0835" x-morph="He,Ncmpa" \w*
 \w בָנָ֣י⁠ו|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/son" \w*
 \w אַחֲרָֽי⁠ו|lemma="אַחַר" strong="H0310a" x-morph="He,R:Sp3ms" \w*׃
 
 \v 8
-\w מֶ֗לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֗לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w יוֹשֵׁ֥ב|lemma="יָשַׁב" strong="H3427" x-morph="He,Vqrmsa" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
 \w כִּסֵּא|lemma="כִּסֵּא" strong="H3678" x-morph="He,Ncmsc" \w*־
@@ -5331,7 +5331,7 @@
 \w יֹ֭אמַר|lemma="אָמַר" strong="H0559" x-morph="He,Vqi3ms" \w*
 \w זִכִּ֣יתִי|lemma="זָכָה" strong="H2135" x-morph="He,Vpp1cs" \w*
 \w לִבִּ֑⁠י|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
-\w טָ֝הַ֗רְתִּי|lemma="טָהֵר" strong="H2891" x-morph="He,Vqp1cs" \w*
+\w טָ֝הַ֗רְתִּי|lemma="טָהֵר" strong="H2891" x-morph="He,Vqp1cs" x-tw="rc://*/tw/dict/bible/kt/purify" \w*
 \w מֵ⁠חַטָּאתִֽ⁠י|lemma="חַטָּאָה" strong="m:H2403b" x-morph="He,R:Ncfsc:Sp1cs" \w*׃
 
 \v 10
@@ -5374,7 +5374,7 @@
 \w פְּקַ֖ח|lemma="פָּקַח" strong="H6491" x-morph="He,Vqv2ms" \w*
 \w עֵינֶ֣י⁠ךָ|lemma="עַיִן" strong="H5869a" x-morph="He,Ncbdc:Sp2ms" \w*
 \w שְֽׂבַֽע|lemma="שָׂבַע" strong="H7646" x-morph="He,Vqv2ms" \w*־
-\w לָֽחֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" \w*׃
+\w לָֽחֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/other/bread" \w*׃
 
 \v 14
 \w רַ֣ע|lemma="רַע" strong="H7451a" x-morph="He,Aamsa" \w*
@@ -5388,7 +5388,7 @@
 
 \v 15
 \w יֵ֣שׁ|lemma="יֵשׁ" strong="H3426" x-morph="He,Tm" \w*
-\w זָ֭הָב|lemma="זָהָב" strong="H2091" x-morph="He,Ncmsa" \w*
+\w זָ֭הָב|lemma="זָהָב" strong="H2091" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/gold" \w*
 \w וְ⁠רָב|lemma="רֹב" strong="c:H7230" x-morph="He,C:Ncbsc" \w*־
 \w פְּנִינִ֑ים|lemma="פָּנִין" strong="H6443" x-morph="He,Ncbpa" \w*
 \w וּ⁠כְלִ֥י|lemma="כְּלִי" strong="c:H3627" x-morph="He,C:Ncmsc" \w*
@@ -5409,7 +5409,7 @@
 \v 17
 \w עָרֵ֣ב|lemma="עָרֵב" strong="H6156" x-morph="He,Aamsa" \w*
 \w לָ֭⁠אִישׁ|lemma="אִישׁ" strong="l:H0376" x-morph="He,Rd:Ncmsa" \w*
-\w לֶ֣חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc" \w*
+\w לֶ֣חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/other/bread" \w*
 \w שָׁ֑קֶר|lemma="שֶׁקֶר" strong="H8267" x-morph="He,Ncmsa" \w*
 \w וְ֝⁠אַחַ֗ר|lemma="אַחַר" strong="c:H0310a" x-morph="He,C:D" \w*
 \w יִמָּֽלֵא|lemma="מָלֵא" strong="H4390" x-morph="He,VNi3ms" \w*־
@@ -5477,14 +5477,14 @@
 \w גָ֑בֶר|lemma="גֶּבֶר" strong="H1397" x-morph="He,Ncmsa" \w*
 \w וְ֝⁠אָדָ֗ם|lemma="אָדָם" strong="c:H0120" x-morph="He,C:Ncmsa" \w*
 \w מַה|lemma="מָה" strong="H4100" x-morph="He,Ti" \w*־
-\w יָּבִ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" \w*
+\w יָּבִ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w דַּרְכּֽ⁠וֹ|lemma="דֶּרֶךְ" strong="H1870" x-morph="He,Ncbsc:Sp3ms" \w*׃
 
 \v 25
 \w מוֹקֵ֣שׁ|lemma="מוֹקֵשׁ" strong="H4170" x-morph="He,Ncmsc" \w*
 \w אָ֭דָם|lemma="אָדָם" strong="H0120" x-morph="He,Ncmsa" \w*
 \w יָ֣לַע|lemma="יָלַע" strong="H3216" x-morph="He,Vqi3ms" \w*
-\w קֹ֑דֶשׁ|lemma="קֹדֶשׁ" strong="H6944" x-morph="He,Ncmsa" \w*
+\w קֹ֑דֶשׁ|lemma="קֹדֶשׁ" strong="H6944" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/holy" \w*
 \w וְ⁠אַחַ֖ר|lemma="אַחַר" strong="c:H0310a" x-morph="He,C:R" \w*
 \w נְדָרִ֣ים|lemma="נֶדֶר" strong="H5088" x-morph="He,Ncmpa" \w*
 \w לְ⁠בַקֵּֽר|lemma="בָּקַר" strong="l:H1239" x-morph="He,R:Vpc" \w*׃
@@ -5492,7 +5492,7 @@
 \v 26
 \w מְזָרֶ֣ה|lemma="זָרָה" strong="H2219" x-morph="He,Vprmsa" x-tw="rc://*/tw/dict/bible/other/winnow" \w*
 \w רְ֭שָׁעִים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
-\w מֶ֣לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֣לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w חָכָ֑ם|lemma="חָכָם" strong="H2450" x-morph="He,Aamsa" \w*
 \w וַ⁠יָּ֖שֶׁב|lemma="שׁוּב" strong="c:H7725" x-morph="He,C:Vhw3ms" \w*
 \w עֲלֵי⁠הֶ֣ם|lemma="עַל" strong="H5921a" x-morph="He,R:Sp3mp" \w*
@@ -5512,7 +5512,7 @@
 \w חֶ֣סֶד|lemma="חֶסֶד" strong="H2617a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/covenantfaith" \w*
 \w וֶ֭⁠אֱמֶת|lemma="אֶמֶת" strong="c:H0571" x-morph="He,C:Ncfsa" \w*
 \w יִצְּרוּ|lemma="נָצַר" strong="H5341" x-morph="He,Vqi3mp" \w*־
-\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w וְ⁠סָעַ֖ד|lemma="סָעַד" strong="c:H5582" x-morph="He,C:Vqq3ms" \w*
 \w בַּ⁠חֶ֣סֶד|lemma="חֶסֶד" strong="b:H2617a" x-morph="He,Rd:Ncmsa" \w*
 \w כִּסְאֽ⁠וֹ|lemma="כִּסֵּא" strong="H3678" x-morph="He,Ncmsc:Sp3ms" \w*׃
@@ -5541,8 +5541,8 @@
 \w פַּלְגֵי|lemma="פֶּלֶג" strong="H6388" x-morph="He,Ncmpc" \w*־
 \w מַ֣יִם|lemma="מַיִם" strong="H4325" x-morph="He,Ncmpa" \w*
 \w לֶב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*־
-\w מֶ֭לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
-\w בְּ⁠יַד|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc" \w*־
+\w מֶ֭לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
+\w בְּ⁠יַד|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc" x-tw="rc://*/tw/dict/bible/other/hand" \w*־
 \w יְהוָ֑ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w עַֽל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־
@@ -5563,7 +5563,7 @@
 \v 3
 \w עֲ֭שֹׂה|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqc" \w*
 \w צְדָקָ֣ה|lemma="צְדָקָה" strong="H6666" x-morph="He,Ncfsa" \w*
-\w וּ⁠מִשְׁפָּ֑ט|lemma="מִשְׁפָּט" strong="c:H4941" x-morph="He,C:Ncmsa" \w*
+\w וּ⁠מִשְׁפָּ֑ט|lemma="מִשְׁפָּט" strong="c:H4941" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/other/statute" \w*
 \w נִבְחָ֖ר|lemma="בָּחַר" strong="H0977" x-morph="He,VNrmsa" \w*
 \w לַ⁠יהוָ֣ה|lemma="יְהֹוָה" strong="l:H3068" x-morph="He,R:Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w מִ⁠זָּֽבַח|lemma="זֶבַח" strong="m:H2077" x-morph="He,R:Ncmsa" \w*׃
@@ -5575,7 +5575,7 @@
 \w לֵ֑ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w נִ֖ר|lemma="נִיר" strong="H5215" x-morph="He,Ncmsc" \w*
 \w רְשָׁעִ֣ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
-\w חַטָּֽאת|lemma="חַטָּאָה" strong="H2403b" x-morph="He,Ncfsa" \w*׃
+\w חַטָּֽאת|lemma="חַטָּאָה" strong="H2403b" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/sacrifice" \w*׃
 
 \v 5
 \w מַחְשְׁב֣וֹת|lemma="מַחֲשָׁבָה" strong="H4284" x-morph="He,Ncfpc" \w*
@@ -5594,7 +5594,7 @@
 \w שָׁ֑קֶר|lemma="שֶׁקֶר" strong="H8267" x-morph="He,Ncmsa" \w*
 \w הֶ֥בֶל|lemma="הֶבֶל" strong="H1892" x-morph="He,Ncmsa" \w*
 \w נִ֝דָּ֗ף|lemma="נָדַף" strong="H5086" x-morph="He,VNrmsa" \w*
-\w מְבַקְשֵׁי|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vprmpc" \w*־
+\w מְבַקְשֵׁי|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vprmpc" x-tw="rc://*/tw/dict/bible/other/seek" \w*־
 \w מָֽוֶת|lemma="מָוֶת" strong="H4194" x-morph="He,Ncmsa" \w*׃
 
 \v 7
@@ -5648,7 +5648,7 @@
 
 \v 12
 \w מַשְׂכִּ֣יל|lemma="שָׂכַל" strong="H7919a" x-morph="He,Vhrmsa" \w*
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w לְ⁠בֵ֣ית|lemma="בַּיִת" strong="l:H1004b" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/other/house" \w*
 \w רָשָׁ֑ע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*
 \w מְסַלֵּ֖ף|lemma="סָלַף" strong="H5557" x-morph="He,Vprmsa" \w*
@@ -5701,7 +5701,7 @@
 \w שִׂמְחָ֑ה|lemma="שִׂמְחָה" strong="H8057" x-morph="He,Ncfsa" \w*
 \w אֹהֵ֥ב|lemma="אָהַב" strong="H0157" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/kt/love" \w*
 \w יַֽיִן|lemma="יַיִן" strong="H3196" x-morph="He,Ncmsa" \w*־
-\w וָ֝⁠שֶׁ֗מֶן|lemma="שֶׁמֶן" strong="c:H8081" x-morph="He,C:Ncmsa" \w*
+\w וָ֝⁠שֶׁ֗מֶן|lemma="שֶׁמֶן" strong="c:H8081" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/other/oil" \w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
 \w יַעֲשִֽׁיר|lemma="עָשַׁר" strong="H6238" x-morph="He,Vhi3ms" \w*׃
 
@@ -5725,7 +5725,7 @@
 \v 20
 \w אוֹצָ֤ר|lemma="אוֹצָר" strong="H0214" x-morph="He,Ncmsa" \w*׀
 \w נֶחְמָ֣ד|lemma="חָמַד" strong="H2530a" x-morph="He,VNrmsa" \w*
-\w וָ֭⁠שֶׁמֶן|lemma="שֶׁמֶן" strong="c:H8081" x-morph="He,C:Ncmsa" \w*
+\w וָ֭⁠שֶׁמֶן|lemma="שֶׁמֶן" strong="c:H8081" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/other/oil" \w*
 \w בִּ⁠נְוֵ֣ה|lemma="נָוֶה" strong="b:H5116a" x-morph="He,R:Ncbsc" \w*
 \w חָכָ֑ם|lemma="חָכָם" strong="H2450" x-morph="He,Aamsa" \w*
 \w וּ⁠כְסִ֖יל|lemma="כְּסִיל" strong="c:H3684" x-morph="He,C:Aamsa" \w*
@@ -5784,7 +5784,7 @@
 \w וְ⁠צַדִּ֥יק|lemma="צַדִּיק" strong="c:H6662" x-morph="He,C:Aamsa" \w*
 \w יִ֝תֵּ֗ן|lemma="נָתַן" strong="H5414" x-morph="He,Vqi3ms" \w*
 \w וְ⁠לֹ֣א|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn" \w*
-\w יַחְשֹֽׂךְ|lemma="חָשַׂךְ" strong="H2820" x-morph="He,Vqi3ms" \w*׃
+\w יַחְשֹֽׂךְ|lemma="חָשַׂךְ" strong="H2820" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/punish" \w*׃
 
 \v 27
 \w זֶ֣בַח|lemma="זֶבַח" strong="H2077" x-morph="He,Ncmsc" \w*
@@ -5825,7 +5825,7 @@
 \w יְהוָֽה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*׃פ
 
 \v 31
-\w ס֗וּס|lemma="סוּס" strong="H5483b" x-morph="He,Ncmsa" \w*
+\w ס֗וּס|lemma="סוּס" strong="H5483b" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/horse" \w*
 \w מ֭וּכָן|lemma="כּוּן" strong="H3559a" x-morph="He,VHsmsa" \w*
 \w לְ⁠י֣וֹם|lemma="יוֹם" strong="l:H3117" x-morph="He,R:Ncmsc" \w*
 \w מִלְחָמָ֑ה|lemma="מִלְחָמָה" strong="H4421" x-morph="He,Ncfsa" \w*
@@ -5910,7 +5910,7 @@
 \w אָ֑וֶן|lemma="אָוֶן" strong="H0205" x-morph="He,Ncmsa" \w*
 \w וְ⁠שֵׁ֖בֶט|lemma="שֵׁבֶט" strong="c:H7626" x-morph="He,C:Ncmsc" \w*
 \w עֶבְרָת֣⁠וֹ|lemma="עֶבְרָה" strong="H5678" x-morph="He,Ncfsc:Sp3ms" \w*
-\w יִכְלֶֽה|lemma="כָּלָה" strong="H3615" x-morph="He,Vqi3ms" \w*׃
+\w יִכְלֶֽה|lemma="כָּלָה" strong="H3615" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/consume" \w*׃
 
 \v 9
 \w טֽוֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsc" x-tw="rc://*/tw/dict/bible/kt/good" \w*־
@@ -5925,7 +5925,7 @@
 \v 10
 \w גָּ֣רֵֽשׁ|lemma="גָּרַשׁ" strong="H1644" x-morph="He,Vpv2ms" \w*
 \w לֵ֭ץ|lemma="לוּץ" strong="H3887" x-morph="He,Aamsa" \w*
-\w וְ⁠יֵצֵ֣א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vqi3ms" \w*
+\w וְ⁠יֵצֵ֣א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vqi3ms" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w מָד֑וֹן|lemma="מָדוֹן" strong="H4066" x-morph="He,Ncmsa" \w*
 \w וְ֝⁠יִשְׁבֹּ֗ת|lemma="שָׁבַת" strong="c:H7673a" x-morph="He,C:Vqi3ms" \w*
 \w דִּ֣ין|lemma="דִּין" strong="H1779" x-morph="He,Ncmsa" \w*
@@ -5933,12 +5933,12 @@
 
 \v 11
 \w אֹהֵ֥ב|lemma="אָהַב" strong="H0157" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/kt/love" \w*
-\w טהור|lemma="טָהוֹר" strong="H2889" x-morph="He,Aamsc" \w*־
+\w טהור|lemma="טָהוֹר" strong="H2889" x-morph="He,Aamsc" x-tw="rc://*/tw/dict/bible/kt/clean" \w*־
 \w לֵ֑ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w חֵ֥ן|lemma="חֵן" strong="H2580" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/favor" \w*
 \w שְׂ֝פָתָ֗י⁠ו|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfdc:Sp3ms" \w*
 \w רֵעֵ֥⁠הוּ|lemma="רֵעַ" strong="H7453" x-morph="He,Ncmsc:Sp3ms" \w*
-\w מֶֽלֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*׃
+\w מֶֽלֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*׃
 
 \v 12
 \w עֵינֵ֣י|lemma="עַיִן" strong="H5869a" x-morph="He,Ncbdc" \w*
@@ -5946,7 +5946,7 @@
 \w נָ֣צְרוּ|lemma="נָצַר" strong="H5341" x-morph="He,Vqp3cp" \w*
 \w דָ֑עַת|lemma="דַּעַת" strong="H1847" x-morph="He,Ncfsa" \w*
 \w וַ֝⁠יְסַלֵּ֗ף|lemma="סָלַף" strong="c:H5557" x-morph="He,C:Vpw3ms" \w*
-\w דִּבְרֵ֥י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" \w*
+\w דִּבְרֵ֥י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w בֹגֵֽד|lemma="בָּגַד" strong="H0898" x-morph="He,Vqrmsa" \w*׃
 
 \v 13
@@ -5971,7 +5971,7 @@
 \v 15
 \w אִ֭וֶּלֶת|lemma="אִוֶּלֶת" strong="H0200" x-morph="He,Ncfsa" \w*
 \w קְשׁוּרָ֣ה|lemma="קָשַׁר" strong="H7194" x-morph="He,Vqsfsa" \w*
-\w בְ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" \w*־
+\w בְ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/other/heart" \w*־
 \w נָ֑עַר|lemma="נַעַר" strong="H5288" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/servant" \w*
 \w שֵׁ֥בֶט|lemma="שֵׁבֶט" strong="H7626" x-morph="He,Ncmsc" \w*
 \w מ֝וּסָ֗ר|lemma="מוּסָר" strong="H4148" x-morph="He,Ncmsa" \w*
@@ -5992,7 +5992,7 @@
 \w הַ֥ט|lemma="נָטָה" strong="H5186" x-morph="He,Vhv2ms" \w*
 \w אָזְנְ⁠ךָ֗|lemma="אֹזֶן" strong="H0241" x-morph="He,Ncfsc:Sp2ms" \w*
 \w וּ֭⁠שְׁמַע|lemma="שָׁמַע" strong="c:H8085" x-morph="He,C:Vqv2ms" \w*
-\w דִּבְרֵ֣י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" \w*
+\w דִּבְרֵ֣י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w חֲכָמִ֑ים|lemma="חָכָם" strong="H2450" x-morph="He,Aampa" \w*
 \w וְ֝⁠לִבְּ⁠ךָ֗|lemma="לֵב" strong="c:H3820a" x-morph="He,C:Ncmsc:Sp2ms" \w*
 \w תָּשִׁ֥ית|lemma="שִׁית" strong="H7896" x-morph="He,Vqi2ms" \w*
@@ -6082,7 +6082,7 @@
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־
 \w תְּהִ֥י|lemma="הָיָה" strong="H1961" x-morph="He,Vqj2ms" \w*
 \w בְ⁠תֹֽקְעֵי|lemma="תָּקַע" strong="b:H8628" x-morph="He,R:Vqrmpc" \w*־
-\w כָ֑ף|lemma="כַּף" strong="H3709" x-morph="He,Ncfsa" \w*
+\w כָ֑ף|lemma="כַּף" strong="H3709" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w בַּ֝⁠עֹרְבִ֗ים|lemma="עָרַב" strong="b:H6148" x-morph="He,Rd:Vqrmpa" \w*
 \w מַשָּׁאֽוֹת|lemma="מַשָּׁאָה" strong="H4859" x-morph="He,Ncfpa" \w*׃
 
@@ -6111,7 +6111,7 @@
 \w מָ֘הִ֤יר|lemma="מָהִיר" strong="H4106" x-morph="He,Aamsa" \w*
 \w בִּ⁠מְלַאכְתּ֗⁠וֹ|lemma="מְלָאכָה" strong="b:H4399" x-morph="He,R:Ncfsc:Sp3ms" \w*
 \w לִֽ⁠פְנֵֽי|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc" \w*־
-\w מְלָכִ֥ים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" \w*
+\w מְלָכִ֥ים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w יִתְיַצָּ֑ב|lemma="יָצַב" strong="H3320" x-morph="He,Vti3ms" \w*
 \w בַּל|lemma="בַּל" strong="H1077" x-morph="He,Tn" \w*־
 \w יִ֝תְיַצֵּב|lemma="יָצַב" strong="H3320" x-morph="He,Vti3ms" \w*
@@ -6127,8 +6127,8 @@
 \w לִ⁠לְח֣וֹם|lemma="לָחַם" strong="l:H3898b" x-morph="He,R:Vqc" \w*
 \w אֶת|lemma="אֵת" strong="H0854" x-morph="He,R" \w*־
 \w מוֹשֵׁ֑ל|lemma="מָשַׁל" strong="H4910" x-morph="He,Vqrmsa" \w*
-\w בִּ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vqa" \w*
-\w תָּ֝בִ֗ין|lemma="בִּין" strong="H0995" x-morph="He,Vqj2ms" \w*
+\w בִּ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vqa" x-tw="rc://*/tw/dict/bible/other/understand" \w*
+\w תָּ֝בִ֗ין|lemma="בִּין" strong="H0995" x-morph="He,Vqj2ms" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־
 \w אֲשֶׁ֥ר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*
 \w לְ⁠פָנֶֽי⁠ךָ|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc:Sp2ms" \w*׃
@@ -6147,7 +6147,7 @@
 \w תִּ֭תְאָו|lemma="אָוָה" strong="H0183" x-morph="He,Vtj2ms" \w*
 \w לְ⁠מַטְעַמּוֹתָ֑י⁠ו|lemma="מַטְעַם" strong="l:H4303" x-morph="He,R:Ncmpc:Sp3ms" \w*
 \w וְ֝⁠ה֗וּא|lemma="הוּא" strong="c:H1931" x-morph="He,C:Pp3ms" \w*
-\w לֶ֣חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc" \w*
+\w לֶ֣חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/other/bread" \w*
 \w כְּזָבִֽים|lemma="כָּזָב" strong="H3577" x-morph="He,Ncmpa" \w*׃
 
 \v 4
@@ -6169,13 +6169,13 @@
 \w כְנָפַ֑יִם|lemma="כָּנָף" strong="H3671" x-morph="He,Ncfda" \w*
 \w כְּ֝⁠נֶ֗שֶׁר|lemma="נֶשֶׁר" strong="k:H5404" x-morph="He,R:Ncmsa" \w*
 \w ו⁠עיף|lemma="עוּף" strong="c:H5774a" x-morph="He,C:Vqq3ms" \w*
-\w הַ⁠שָּׁמָֽיִם|lemma="שָׁמַיִם" strong="d:H8064" x-morph="He,Td:Ncmpa" \w*׃פ
+\w הַ⁠שָּׁמָֽיִם|lemma="שָׁמַיִם" strong="d:H8064" x-morph="He,Td:Ncmpa" x-tw="rc://*/tw/dict/bible/kt/heaven" \w*׃פ
 
 \v 6
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־
 \w תִּלְחַ֗ם|lemma="לָחַם" strong="H3898b" x-morph="He,Vqj2ms" \w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־
-\w לֶ֭חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc" \w*
+\w לֶ֭חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/other/bread" \w*
 \w רַ֣ע|lemma="רַע" strong="H7451a" x-morph="He,Aamsc" \w*
 \w עָ֑יִן|lemma="עַיִן" strong="H5869a" x-morph="He,Ncbsa" \w*
 \w וְ⁠אַל|lemma="אַל" strong="c:H0408" x-morph="He,C:Tn" \w*־
@@ -6202,7 +6202,7 @@
 \w אָכַ֥לְתָּ|lemma="אָכַל" strong="H0398" x-morph="He,Vqp2ms" \w*
 \w תְקִיאֶ֑⁠נָּה|lemma="קוֹא" strong="H6958" x-morph="He,Vhi2ms:Sp3fs" \w*
 \w וְ֝⁠שִׁחַ֗תָּ|lemma="שָׁחַת" strong="c:H7843" x-morph="He,C:Vpq2ms" \w*
-\w דְּבָרֶ֥י⁠ךָ|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc:Sp2ms" \w*
+\w דְּבָרֶ֥י⁠ךָ|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w הַ⁠נְּעִימִֽים|lemma="נָעִים" strong="d:H5273a" x-morph="He,Td:Aampa" \w*׃
 
 \v 9
@@ -6267,7 +6267,7 @@
 \w אִם|lemma="אִם" strong="H0518a" x-morph="He,C" \w*־
 \w חָכַ֣ם|lemma="חָכַם" strong="H2449" x-morph="He,Vqp3ms" \w*
 \w לִבֶּ֑⁠ךָ|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
-\w יִשְׂמַ֖ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqi3ms" \w*
+\w יִשְׂמַ֖ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*
 \w לִבִּ֣⁠י|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w גַם|lemma="גַּם" strong="H1571" x-morph="He,D" \w*־
 \w אָֽנִי|lemma="אֲנִי" strong="H0589" x-morph="He,Pp1cs" \w*׃
@@ -6351,14 +6351,14 @@
 \w גול|lemma="גִּיל" strong="H1524a" x-morph="He,Vqa" \w*
 \w יגול|lemma="גִּיל" strong="H1523" x-morph="He,Vqi3ms" \w*
 \w אֲבִ֣י|lemma="אָב" strong="H0001" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/father" \w*
-\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w יולד|lemma="יָלַד" strong="H3205" x-morph="He,Vqrmsa" \w*
 \w חָ֝כָ֗ם|lemma="חָכָם" strong="H2450" x-morph="He,Aamsa" \w*
 \w ו⁠ישמח|lemma="שָׂמַח" strong="c:H8055" x-morph="He,C:Vqi3ms" \w*־
 \w בּֽ⁠וֹ|lemma="שָׂמַח" strong="b:H8055" x-morph="He,R:Sp3ms" \w*׃
 
 \v 25
-\w יִֽשְׂמַח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqj3ms" \w*־
+\w יִֽשְׂמַח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqj3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*־
 \w אָבִ֥י⁠ךָ|lemma="אָב" strong="H0001" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/father" \w*
 \w וְ⁠אִמֶּ֑⁠ךָ|lemma="אֵם" strong="c:H0517" x-morph="He,C:Ncfsc:Sp2ms" \w*
 \w וְ֝⁠תָגֵ֗ל|lemma="גִּיל" strong="c:H1523" x-morph="He,C:Vqj3fs" \w*
@@ -6446,7 +6446,7 @@
 \v 34
 \w וְ֭⁠הָיִיתָ|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqq2ms" \w*
 \w כְּ⁠שֹׁכֵ֣ב|lemma="שָׁכַב" strong="k:H7901" x-morph="He,R:Vqrmsa" \w*
-\w בְּ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" \w*־
+\w בְּ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/other/heart" \w*־
 \w יָ֑ם|lemma="יָם" strong="H3220" x-morph="He,Ncmsa" \w*
 \w וּ֝⁠כְ⁠שֹׁכֵ֗ב|lemma="שָׁכַב" strong="c:k:H7901" x-morph="He,C:R:Vqrmsa" \w*
 \w בְּ⁠רֹ֣אשׁ|lemma="רֹאשׁ" strong="b:H7218a" x-morph="He,R:Ncmsc" \w*
@@ -6462,7 +6462,7 @@
 \w מָתַ֥י|lemma="מָתַי" strong="H4970" x-morph="He,Ti" \w*
 \w אָקִ֑יץ|lemma="קוּץ" strong="H6974" x-morph="He,Vhi1cs" \w*
 \w א֝וֹסִ֗יף|lemma="יָסַף" strong="H3254" x-morph="He,Vhi1cs" \w*
-\w אֲבַקְשֶׁ֥⁠נּוּ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi1cs:Sp3ms" \w*
+\w אֲבַקְשֶׁ֥⁠נּוּ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi1cs:Sp3ms" x-tw="rc://*/tw/dict/bible/other/seek" \w*
 \w עֽוֹד|lemma="עוֹד" strong="H5750" x-morph="He,D" \w*׃
 
 \c 24
@@ -6520,7 +6520,7 @@
 \w מִלְחָמָ֑ה|lemma="מִלְחָמָה" strong="H4421" x-morph="He,Ncfsa" \w*
 \w וּ֝⁠תְשׁוּעָ֗ה|lemma="תְּשׁוּעָה" strong="c:H8668" x-morph="He,C:Ncfsa" \w*
 \w בְּ⁠רֹ֣ב|lemma="רֹב" strong="b:H7230" x-morph="He,R:Ncbsa" \w*
-\w יוֹעֵֽץ|lemma="יָעַץ" strong="H3289" x-morph="He,Vqrmsa" \w*׃
+\w יוֹעֵֽץ|lemma="יָעַץ" strong="H3289" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/other/counselor" \w*׃
 
 \v 7
 \w רָאמ֣וֹת|lemma="רוּם" strong="H7311a" x-morph="He,Vqrfpa" \w*
@@ -6542,7 +6542,7 @@
 \v 9
 \w זִמַּ֣ת|lemma="זִמָּה" strong="H2154" x-morph="He,Ncfsc" \w*
 \w אִוֶּ֣לֶת|lemma="אִוֶּלֶת" strong="H0200" x-morph="He,Ncfsa" \w*
-\w חַטָּ֑את|lemma="חַטָּאָה" strong="H2403b" x-morph="He,Ncfsa" \w*
+\w חַטָּ֑את|lemma="חַטָּאָה" strong="H2403b" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/sacrifice" \w*
 \w וְ⁠תוֹעֲבַ֖ת|lemma="תּוֹעֵבַה" strong="c:H8441" x-morph="He,C:Ncfsc" \w*
 \w לְ⁠אָדָ֣ם|lemma="אָדָם" strong="l:H0120" x-morph="He,R:Ncmsa" \w*
 \w לֵֽץ|lemma="לוּץ" strong="H3887" x-morph="He,Aamsa" \w*׃
@@ -6561,7 +6561,7 @@
 \w וּ⁠מָטִ֥ים|lemma="מוֹט" strong="c:H4131" x-morph="He,C:Vqrmpa" \w*
 \w לַ֝⁠הֶ֗רֶג|lemma="הֶרֶג" strong="l:H2027" x-morph="He,Rd:Ncmsa" \w*
 \w אִם|lemma="אִם" strong="H0518a" x-morph="He,C" \w*־
-\w תַּחְשֽׂוֹךְ|lemma="חָשַׂךְ" strong="H2820" x-morph="He,Vqi2ms" \w*׃
+\w תַּחְשֽׂוֹךְ|lemma="חָשַׂךְ" strong="H2820" x-morph="He,Vqi2ms" x-tw="rc://*/tw/dict/bible/other/punish" \w*׃
 
 \v 12
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־
@@ -6574,7 +6574,7 @@
 \w תֹ֘כֵ֤ן|lemma="תָּכַן" strong="H8505" x-morph="He,Vqrmsa" \w*
 \w לִבּ֨וֹת|lemma="לִבָּה" strong="H3826" x-morph="He,Ncfpa" \w*׀
 \w הֽוּא|lemma="הוּא" strong="H1931" x-morph="He,Pp3ms" \w*־
-\w יָבִ֗ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" \w*
+\w יָבִ֗ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w וְ⁠נֹצֵ֣ר|lemma="נָצַר" strong="c:H5341" x-morph="He,C:Vqrmsa" \w*
 \w נַ֭פְשְׁ⁠ךָ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc:Sp2ms" x-tw="rc://*/tw/dict/bible/kt/life" \w*
 \w ה֣וּא|lemma="הוּא" strong="H1931" x-morph="He,Pp3ms" \w*
@@ -6612,7 +6612,7 @@
 \w תֶּאֱרֹ֣ב|lemma="אָרַב" strong="H0693" x-morph="He,Vqj2ms" \w*
 \w רָ֭שָׁע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*
 \w לִ⁠נְוֵ֣ה|lemma="נָוֶה" strong="l:H5116a" x-morph="He,R:Ncbsc" \w*
-\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֑יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w אַֽל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־
 \w תְּשַׁדֵּ֥ד|lemma="שָׁדַד" strong="H7703" x-morph="He,Vpj2ms" \w*
 \w רִבְצ⁠וֹ|lemma="רֵבֶץ" strong="H7258" x-morph="He,Ncmsc:Sp3ms" \w*׃
@@ -6621,7 +6621,7 @@
 \w כִּ֤י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w שֶׁ֨בַע|lemma="שֶׁבַע" strong="H7651" x-morph="He,Acfsa" \w*׀
 \w יִפּ֣וֹל|lemma="נָפַל" strong="H5307" x-morph="He,Vqi3ms" \w*
-\w צַדִּ֣יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֣יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w וָ⁠קָ֑ם|lemma="קוּם" strong="c:H6965b" x-morph="He,C:Vqq3ms" \w*
 \w וּ֝⁠רְשָׁעִ֗ים|lemma="רָשָׁע" strong="c:H7563" x-morph="He,C:Aampa" \w*
 \w יִכָּשְׁל֥וּ|lemma="כָּשַׁל" strong="H3782" x-morph="He,VNi3mp" \w*
@@ -6631,7 +6631,7 @@
 \w בִּ⁠נְפֹ֣ל|lemma="נָפַל" strong="b:H5307" x-morph="He,R:Vqc" \w*
 \w אויבי⁠ך|lemma="אֹיֵב" strong="H0341" x-morph="He,Vqrmpc:Sp2ms" \w*
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־
-\w תִּשְׂמָ֑ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqj2ms" \w*
+\w תִּשְׂמָ֑ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqj2ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*
 \w וּ֝⁠בִ⁠כָּשְׁל֗⁠וֹ|lemma="כָּשַׁל" strong="c:b:H3782" x-morph="He,C:R:VNc:Sp3ms" \w*
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־
 \w יָגֵ֥ל|lemma="גִּיל" strong="H1523" x-morph="He,Vqj3ms" \w*
@@ -6691,7 +6691,7 @@
 \w אֵ֥לֶּה|lemma="אֵלֶּה" strong="H0428" x-morph="He,Pdxcp" \w*
 \w לַֽ⁠חֲכָמִ֑ים|lemma="חָכָם" strong="l:H2450" x-morph="He,R:Aampa" \w*
 \w הַֽכֵּר|lemma="נָכַר" strong="H5234a" x-morph="He,Vha" \w*־
-\w פָּנִ֖ים|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpa" \w*
+\w פָּנִ֖ים|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpa" x-tw="rc://*/tw/dict/bible/other/face" \w*
 \w בְּ⁠מִשְׁפָּ֣ט|lemma="מִשְׁפָּט" strong="b:H4941" x-morph="He,R:Ncmsa" \w*
 \w בַּל|lemma="בַּל" strong="H1077" x-morph="He,Tn" \w*־
 \w טֽוֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*׃
@@ -6699,7 +6699,7 @@
 \v 24
 \w אֹ֤מֵ֨ר|lemma="אָמַר" strong="H0559" x-morph="He,Vqrmsa" \w*׀
 \w לְ⁠רָשָׁע֮|lemma="רָשָׁע" strong="l:H7563" x-morph="He,R:Aamsa" \w*
-\w צַדִּ֪יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַדִּ֪יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w אָ֥תָּה|lemma="אַתָּה" strong="H0859a" x-morph="He,Pp2ms" \w*
 \w יִקְּבֻ֥⁠הוּ|lemma="נָקַב" strong="H5344a" x-morph="He,Vqi3mp:Sp3ms" \w*
 \w עַמִּ֑ים|lemma="עַם" strong="H5971a" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
@@ -6718,7 +6718,7 @@
 \w שְׂפָתַ֥יִם|lemma="שָׂפָה" strong="H8193" x-morph="He,Ncfda" \w*
 \w יִשָּׁ֑ק|lemma="נָשַׁק" strong="H5401a" x-morph="He,Vqi3ms" \w*
 \w מֵ֝שִׁ֗יב|lemma="שׁוּב" strong="H7725" x-morph="He,Vhrmsa" \w*
-\w דְּבָרִ֥ים|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpa" \w*
+\w דְּבָרִ֥ים|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w נְכֹחִֽים|lemma="נָכֹחַ" strong="H5228" x-morph="He,Aampa" \w*׃
 
 \v 27
@@ -6772,7 +6772,7 @@
 \w כֻלּ֨⁠וֹ|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc:Sp3ms" \w*׀
 \w קִמְּשֹׂנִ֗ים|lemma="קִמָּשׁוֹן" strong="H7063" x-morph="He,Ncmpa" \w*
 \w כָּסּ֣וּ|lemma="כָּסָה" strong="H3680" x-morph="He,VPp3cp" \w*
-\w פָנָ֣י⁠ו|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc:Sp3ms" \w*
+\w פָנָ֣י⁠ו|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/face" \w*
 \w חֲרֻלִּ֑ים|lemma="חָרוּל" strong="H2738" x-morph="He,Ncmpa" \w*
 \w וְ⁠גֶ֖דֶר|lemma="גֶּדֶר" strong="c:H1444" x-morph="He,C:Ncmsc" \w*
 \w אֲבָנָ֣י⁠ו|lemma="אֶבֶן" strong="H0068" x-morph="He,Ncfpc:Sp3ms" \w*
@@ -6812,23 +6812,23 @@
 \w גַּם|lemma="גַּם" strong="H1571" x-morph="He,Ta" \w*־
 \w אֵ֭לֶּה|lemma="אֵלֶּה" strong="H0428" x-morph="He,Pdxcp" \w*
 \w מִשְׁלֵ֣י|lemma="מָשָׁל" strong="H4912" x-morph="He,Ncmpc" \w*
-\w שְׁלֹמֹ֑ה|lemma="שְׁלֹמֹה" strong="H8010" x-morph="He,Np" \w*
+\w שְׁלֹמֹ֑ה|lemma="שְׁלֹמֹה" strong="H8010" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/solomon" \w*
 \w אֲשֶׁ֥ר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*
 \w הֶ֝עְתִּ֗יקוּ|lemma="עָתַק" strong="H6275" x-morph="He,Vhp3cp" \w*
 \w אַנְשֵׁ֤י|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmpc" \w*׀
 \w חִזְקִיָּ֬ה|lemma="חִזְקִיָּה" strong="H2396" x-morph="He,Np" \w*
-\w מֶֽלֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsc" \w*־
+\w מֶֽלֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/king" \w*־
 \w יְהוּדָֽה|lemma="יְהוּדָה" strong="H3063" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/judea" \w*׃
 
 \v 2
 \w כְּבֹ֣ד|lemma="כָּבוֹד" strong="H3519" x-morph="He,Ncbsc" \w*
-\w אֱ֭לֹהִים|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/falsegod" x\-tw\=\"rc://\*/tw/dict/bible/kt/god\" \w*
+\w אֱ֭לֹהִים|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/god" x\-tw\=\"rc://\*/tw/dict/bible/kt/god\" \w*
 \w הַסְתֵּ֣ר|lemma="סָתַר" strong="H5641" x-morph="He,Vhv2ms" \w*
-\w דָּבָ֑ר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" \w*
+\w דָּבָ֑ר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w וּ⁠כְבֹ֥ד|lemma="כָּבוֹד" strong="c:H3519" x-morph="He,C:Ncbsc" \w*
-\w מְ֝לָכִ֗ים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" \w*
+\w מְ֝לָכִ֗ים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w חֲקֹ֣ר|lemma="חָקַר" strong="H2713" x-morph="He,Vqc" \w*
-\w דָּבָֽר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" \w*׃
+\w דָּבָֽר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/word" \w*׃
 
 \v 3
 \w שָׁמַ֣יִם|lemma="שָׁמַיִם" strong="H8064" x-morph="He,Ncmpa" \w*
@@ -6836,7 +6836,7 @@
 \w וָ⁠אָ֣רֶץ|lemma="אֶרֶץ" strong="c:H0776" x-morph="He,C:Ncbsa" \w*
 \w לָ⁠עֹ֑מֶק|lemma="עֹמֶק" strong="l:H6011" x-morph="He,Rd:Ncmsa" \w*
 \w וְ⁠לֵ֥ב|lemma="לֵב" strong="c:H3820a" x-morph="He,C:Ncmsc" \w*
-\w מְ֝לָכִ֗ים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" \w*
+\w מְ֝לָכִ֗ים|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w אֵ֣ין|lemma="אַיִן" strong="H0369" x-morph="He,Tn" \w*
 \w חֵֽקֶר|lemma="חֵקֶר" strong="H2714" x-morph="He,Ncmsa" \w*׃
 
@@ -6844,7 +6844,7 @@
 \w הָג֣וֹ|lemma="הָגָה" strong="H1898" x-morph="He,Vqa" \w*
 \w סִיגִ֣ים|lemma="סִיג" strong="H5509" x-morph="He,Ncmpa" \w*
 \w מִ⁠כָּ֑סֶף|lemma="כֶּסֶף" strong="m:H3701" x-morph="He,R:Ncmsa" \w*
-\w וַ⁠יֵּצֵ֖א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vqw3ms" \w*
+\w וַ⁠יֵּצֵ֖א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vqw3ms" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w לַ⁠צֹּרֵ֣ף|lemma="צָרַף" strong="l:H6884" x-morph="He,Rd:Vqrmsa" \w*
 \w כֶּֽלִי|lemma="כְּלִי" strong="H3627" x-morph="He,Ncmsa" \w*׃
 
@@ -6852,7 +6852,7 @@
 \w הָג֣וֹ|lemma="הָגָה" strong="H1898" x-morph="He,Vqa" \w*
 \w רָ֭שָׁע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*
 \w לִ⁠פְנֵי|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc" \w*־
-\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w וְ⁠יִכּ֖וֹן|lemma="כּוּן" strong="c:H3559a" x-morph="He,C:VNi3ms" \w*
 \w בַּ⁠צֶּ֣דֶק|lemma="צֶדֶק" strong="b:H6664" x-morph="He,Rd:Ncmsa" \w*
 \w כִּסְאֽ⁠וֹ|lemma="כִּסֵּא" strong="H3678" x-morph="He,Ncmsc:Sp3ms" \w*׃
@@ -6861,7 +6861,7 @@
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־
 \w תִּתְהַדַּ֥ר|lemma="הָדַר" strong="H1921" x-morph="He,Vtj2ms" \w*
 \w לִ⁠פְנֵי|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc" \w*־
-\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w וּ⁠בִ⁠מְק֥וֹם|lemma="מָקוֹם" strong="c:b:H4725" x-morph="He,C:R:Ncmsc" \w*
 \w גְּ֝דֹלִ֗ים|lemma="גָּדוֹל" strong="H1419a" x-morph="He,Aampa" \w*
 \w אַֽל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־
@@ -6914,17 +6914,17 @@
 
 \v 11
 \w תַּפּוּחֵ֣י|lemma="תַּפּוּחַ" strong="H8598" x-morph="He,Ncmpc" \w*
-\w זָ֭הָב|lemma="זָהָב" strong="H2091" x-morph="He,Ncmsa" \w*
+\w זָ֭הָב|lemma="זָהָב" strong="H2091" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/gold" \w*
 \w בְּ⁠מַשְׂכִּיּ֥וֹת|lemma="מַשְׂכִּית" strong="b:H4906" x-morph="He,R:Ncfpc" \w*
-\w כָּ֑סֶף|lemma="כֶּסֶף" strong="H3701" x-morph="He,Ncmsa" \w*
-\w דָּ֝בָ֗ר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" \w*
+\w כָּ֑סֶף|lemma="כֶּסֶף" strong="H3701" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/silver" \w*
+\w דָּ֝בָ֗ר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w דָּבֻ֥ר|lemma="דָבַר" strong="H1696" x-morph="He,Vqsmsa" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
 \w אָפְנָֽי⁠ו|lemma="אֹפֶן" strong="H0655" x-morph="He,Ncmpc:Sp3ms" \w*׃
 
 \v 12
 \w נֶ֣זֶם|lemma="נֶזֶם" strong="H5141" x-morph="He,Ncmsc" \w*
-\w זָ֭הָב|lemma="זָהָב" strong="H2091" x-morph="He,Ncmsa" \w*
+\w זָ֭הָב|lemma="זָהָב" strong="H2091" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/gold" \w*
 \w וַ⁠חֲלִי|lemma="חֲלִי" strong="c:H2481" x-morph="He,C:Ncmsc" \w*־
 \w כָ֑תֶם|lemma="כֶּתֶם" strong="H3800" x-morph="He,Ncmsa" \w*
 \w מוֹכִ֥יחַ|lemma="יָכַח" strong="H3198" x-morph="He,Vhrmsa" \w*
@@ -7023,7 +7023,7 @@
 \w רָעֵ֣ב|lemma="רָעֵב" strong="H7457" x-morph="He,Aamsa" \w*
 \w שֹׂ֭נַאֲ⁠ךָ|lemma="שָׂנֵא" strong="H8130" x-morph="He,Vqrmsc:Sp2ms" \w*
 \w הַאֲכִלֵ֣⁠הוּ|lemma="אָכַל" strong="H0398" x-morph="He,Vhv2ms:Sp3ms" \w*
-\w לָ֑חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" \w*
+\w לָ֑חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/other/bread" \w*
 \w וְ⁠אִם|lemma="אִם" strong="c:H0518a" x-morph="He,C:C" \w*־
 \w צָ֝מֵ֗א|lemma="צָמֵא" strong="H6771" x-morph="He,Aamsa" \w*
 \w הַשְׁקֵ֥⁠הוּ|lemma="שָׁקָה" strong="H8248" x-morph="He,Vhv2ms:Sp3ms" \w*
@@ -7035,13 +7035,13 @@
 \w אַ֭תָּה|lemma="אַתָּה" strong="H0859a" x-morph="He,Pp2ms" \w*
 \w חֹתֶ֣ה|lemma="חָתָה" strong="H2846" x-morph="He,Vqrmsa" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
-\w רֹאשׁ֑⁠וֹ|lemma="רֹאשׁ" strong="H7218a" x-morph="He,Ncmsc:Sp3ms" \w*
+\w רֹאשׁ֑⁠וֹ|lemma="רֹאשׁ" strong="H7218a" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/head" \w*
 \w וַֽ֝⁠יהוָ֗ה|lemma="יְהֹוָה" strong="c:H3068" x-morph="He,C:Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w יְשַׁלֶּם|lemma="שָׁלַם" strong="H7999a" x-morph="He,Vpi3ms" \w*־
 \w לָֽ⁠ךְ|lemma="" strong="l" x-morph="He,R:Sp2fs" \w*׃
 
 \v 23
-\w ר֣וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsc" \w*
+\w ר֣וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w צָ֭פוֹן|lemma="צָפוֹן" strong="H6828" x-morph="He,Ncfsa" \w*
 \w תְּח֣וֹלֵֽל|lemma="חוּל" strong="H2342a" x-morph="He,Voi3fs" \w*
 \w גָּ֑שֶׁם|lemma="גֶּשֶׁם" strong="H1653" x-morph="He,Ncmsa" \w*
@@ -7077,7 +7077,7 @@
 \w נִ֭רְפָּשׂ|lemma="רָפַשׂ" strong="H7515" x-morph="He,VNrmsa" \w*
 \w וּ⁠מָק֣וֹר|lemma="מָקוֹר" strong="c:H4726" x-morph="He,C:Ncmsa" \w*
 \w מָשְׁחָ֑ת|lemma="שָׁחַת" strong="H7843" x-morph="He,VHsmsa" \w*
-\w צַ֝דִּ֗יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֝דִּ֗יק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w מָ֣ט|lemma="מוֹט" strong="H4131" x-morph="He,Vqrmsa" \w*
 \w לִ⁠פְנֵֽי|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc" \w*־
 \w רָשָֽׁע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*׃
@@ -7163,8 +7163,8 @@
 \w חָמָ֣ס|lemma="חָמָס" strong="H2555" x-morph="He,Ncmsa" \w*
 \w שֹׁתֶ֑ה|lemma="שָׁתָה" strong="H8354" x-morph="He,Vqrmsa" \w*
 \w שֹׁלֵ֖חַ|lemma="שָׁלַח" strong="H7971" x-morph="He,Vqrmsa" \w*
-\w דְּבָרִ֣ים|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpa" \w*
-\w בְּ⁠יַד|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc" \w*־
+\w דְּבָרִ֣ים|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/word" \w*
+\w בְּ⁠יַד|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc" x-tw="rc://*/tw/dict/bible/other/hand" \w*־
 \w כְּסִֽיל|lemma="כְּסִיל" strong="H3684" x-morph="He,Aamsa" \w*׃
 
 \v 7
@@ -7187,7 +7187,7 @@
 \v 9
 \w ח֭וֹחַ|lemma="חוֹחַ" strong="H2336" x-morph="He,Ncmsa" \w*
 \w עָלָ֣ה|lemma="עָלָה" strong="H5927" x-morph="He,Vqp3ms" \w*
-\w בְ⁠יַד|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc" \w*־
+\w בְ⁠יַד|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbsc" x-tw="rc://*/tw/dict/bible/other/hand" \w*־
 \w שִׁכּ֑וֹר|lemma="שִׁכּוֹר" strong="H7910" x-morph="He,Aamsa" \w*
 \w וּ֝⁠מָשָׁ֗ל|lemma="מָשָׁל" strong="c:H4912" x-morph="He,C:Ncmsa" \w*
 \w בְּ⁠פִ֣י|lemma="פֶּה" strong="b:H6310" x-morph="He,R:Ncmsc" \w*
@@ -7257,7 +7257,7 @@
 \w טָֽעַם|lemma="טַעַם" strong="H2940" x-morph="He,Ncmsa" \w*׃
 
 \v 17
-\w מַחֲזִ֥יק|lemma="חָזַק" strong="H2388" x-morph="He,Vhrmsa" \w*
+\w מַחֲזִ֥יק|lemma="חָזַק" strong="H2388" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/courage" \w*
 \w בְּ⁠אָזְנֵי|lemma="אֹזֶן" strong="b:H0241" x-morph="He,R:Ncfdc" \w*־
 \w כָ֑לֶב|lemma="כֶּלֶב" strong="H3611" x-morph="He,Ncmsa" \w*
 \w עֹבֵ֥ר|lemma="עָבַר" strong="H5674b" x-morph="He,Vqrmsa" \w*
@@ -7306,7 +7306,7 @@
 \w רִֽיב|lemma="רִיב" strong="H7379" x-morph="He,Ncbsa" \w*׃פ
 
 \v 22
-\w דִּבְרֵ֣י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" \w*
+\w דִּבְרֵ֣י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w נִ֭רְגָּן|lemma="נִרְגָּן" strong="H5372" x-morph="He,VNrmsa" \w*
 \w כְּ⁠מִֽתְלַהֲמִ֑ים|lemma="לָהַם" strong="k:H3859" x-morph="He,R:Vtrmpa" \w*
 \w וְ֝⁠הֵ֗ם|lemma="הֵם" strong="c:H1992" x-morph="He,C:Pp3mp" \w*
@@ -7315,7 +7315,7 @@
 \w בָֽטֶן|lemma="בֶּטֶן" strong="H0990" x-morph="He,Ncfsa" \w*׃
 
 \v 23
-\w כֶּ֣סֶף|lemma="כֶּסֶף" strong="H3701" x-morph="He,Ncmsc" \w*
+\w כֶּ֣סֶף|lemma="כֶּסֶף" strong="H3701" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/silver" \w*
 \w סִ֭יגִים|lemma="סִיג" strong="H5509" x-morph="He,Ncmpa" \w*
 \w מְצֻפֶּ֣ה|lemma="צָפָה" strong="H6823" x-morph="He,VPsmsa" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
@@ -7343,7 +7343,7 @@
 \w כִּ֤י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w שֶׁ֖בַע|lemma="שֶׁבַע" strong="H7651" x-morph="He,Acfsa" \w*
 \w תּוֹעֵב֣וֹת|lemma="תּוֹעֵבַה" strong="H8441" x-morph="He,Ncfpa" \w*
-\w בְּ⁠לִבּֽ⁠וֹ|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp3ms" \w*׃
+\w בְּ⁠לִבּֽ⁠וֹ|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/heart" \w*׃
 
 \v 26
 \w תִּכַּסֶּ֣ה|lemma="כָּסָה" strong="H3680" x-morph="He,VNi3fs" \w*
@@ -7456,7 +7456,7 @@
 \v 9
 \w שֶׁ֣מֶן|lemma="שֶׁמֶן" strong="H8081" x-morph="He,Ncmsa" \w*
 \w וּ֭⁠קְטֹרֶת|lemma="קְטֹרֶת" strong="c:H7004" x-morph="He,C:Ncfsa" \w*
-\w יְשַׂמַּֽח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms" \w*־
+\w יְשַׂמַּֽח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*־
 \w לֵ֑ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w וּ⁠מֶ֥תֶק|lemma="מֶתֶק" strong="c:H4986" x-morph="He,C:Ncmsc" \w*
 \w רֵ֝עֵ֗⁠הוּ|lemma="רֵעַ" strong="H7453" x-morph="He,Ncmsc:Sp3ms" \w*
@@ -7478,7 +7478,7 @@
 \w ט֥וֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
 \w שָׁכֵ֥ן|lemma="שָׁכֵן" strong="H7934" x-morph="He,Aamsa" \w*
 \w קָ֝ר֗וֹב|lemma="קָרוֹב" strong="H7138" x-morph="He,Aamsa" \w*
-\w מֵ⁠אָ֥ח|lemma="אָח" strong="m:H0251" x-morph="He,R:Ncmsa" \w*
+\w מֵ⁠אָ֥ח|lemma="אָח" strong="m:H0251" x-morph="He,R:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/brother" \w*
 \w רָחֽוֹק|lemma="רָחוֹק" strong="H7350" x-morph="He,Aamsa" \w*׃
 
 \v 11
@@ -7488,7 +7488,7 @@
 \w לִבִּ֑⁠י|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w וְ⁠אָשִׁ֖יבָה|lemma="שׁוּב" strong="c:H7725" x-morph="He,C:Vhh1cs" \w*
 \w חֹרְפִ֣⁠י|lemma="חָרַף" strong="H2778a" x-morph="He,Vqrmsc:Sp1cs" \w*
-\w דָבָֽר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" \w*׃
+\w דָבָֽר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/word" \w*׃
 
 \v 12
 \w עָר֤וּם|lemma="עָרוּם" strong="H6175" x-morph="He,Aamsa" \w*
@@ -7532,8 +7532,8 @@
 \v 16
 \w צֹפְנֶ֥י⁠הָ|lemma="צָפַן" strong="H6845" x-morph="He,Vqrmpc:Sp3fs" \w*
 \w צָֽפַן|lemma="צָפַן" strong="H6845" x-morph="He,Vqp3ms" \w*־
-\w ר֑וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" \w*
-\w וְ⁠שֶׁ֖מֶן|lemma="שֶׁמֶן" strong="c:H8081" x-morph="He,C:Ncmsc" \w*
+\w ר֑וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
+\w וְ⁠שֶׁ֖מֶן|lemma="שֶׁמֶן" strong="c:H8081" x-morph="He,C:Ncmsc" x-tw="rc://*/tw/dict/bible/other/oil" \w*
 \w יְמִינ֣⁠וֹ|lemma="יָמִין" strong="H3225" x-morph="He,Ncfsc:Sp3ms" \w*
 \w יִקְרָֽא|lemma="קָרָא" strong="H7121" x-morph="He,Vqi3ms" \w*׃
 
@@ -7543,7 +7543,7 @@
 \w יָ֑חַד|lemma="חָדַד" strong="H2300b" x-morph="He,Vhi3ms" \w*
 \w וְ֝⁠אִ֗ישׁ|lemma="אִישׁ" strong="c:H0376" x-morph="He,C:Ncmsa" \w*
 \w יַ֣חַד|lemma="חָדַד" strong="H2300b" x-morph="He,Vhi3ms" \w*
-\w פְּנֵֽי|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" \w*־
+\w פְּנֵֽי|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" x-tw="rc://*/tw/dict/bible/other/face" \w*־
 \w רֵעֵֽ⁠הוּ|lemma="רֵעַ" strong="H7453" x-morph="He,Ncmsc:Sp3ms" \w*׃
 
 \v 18
@@ -7578,7 +7578,7 @@
 \w מַצְרֵ֣ף|lemma="מִצְרֵף" strong="H4715" x-morph="He,Ncmsa" \w*
 \w לַ֭⁠כֶּסֶף|lemma="כֶּסֶף" strong="l:H3701" x-morph="He,Rd:Ncmsa" \w*
 \w וְ⁠כ֣וּר|lemma="כּוּר" strong="c:H3564" x-morph="He,C:Ncmsa" \w*
-\w לַ⁠זָּהָ֑ב|lemma="זָהָב" strong="l:H2091" x-morph="He,Rd:Ncmsa" \w*
+\w לַ⁠זָּהָ֑ב|lemma="זָהָב" strong="l:H2091" x-morph="He,Rd:Ncmsa" x-tw="rc://*/tw/dict/bible/other/gold" \w*
 \w וְ֝⁠אִ֗ישׁ|lemma="אִישׁ" strong="c:H0376" x-morph="He,C:Ncmsa" \w*
 \w לְ⁠פִ֣י|lemma="פֶּה" strong="l:H6310" x-morph="He,R:Ncmsc" \w*
 \w מַהֲלָלֽ⁠וֹ|lemma="מַהֲלָל" strong="H4110" x-morph="He,Ncmsc:Sp3ms" \w*׃
@@ -7600,8 +7600,8 @@
 \v 23
 \w יָדֹ֣עַ|lemma="יָדַע" strong="H3045" x-morph="He,Vqa" \w*
 \w תֵּ֭דַע|lemma="יָדַע" strong="H3045" x-morph="He,Vqj2ms" \w*
-\w פְּנֵ֣י|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" \w*
-\w צֹאנֶ֑⁠ךָ|lemma="צֹאן" strong="H6629" x-morph="He,Ncbsc:Sp2ms" \w*
+\w פְּנֵ֣י|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" x-tw="rc://*/tw/dict/bible/other/face" \w*
+\w צֹאנֶ֑⁠ךָ|lemma="צֹאן" strong="H6629" x-morph="He,Ncbsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/flock" \w*
 \w שִׁ֥ית|lemma="שִׁית" strong="H7896" x-morph="He,Vqv2ms" \w*
 \w לִ֝בְּ⁠ךָ֗|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w לַ⁠עֲדָרִֽים|lemma="עֵדֶר" strong="l:H5739" x-morph="He,R:Ncmpa" \w*׃
@@ -7626,7 +7626,7 @@
 \w הָרִֽים|lemma="הַר" strong="H2022" x-morph="He,Ncmpa" \w*׃
 
 \v 26
-\w כְּבָשִׂ֥ים|lemma="כֶּבֶשׂ" strong="H3532" x-morph="He,Ncmpa" \w*
+\w כְּבָשִׂ֥ים|lemma="כֶּבֶשׂ" strong="H3532" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/lamb" \w*
 \w לִ⁠לְבוּשֶׁ֑⁠ךָ|lemma="לְבוּשׁ" strong="l:H3830" x-morph="He,R:Ncmsc:Sp2ms" \w*
 \w וּ⁠מְחִ֥יר|lemma="מְחִיר" strong="c:H4242" x-morph="He,C:Ncmsc" \w*
 \w שָׂ֝דֶ֗ה|lemma="שָׂדֶה" strong="H7704b" x-morph="He,Ncmsa" \w*
@@ -7658,9 +7658,9 @@
 \w בְּ⁠פֶ֣שַֽׁע|lemma="פֶּשַׁע" strong="b:H6588" x-morph="He,R:Ncmsc" \w*
 \w אֶ֭רֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsa" \w*
 \w רַבִּ֣ים|lemma="רַב" strong="H7227a" x-morph="He,Aampa" \w*
-\w שָׂרֶ֑י⁠הָ|lemma="שַׂר" strong="H8269" x-morph="He,Ncmpc:Sp3fs" \w*
+\w שָׂרֶ֑י⁠הָ|lemma="שַׂר" strong="H8269" x-morph="He,Ncmpc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/prince" \w*
 \w וּ⁠בְ⁠אָדָ֥ם|lemma="אָדָם" strong="c:b:H0120" x-morph="He,C:R:Ncmsa" \w*
-\w מֵבִ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vhrmsa" \w*
+\w מֵבִ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w יֹ֝דֵ֗עַ|lemma="יָדַע" strong="H3045" x-morph="He,Vqrmsa" \w*
 \w כֵּ֣ן|lemma="כֵּן" strong="H3651a" x-morph="He,Tm" \w*
 \w יַאֲרִֽיךְ|lemma="אָרַךְ" strong="H0748" x-morph="He,Vhi3ms" \w*׃
@@ -7673,7 +7673,7 @@
 \w מָטָ֥ר|lemma="מָטַר" strong="H4306" x-morph="He,Ncmsa" \w*
 \w סֹ֝חֵ֗ף|lemma="סָחַף" strong="H5502" x-morph="He,Vqrmsa" \w*
 \w וְ⁠אֵ֣ין|lemma="אַיִן" strong="c:H0369" x-morph="He,C:Tn" \w*
-\w לָֽחֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" \w*׃
+\w לָֽחֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/other/bread" \w*׃
 
 \v 4
 \w עֹזְבֵ֣י|lemma="עָזַב" strong="H5800a" x-morph="He,Vqrmpc" x-tw="rc://*/tw/dict/bible/kt/forsake" \w*
@@ -7689,11 +7689,11 @@
 \w אַנְשֵׁי|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmpc" \w*־
 \w רָ֭ע|lemma="רַע" strong="H7451b" x-morph="He,Aamsa" \w*
 \w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־
-\w יָבִ֣ינוּ|lemma="בִּין" strong="H0995" x-morph="He,Vqi3mp" \w*
+\w יָבִ֣ינוּ|lemma="בִּין" strong="H0995" x-morph="He,Vqi3mp" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w מִשְׁפָּ֑ט|lemma="מִשְׁפָּט" strong="H4941" x-morph="He,Ncmsa" \w*
 \w וּ⁠מְבַקְשֵׁ֥י|lemma="בָּקַשׁ" strong="c:H1245" x-morph="He,C:Vprmpc" \w*
 \w יְ֝הוָ֗ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
-\w יָבִ֥ינוּ|lemma="בִּין" strong="H0995" x-morph="He,Vqi3mp" \w*
+\w יָבִ֥ינוּ|lemma="בִּין" strong="H0995" x-morph="He,Vqi3mp" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w כֹֽל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsa" \w*׃
 
 \v 6
@@ -7710,7 +7710,7 @@
 \w נוֹצֵ֣ר|lemma="נָצַר" strong="H5341" x-morph="He,Vqrmsa" \w*
 \w תּ֭וֹרָה|lemma="תּוֹרָה" strong="H8451" x-morph="He,Ncfsa" \w*
 \w בֵּ֣ן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/son" \w*
-\w מֵבִ֑ין|lemma="בִּין" strong="H0995" x-morph="He,Vhrmsa" \w*
+\w מֵבִ֑ין|lemma="בִּין" strong="H0995" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w וְ⁠רֹעֶה|lemma="רָעָה" strong="c:H7462c" x-morph="He,C:Vqrmsa" \w*
 \w זֽ֝וֹלְלִ֗ים|lemma="זָלַל" strong="H2151b" x-morph="He,Vqrmpa" \w*
 \w יַכְלִ֥ים|lemma="כָּלַם" strong="H3637" x-morph="He,Vhi3ms" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
@@ -7752,12 +7752,12 @@
 \w אִ֣ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
 \w עָשִׁ֑יר|lemma="עָשִׁיר" strong="H6223" x-morph="He,Aamsa" \w*
 \w וְ⁠דַ֖ל|lemma="דַּל" strong="c:H1800" x-morph="He,C:Aamsa" \w*
-\w מֵבִ֣ין|lemma="בִּין" strong="H0995" x-morph="He,Vhrmsa" \w*
+\w מֵבִ֣ין|lemma="בִּין" strong="H0995" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w יַחְקְרֶֽ⁠נּוּ|lemma="חָקַר" strong="H2713" x-morph="He,Vqi3ms:Sp3ms" \w*׃
 
 \v 12
 \w בַּ⁠עֲלֹ֣ץ|lemma="עָלַץ" strong="b:H5970" x-morph="He,R:Vqc" \w*
-\w צַ֭דִּיקִים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַ֭דִּיקִים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w רַבָּ֣ה|lemma="רַב" strong="H7227a" x-morph="He,Aafsa" \w*
 \w תִפְאָ֑רֶת|lemma="תִּפְאָרָה" strong="H8597" x-morph="He,Ncfsa" \w*
 \w וּ⁠בְ⁠ק֥וּם|lemma="קוּם" strong="c:b:H6965b" x-morph="He,C:R:Vqc" \w*
@@ -7831,7 +7831,7 @@
 \w עֹבֵ֣ד|lemma="עָבַד" strong="H5647" x-morph="He,Vqrmsc" \w*
 \w אַ֭דְמָת⁠וֹ|lemma="אֲדָמָה" strong="H0127" x-morph="He,Ncfsc:Sp3ms" \w*
 \w יִֽשְׂבַּֽע|lemma="שָׂבַע" strong="H7646" x-morph="He,Vqi3ms" \w*־
-\w לָ֑חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" \w*
+\w לָ֑חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/other/bread" \w*
 \w וּ⁠מְרַדֵּ֥ף|lemma="רָדַף" strong="c:H7291" x-morph="He,C:Vprmsa" \w*
 \w רֵ֝קִ֗ים|lemma="רֵיק" strong="H7386" x-morph="He,Aampa" \w*
 \w יִֽשְׂבַּֽע|lemma="שָׂבַע" strong="H7646" x-morph="He,Vqi3ms" \w*־
@@ -7849,12 +7849,12 @@
 
 \v 21
 \w הַֽכֵּר|lemma="נָכַר" strong="H5234a" x-morph="He,Vha" \w*־
-\w פָּנִ֥ים|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpa" \w*
+\w פָּנִ֥ים|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpa" x-tw="rc://*/tw/dict/bible/other/face" \w*
 \w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־
 \w ט֑וֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
 \w וְ⁠עַל|lemma="עַל" strong="c:H5921a" x-morph="He,C:R" \w*־
 \w פַּת|lemma="פַּת" strong="H6595a" x-morph="He,Ncfsc" \w*־
-\w לֶ֝֗חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" \w*
+\w לֶ֝֗חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/other/bread" \w*
 \w יִפְשַׁע|lemma="פָּשַׁע" strong="H6586" x-morph="He,Vqi3ms" \w*־
 \w גָּֽבֶר|lemma="גֶּבֶר" strong="H1397" x-morph="He,Ncmsa" \w*׃
 
@@ -7903,7 +7903,7 @@
 
 \v 26
 \w בּוֹטֵ֣חַ|lemma="בָּטַח" strong="H0982" x-morph="He,Vqrmsa" \w*
-\w בְּ֭⁠לִבּ⁠וֹ|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp3ms" \w*
+\w בְּ֭⁠לִבּ⁠וֹ|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/heart" \w*
 \w ה֣וּא|lemma="הוּא" strong="H1931" x-morph="He,Pp3ms" \w*
 \w כְסִ֑יל|lemma="כְּסִיל" strong="H3684" x-morph="He,Aamsa" \w*
 \w וְ⁠הוֹלֵ֥ךְ|lemma="הָלַךְ" strong="c:H1980" x-morph="He,C:Vqrmsa" \w*
@@ -7928,7 +7928,7 @@
 \w אָדָ֑ם|lemma="אָדָם" strong="H0120" x-morph="He,Ncmsa" \w*
 \w וּ֝⁠בְ⁠אָבְדָ֗⁠ם|lemma="אָבַד" strong="c:b:H0006" x-morph="He,C:R:Vqc:Sp3mp" \w*
 \w יִרְבּ֥וּ|lemma="רָבָה" strong="H7235a" x-morph="He,Vqi3mp" \w*
-\w צַדִּיקִֽים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*׃
+\w צַדִּיקִֽים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*׃
 
 \c 29
 \p
@@ -7945,8 +7945,8 @@
 
 \v 2
 \w בִּ⁠רְב֣וֹת|lemma="רָבָה" strong="b:H7235a" x-morph="He,R:Vqc" \w*
-\w צַ֭דִּיקִים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
-\w יִשְׂמַ֣ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqi3ms" \w*
+\w צַ֭דִּיקִים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
+\w יִשְׂמַ֣ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*
 \w הָ⁠עָ֑ם|lemma="עַם" strong="d:H5971a" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
 \w וּ⁠בִ⁠מְשֹׁ֥ל|lemma="מָשַׁל" strong="c:b:H4910" x-morph="He,C:R:Vqc" \w*
 \w רָ֝שָׁ֗ע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*
@@ -7957,7 +7957,7 @@
 \w אִֽישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*־
 \w אֹהֵ֣ב|lemma="אָהַב" strong="H0157" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/kt/love" \w*
 \w חָ֭כְמָה|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsa" \w*
-\w יְשַׂמַּ֣ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms" \w*
+\w יְשַׂמַּ֣ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vpi3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*
 \w אָבִ֑י⁠ו|lemma="אָב" strong="H0001" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/father" \w*
 \w וְ⁠רֹעֶ֥ה|lemma="רָעָה" strong="c:H7462c" x-morph="He,C:Vqrmsa" \w*
 \w ז֝וֹנ֗וֹת|lemma="זָנָה" strong="H2181" x-morph="He,Vqrfpa" \w*
@@ -7965,12 +7965,12 @@
 \w הֽוֹן|lemma="הוֹן" strong="H1952" x-morph="He,Ncmsa" \w*׃
 
 \v 4
-\w מֶ֗לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֗לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w בְּ֭⁠מִשְׁפָּט|lemma="מִשְׁפָּט" strong="b:H4941" x-morph="He,R:Ncmsa" \w*
 \w יַעֲמִ֣יד|lemma="עָמַד" strong="H5975" x-morph="He,Vhi3ms" \w*
 \w אָ֑רֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsa" \w*
 \w וְ⁠אִ֖ישׁ|lemma="אִישׁ" strong="c:H0376" x-morph="He,C:Ncmsc" \w*
-\w תְּרוּמ֣וֹת|lemma="תְּרוּמָה" strong="H8641" x-morph="He,Ncfpa" \w*
+\w תְּרוּמ֣וֹת|lemma="תְּרוּמָה" strong="H8641" x-morph="He,Ncfpa" x-tw="rc://*/tw/dict/bible/other/sacrifice" \w*
 \w יֶֽהֶרְסֶֽ⁠נָּה|lemma="הָרַס" strong="H2040" x-morph="He,Vqi3ms:Sp3fs" \w*׃
 
 \v 5
@@ -7994,12 +7994,12 @@
 
 \v 7
 \w יֹדֵ֣עַ|lemma="יָדַע" strong="H3045" x-morph="He,Vqrmsa" \w*
-\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" \w*
+\w צַ֭דִּיק|lemma="צַדִּיק" strong="H6662" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w דִּ֣ין|lemma="דִּין" strong="H1779" x-morph="He,Ncmsc" \w*
 \w דַּלִּ֑ים|lemma="דַּל" strong="H1800" x-morph="He,Aampa" \w*
 \w רָ֝שָׁ֗ע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*
 \w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־
-\w יָבִ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" \w*
+\w יָבִ֥ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w דָּֽעַת|lemma="דַּעַת" strong="H1847" x-morph="He,Ncfsa" \w*׃
 
 \v 8
@@ -8029,12 +8029,12 @@
 \w יִשְׂנְאוּ|lemma="שָׂנֵא" strong="H8130" x-morph="He,Vqi3mp" \w*־
 \w תָ֑ם|lemma="תָּם" strong="H8535" x-morph="He,Aamsa" \w*
 \w וִֽ֝⁠ישָׁרִ֗ים|lemma="יָשָׁר" strong="c:H3477" x-morph="He,C:Aampa" \w*
-\w יְבַקְשׁ֥וּ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3mp" \w*
+\w יְבַקְשׁ֥וּ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi3mp" x-tw="rc://*/tw/dict/bible/other/seek" \w*
 \w נַפְשֽׁ⁠וֹ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/life" \w*׃
 
 \v 11
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־
-\w ר֭וּח⁠וֹ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsc:Sp3ms" \w*
+\w ר֭וּח⁠וֹ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w יוֹצִ֣יא|lemma="יָצָא" strong="H3318" x-morph="He,Vhi3ms" \w*
 \w כְסִ֑יל|lemma="כְּסִיל" strong="H3684" x-morph="He,Aamsa" \w*
 \w וְ֝⁠חָכָ֗ם|lemma="חָכָם" strong="c:H2450" x-morph="He,C:Aamsa" \w*
@@ -8045,10 +8045,10 @@
 \w מֹ֭שֵׁל|lemma="מָשַׁל" strong="H4910" x-morph="He,Vqrmsa" \w*
 \w מַקְשִׁ֣יב|lemma="קָשַׁב" strong="H7181" x-morph="He,Vhrmsa" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
-\w דְּבַר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsc" \w*־
+\w דְּבַר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/word" \w*־
 \w שָׁ֑קֶר|lemma="שֶׁקֶר" strong="H8267" x-morph="He,Ncmsa" \w*
 \w כָּֽל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־
-\w מְשָׁרְתָ֥י⁠ו|lemma="שָׁרַת" strong="H8334" x-morph="He,Vprmpc:Sp3ms" \w*
+\w מְשָׁרְתָ֥י⁠ו|lemma="שָׁרַת" strong="H8334" x-morph="He,Vprmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/servant" \w*
 \w רְשָׁעִֽים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*׃
 
 \v 13
@@ -8062,7 +8062,7 @@
 \w יְהוָֽה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*׃
 
 \v 14
-\w מֶ֤לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֤לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w שׁוֹפֵ֣ט|lemma="שָׁפַט" strong="H8199" x-morph="He,Vqrmsa" \w*
 \w בֶּֽ⁠אֱמֶ֣ת|lemma="אֶמֶת" strong="b:H0571" x-morph="He,R:Ncfsa" \w*
 \w דַּלִּ֑ים|lemma="דַּל" strong="H1800" x-morph="He,Aampa" \w*
@@ -8077,7 +8077,7 @@
 \w חָכְמָ֑ה|lemma="חׇכְמָה" strong="H2451" x-morph="He,Ncfsa" \w*
 \w וְ⁠נַ֥עַר|lemma="נַעַר" strong="c:H5288" x-morph="He,C:Ncmsa" \w*
 \w מְ֝שֻׁלָּ֗ח|lemma="שָׁלַח" strong="H7971" x-morph="He,VPsmsa" \w*
-\w מֵבִ֥ישׁ|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrmsa" \w*
+\w מֵבִ֥ישׁ|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w אִמּֽ⁠וֹ|lemma="אֵם" strong="H0517" x-morph="He,Ncfsc:Sp3ms" \w*׃
 
 \v 16
@@ -8107,12 +8107,12 @@
 \w אַשְׁרֵֽ⁠הוּ|lemma="אֶשֶׁר" strong="H0835" x-morph="He,Ncmsc:Sp3ms" \w*׃
 
 \v 19
-\w בִּ֭⁠דְבָרִים|lemma="דָּבָר" strong="b:H1697" x-morph="He,R:Ncmpa" \w*
+\w בִּ֭⁠דְבָרִים|lemma="דָּבָר" strong="b:H1697" x-morph="He,R:Ncmpa" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־
 \w יִוָּ֣סֶר|lemma="יָסַר" strong="H3256" x-morph="He,VNi3ms" \w*
-\w עָ֑בֶד|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsa" \w*
+\w עָ֑בֶד|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/servant" \w*
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־
-\w יָ֝בִ֗ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" \w*
+\w יָ֝בִ֗ין|lemma="בִּין" strong="H0995" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/understand" \w*
 \w וְ⁠אֵ֣ין|lemma="אַיִן" strong="c:H0369" x-morph="He,C:Tn" \w*
 \w מַעֲנֶֽה|lemma="מַעֲנֶה" strong="H4617" x-morph="He,Vhrmsa" \w*׃
 
@@ -8120,7 +8120,7 @@
 \w חָזִ֗יתָ|lemma="חָזָה" strong="H2372" x-morph="He,Vqp2ms" \w*
 \w אִ֭ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
 \w אָ֣ץ|lemma="אוּץ" strong="H0213" x-morph="He,Vqrmsa" \w*
-\w בִּ⁠דְבָרָ֑י⁠ו|lemma="דָּבָר" strong="b:H1697" x-morph="He,R:Ncmpc:Sp3ms" \w*
+\w בִּ⁠דְבָרָ֑י⁠ו|lemma="דָּבָר" strong="b:H1697" x-morph="He,R:Ncmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w תִּקְוָ֖ה|lemma="תִּקְוָה" strong="H8615b" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/kt/hope" \w*
 \w לִ⁠כְסִ֣יל|lemma="כְּסִיל" strong="l:H3684" x-morph="He,R:Aamsa" \w*
 \w מִמֶּֽ⁠נּוּ|lemma="מִן" strong="H4480a" x-morph="He,R:Sp3ms" \w*׃
@@ -8128,7 +8128,7 @@
 \v 21
 \w מְפַנֵּ֣ק|lemma="פָּנַק" strong="H6445" x-morph="He,Vprmsa" \w*
 \w מִ⁠נֹּ֣עַר|lemma="נֹעַר" strong="m:H5290" x-morph="He,R:Ncmsa" \w*
-\w עַבְדּ֑⁠וֹ|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsc:Sp3ms" \w*
+\w עַבְדּ֑⁠וֹ|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/servant" \w*
 \w וְ֝⁠אַחֲרִית֗⁠וֹ|lemma="אַחֲרִית" strong="c:H0319" x-morph="He,C:Ncfsc:Sp3ms" \w*
 \w יִהְיֶ֥ה|lemma="הָיָה" strong="H1961" x-morph="He,Vqi3ms" \w*
 \w מָנֽוֹן|lemma="מָנוֹן" strong="H4497" x-morph="He,Ncmsa" \w*׃
@@ -8148,7 +8148,7 @@
 \w אָ֭דָם|lemma="אָדָם" strong="H0120" x-morph="He,Ncmsa" \w*
 \w תַּשְׁפִּילֶ֑⁠נּוּ|lemma="שָׁפֵל" strong="H8213" x-morph="He,Vhi3fs:Sp3ms" \w*
 \w וּ⁠שְׁפַל|lemma="שָׁפָל" strong="c:H8217" x-morph="He,C:Aamsc" \w*־
-\w ר֝֗וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" \w*
+\w ר֝֗וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w יִתְמֹ֥ךְ|lemma="תָּמַךְ" strong="H8551" x-morph="He,Vqi3ms" \w*
 \w כָּבֽוֹד|lemma="כָּבוֹד" strong="H3519" x-morph="He,Ncbsa" \w*׃
 
@@ -8174,8 +8174,8 @@
 
 \v 26
 \w רַ֭בִּים|lemma="רַב" strong="H7227a" x-morph="He,Aampa" \w*
-\w מְבַקְשִׁ֣ים|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vprmpa" \w*
-\w פְּנֵי|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" \w*־
+\w מְבַקְשִׁ֣ים|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vprmpa" x-tw="rc://*/tw/dict/bible/other/seek" \w*
+\w פְּנֵי|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc" x-tw="rc://*/tw/dict/bible/other/face" \w*־
 \w מוֹשֵׁ֑ל|lemma="מָשַׁל" strong="H4910" x-morph="He,Vqrmsa" \w*
 \w וּ֝⁠מֵ⁠יְהוָ֗ה|lemma="יְהֹוָה" strong="c:m:H3068" x-morph="He,C:R:Np" \w*
 \w מִשְׁפַּט|lemma="מִשְׁפָּט" strong="H4941" x-morph="He,Ncmsc" \w*־
@@ -8183,7 +8183,7 @@
 
 \v 27
 \w תּוֹעֲבַ֣ת|lemma="תּוֹעֵבַה" strong="H8441" x-morph="He,Ncfsc" \w*
-\w צַ֭דִּיקִים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" \w*
+\w צַ֭דִּיקִים|lemma="צַדִּיק" strong="H6662" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/kt/righteous" \w*
 \w אִ֣ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsc" \w*
 \w עָ֑וֶל|lemma="עֶוֶל" strong="H5766a" x-morph="He,Ncbsa" \w*
 \w וְ⁠תוֹעֲבַ֖ת|lemma="תּוֹעֵבַה" strong="c:H8441" x-morph="He,C:Ncfsc" \w*
@@ -8195,7 +8195,7 @@
 \p
 
 \v 1
-\w דִּבְרֵ֤י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" \w*׀
+\w דִּבְרֵ֤י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/word" \w*׀
 \w אָג֥וּר|lemma="אָגוּר" strong="H0094" x-morph="He,Np" \w*
 \w בִּן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son" \w*־
 \w יָקֶ֗ה|lemma="יָקֶה" strong="H3348" x-morph="He,Np" \w*
@@ -8230,8 +8230,8 @@
 \w שָׁמַ֨יִם|lemma="שָׁמַיִם" strong="H8064" x-morph="He,Ncmpa" \w*׀
 \w וַ⁠יֵּרַ֡ד|lemma="יָרַד" strong="c:H3381" x-morph="He,C:Vqw3ms" \w*
 \w מִ֤י|lemma="מִי" strong="H4310" x-morph="He,Ti" \w*
-\w אָֽסַף|lemma="אָסַף" strong="H0622" x-morph="He,Vqp3ms" \w*־
-\w ר֨וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" \w*׀
+\w אָֽסַף|lemma="אָסַף" strong="H0622" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/other/assembly" \w*־
+\w ר֨וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*׀
 \w בְּ⁠חָפְנָ֡י⁠ו|lemma="חֹפֶן" strong="b:H2651" x-morph="He,R:Ncmdc:Sp3ms" \w*
 \w מִ֤י|lemma="מִי" strong="H4310" x-morph="He,Ti" \w*
 \w צָֽרַר|lemma="צָרַר" strong="H6887b" x-morph="He,Vqp3ms" \w*־
@@ -8264,7 +8264,7 @@
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־
 \w תּ֥וֹסְףְּ|lemma="יָסַף" strong="H3254" x-morph="He,Vhj2ms" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־
-\w דְּבָרָ֑י⁠ו|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc:Sp3ms" \w*
+\w דְּבָרָ֑י⁠ו|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w פֶּן|lemma="פֵּן" strong="H6435" x-morph="He,C" \w*־
 \w יוֹכִ֖יחַ|lemma="יָכַח" strong="H3198" x-morph="He,Vhi3ms" \w*
 \w בְּ⁠ךָ֣|lemma="" strong="b" x-morph="He,R:Sp2ms" \w*
@@ -8292,8 +8292,8 @@
 \w תִּֽתֶּן|lemma="נָתַן" strong="H5414" x-morph="He,Vqj2ms" \w*־
 \w לִ֑⁠י|lemma="" strong="l" x-morph="He,R:Sp1cs" \w*
 \w הַ֝טְרִיפֵ֗⁠נִי|lemma="טָרַף" strong="H2963" x-morph="He,Vhv2ms:Sp1cs" \w*
-\w לֶ֣חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc" \w*
-\w חֻקִּֽ⁠י|lemma="חֹק" strong="H2706" x-morph="He,Ncmsc:Sp1cs" \w*׃
+\w לֶ֣חֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/other/bread" \w*
+\w חֻקִּֽ⁠י|lemma="חֹק" strong="H2706" x-morph="He,Ncmsc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/ordinance" \w*׃
 
 \v 9
 \w פֶּ֥ן|lemma="פֵּן" strong="H6435" x-morph="He,C" \w*
@@ -8307,12 +8307,12 @@
 \w וְ⁠גָנַ֑בְתִּי|lemma="גָּנַב" strong="c:H1589" x-morph="He,C:Vqq1cs" \w*
 \w וְ֝⁠תָפַ֗שְׂתִּי|lemma="תָּפַשׂ" strong="c:H8610" x-morph="He,C:Vqq1cs" \w*
 \w שֵׁ֣ם|lemma="שֵׁם" strong="H8034" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/name" \w*
-\w אֱלֹהָֽ⁠י|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/falsegod" \w*׃פ
+\w אֱלֹהָֽ⁠י|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/god" \w*׃פ
 
 \v 10
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־
 \w תַּלְשֵׁ֣ן|lemma="לָשַׁן" strong="H3960" x-morph="He,Vhj2ms" \w*
-\w עֶ֭בֶד|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsa" \w*
+\w עֶ֭בֶד|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/servant" \w*
 \w אֶל|lemma="אֵל" strong="H0413" x-morph="He,R" \w*־
 \w אדנ⁠ו|lemma="אָדוֹן" strong="H0113" x-morph="He,Ncmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/lord" \w*
 \w פֶּֽן|lemma="פֵּן" strong="H6435" x-morph="He,C" \w*־
@@ -8330,7 +8330,7 @@
 
 \v 12
 \w דּ֭וֹר|lemma="דּוֹר" strong="H1755" x-morph="He,Ncmsa" \w*
-\w טָה֣וֹר|lemma="טָהוֹר" strong="H2889" x-morph="He,Aamsa" \w*
+\w טָה֣וֹר|lemma="טָהוֹר" strong="H2889" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/clean" \w*
 \w בְּ⁠עֵינָ֑י⁠ו|lemma="עַיִן" strong="b:H5869a" x-morph="He,R:Ncbdc:Sp3ms" \w*
 \w וּ֝⁠מִ⁠צֹּאָת֗⁠וֹ|lemma="צוֹאָה" strong="c:m:H6675" x-morph="He,C:R:Ncfsc:Sp3ms" \w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
@@ -8417,7 +8417,7 @@
 \w צ֥וּר|lemma="צוּר" strong="H6697" x-morph="He,Ncmsa" \w*
 \w דֶּֽרֶךְ|lemma="דֶּרֶךְ" strong="H1870" x-morph="He,Ncbsc" \w*־
 \w אֳנִיָּ֥ה|lemma="אֳנִיָּה" strong="H0591" x-morph="He,Ncfsa" \w*
-\w בְ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" \w*־
+\w בְ⁠לֶב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/other/heart" \w*־
 \w יָ֑ם|lemma="יָם" strong="H3220" x-morph="He,Ncmsa" \w*
 \w וְ⁠דֶ֖רֶךְ|lemma="דֶּרֶךְ" strong="c:H1870" x-morph="He,C:Ncbsc" \w*
 \w גֶּ֣בֶר|lemma="גֶּבֶר" strong="H1397" x-morph="He,Ncmsa" \w*
@@ -8449,13 +8449,13 @@
 
 \v 22
 \w תַּֽחַת|lemma="תַּחַת" strong="H8478" x-morph="He,R" \w*־
-\w עֶ֭בֶד|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsa" \w*
+\w עֶ֭בֶד|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/servant" \w*
 \w כִּ֣י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w יִמְל֑וֹךְ|lemma="מָלַךְ" strong="H4427a" x-morph="He,Vqi3ms" \w*
 \w וְ֝⁠נָבָ֗ל|lemma="נָבָל" strong="c:H5036" x-morph="He,C:Aamsa" \w*
 \w כִּ֣י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w יִֽשְׂבַּֽע|lemma="שָׂבַע" strong="H7646" x-morph="He,Vqi3ms" \w*־
-\w לָֽחֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" \w*׃
+\w לָֽחֶם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/other/bread" \w*׃
 
 \v 23
 \w תַּ֣חַת|lemma="תַּחַת" strong="H8478" x-morph="He,R" \w*
@@ -8483,7 +8483,7 @@
 \w עָ֑ז|lemma="עַז" strong="H5794" x-morph="He,Aamsa" \w*
 \w וַ⁠יָּכִ֖ינוּ|lemma="כּוּן" strong="c:H3559a" x-morph="He,C:Vhw3mp" \w*
 \w בַ⁠קַּ֣יִץ|lemma="קַיִץ" strong="b:H7019" x-morph="He,Rd:Ncmsa" \w*
-\w לַחְמָֽ⁠ם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc:Sp3mp" \w*׃
+\w לַחְמָֽ⁠ם|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc:Sp3mp" x-tw="rc://*/tw/dict/bible/other/bread" \w*׃
 
 \v 26
 \w שְׁ֭פַנִּים|lemma="שָׁפָן" strong="H8227a" x-morph="He,Ncmpa" \w*
@@ -8495,20 +8495,20 @@
 \w בֵּיתָֽ⁠ם|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc:Sp3mp" x-tw="rc://*/tw/dict/bible/other/house" \w*׃
 
 \v 27
-\w מֶ֭לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֭לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w אֵ֣ין|lemma="אַיִן" strong="H0369" x-morph="He,Tn" \w*
 \w לָ⁠אַרְבֶּ֑ה|lemma="אַרְבֶּה" strong="l:H0697" x-morph="He,Rd:Ncmsa" \w*
-\w וַ⁠יֵּצֵ֖א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vqw3ms" \w*
+\w וַ⁠יֵּצֵ֖א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vqw3ms" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w חֹצֵ֣ץ|lemma="חָצַץ" strong="H2686a" x-morph="He,Vqrmsa" \w*
 \w כֻּלּֽ⁠וֹ|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc:Sp3ms" \w*׃
 
 \v 28
 \w שְׂ֭מָמִית|lemma="שְׂמָמִית" strong="H8079" x-morph="He,Ncfsa" \w*
-\w בְּ⁠יָדַ֣יִם|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbda" \w*
+\w בְּ⁠יָדַ֣יִם|lemma="יָד" strong="b:H3027" x-morph="He,R:Ncbda" x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w תְּתַפֵּ֑שׂ|lemma="תָּפַשׂ" strong="H8610" x-morph="He,Vpi2ms" \w*
 \w וְ֝⁠הִ֗יא|lemma="הוּא" strong="c:H1931" x-morph="He,C:Pp3fs" \w*
 \w בְּ⁠הֵ֣יכְלֵי|lemma="הֵיכָל" strong="b:H1964" x-morph="He,R:Ncmpc" \w*
-\w מֶֽלֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*׃פ
+\w מֶֽלֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*׃פ
 
 \v 29
 \w שְׁלֹשָׁ֣ה|lemma="שָׁלוֹשׁ" strong="H7969" x-morph="He,Acmsa" \w*
@@ -8565,9 +8565,9 @@
 \p
 
 \v 1
-\w דִּ֭בְרֵי|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" \w*
+\w דִּ֭בְרֵי|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/word" \w*
 \w לְמוּאֵ֣ל|lemma="לְמוּאֵל" strong="H3927" x-morph="He,Np" \w*
-\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" \w*
+\w מֶ֑לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w מַ֝שָּׂ֗א|lemma="מַשָּׂא" strong="H4853a" x-morph="He,Ncmsa" \w*
 \w אֲֽשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*־
 \w יִסְּרַ֥תּ⁠וּ|lemma="יָסַר" strong="H3256" x-morph="He,Vpp3fs:Sp3ms" \w*
@@ -8590,14 +8590,14 @@
 \w חֵילֶ֑⁠ךָ|lemma="חַיִל" strong="H2428" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/prosper" \w*
 \w וּ֝⁠דְרָכֶ֗י⁠ךָ|lemma="דֶּרֶךְ" strong="c:H1870" x-morph="He,C:Ncbpc:Sp2ms" \w*
 \w לַֽ⁠מְח֥וֹת|lemma="מָחָה" strong="l:H4229a" x-morph="He,R:Vhc" \w*
-\w מְלָכִֽין|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" \w*׃
+\w מְלָכִֽין|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/king" \w*׃
 
 \v 4
 \w אַ֤ל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*
-\w לַֽ⁠מְלָכִ֨ים|lemma="מֶלֶךְ" strong="l:H4428" x-morph="He,Rd:Ncmpa" \w*׀
+\w לַֽ⁠מְלָכִ֨ים|lemma="מֶלֶךְ" strong="l:H4428" x-morph="He,Rd:Ncmpa" x-tw="rc://*/tw/dict/bible/other/king" \w*׀
 \w לְֽמוֹאֵ֗ל|lemma="לְמוּאֵל" strong="H3927" x-morph="He,Np" \w*
 \w אַ֣ל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*
-\w לַֽ⁠מְלָכִ֣ים|lemma="מֶלֶךְ" strong="l:H4428" x-morph="He,Rd:Ncmpa" \w*
+\w לַֽ⁠מְלָכִ֣ים|lemma="מֶלֶךְ" strong="l:H4428" x-morph="He,Rd:Ncmpa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w שְׁתוֹ|lemma="שָׁתָה" strong="H8354" x-morph="He,Vqc" \w*־
 \w יָ֑יִן|lemma="יַיִן" strong="H3196" x-morph="He,Ncmsa" \w*
 \w וּ֝⁠לְ⁠רוֹזְנִ֗ים|lemma="רָזַן" strong="c:l:H7336" x-morph="He,C:R:Vqrmpa" \w*
@@ -8679,12 +8679,12 @@
 \w חַיֶּֽי⁠ה|lemma="חַי" strong="H2416e" x-morph="He,Ncmpc:Sp3fs" \w*׃
 
 \v 13
-\w דָּ֭רְשָׁה|lemma="דָּרַשׁ" strong="H1875" x-morph="He,Vqp3fs" \w*
+\w דָּ֭רְשָׁה|lemma="דָּרַשׁ" strong="H1875" x-morph="He,Vqp3fs" x-tw="rc://*/tw/dict/bible/other/seek" \w*
 \w צֶ֣מֶר|lemma="צֶמֶר" strong="H6785" x-morph="He,Ncmsa" \w*
 \w וּ⁠פִשְׁתִּ֑ים|lemma="פִּשְׁתֶּה" strong="c:H6593" x-morph="He,C:Ncmpa" \w*
 \w וַ֝⁠תַּ֗עַשׂ|lemma="עָשָׂה" strong="c:H6213a" x-morph="He,C:Vqw3fs" \w*
 \w בְּ⁠חֵ֣פֶץ|lemma="חֵפֶץ" strong="b:H2656" x-morph="He,R:Ncmsc" \w*
-\w כַּפֶּֽי⁠הָ|lemma="כַּף" strong="H3709" x-morph="He,Ncfdc:Sp3fs" \w*׃
+\w כַּפֶּֽי⁠הָ|lemma="כַּף" strong="H3709" x-morph="He,Ncfdc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/hand" \w*׃
 
 \v 14
 \w הָ֭יְתָה|lemma="הָיָה" strong="H1961" x-morph="He,Vqp3fs" \w*
@@ -8692,7 +8692,7 @@
 \w סוֹחֵ֑ר|lemma="סָחַר" strong="H5503" x-morph="He,Vqrmsa" \w*
 \w מִ֝⁠מֶּרְחָ֗ק|lemma="מֶרְחָק" strong="m:H4801" x-morph="He,R:Ncmsa" \w*
 \w תָּבִ֥יא|lemma="בּוֹא" strong="H0935" x-morph="He,Vhi3fs" \w*
-\w לַחְמָֽ⁠הּ|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc:Sp3fs" \w*׃
+\w לַחְמָֽ⁠הּ|lemma="לֶחֶם" strong="H3899" x-morph="He,Ncbsc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/bread" \w*׃
 
 \v 15
 \w וַ⁠תָּ֤קָם|lemma="קוּם" strong="c:H6965b" x-morph="He,C:Vqw3fs" \w*׀
@@ -8701,7 +8701,7 @@
 \w וַ⁠תִּתֵּ֣ן|lemma="נָתַן" strong="c:H5414" x-morph="He,C:Vqw3fs" \w*
 \w טֶ֣רֶף|lemma="טֶרֶף" strong="H2964" x-morph="He,Ncmsa" \w*
 \w לְ⁠בֵיתָ֑⁠הּ|lemma="בַּיִת" strong="l:H1004b" x-morph="He,R:Ncmsc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/house" \w*
-\w וְ֝⁠חֹ֗ק|lemma="חֹק" strong="c:H2706" x-morph="He,C:Ncmsa" \w*
+\w וְ֝⁠חֹ֗ק|lemma="חֹק" strong="c:H2706" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/other/statute" \w*
 \w לְ⁠נַעֲרֹתֶֽי⁠הָ|lemma="נַעֲרָה" strong="l:H5291" x-morph="He,R:Ncfpc:Sp3fs" \w*׃
 
 \v 16
@@ -8709,7 +8709,7 @@
 \w שָׂ֭דֶה|lemma="שָׂדֶה" strong="H7704b" x-morph="He,Ncmsa" \w*
 \w וַ⁠תִּקָּחֵ֑⁠הוּ|lemma="לָקַח" strong="c:H3947" x-morph="He,C:Vqw3fs:Sp3ms" \w*
 \w מִ⁠פְּרִ֥י|lemma="פְּרִי" strong="m:H6529" x-morph="He,R:Ncmsc" \w*
-\w כַ֝פֶּ֗י⁠הָ|lemma="כַּף" strong="H3709" x-morph="He,Ncfdc:Sp3fs" \w*
+\w כַ֝פֶּ֗י⁠הָ|lemma="כַּף" strong="H3709" x-morph="He,Ncfdc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w נטע|lemma="נָטַע" strong="H5193" x-morph="He,Vqp3ms" \w*
 \w כָּֽרֶם|lemma="כֶּרֶם" strong="H3754" x-morph="He,Ncbsa" \w*׃
 
@@ -8739,10 +8739,10 @@
 \w פָֽלֶךְ|lemma="פֶּלֶךְ" strong="H6418" x-morph="He,Ncmsa" \w*׃
 
 \v 20
-\w כַּ֭פָּ⁠הּ|lemma="כַּף" strong="H3709" x-morph="He,Ncfsc:Sp3fs" \w*
+\w כַּ֭פָּ⁠הּ|lemma="כַּף" strong="H3709" x-morph="He,Ncfsc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w פָּרְשָׂ֣ה|lemma="פָּרַשׂ" strong="H6566" x-morph="He,Vqp3fs" \w*
 \w לֶ⁠עָנִ֑י|lemma="עָנִי" strong="l:H6041" x-morph="He,Rd:Aamsa" \w*
-\w וְ֝⁠יָדֶ֗י⁠הָ|lemma="יָד" strong="c:H3027" x-morph="He,C:Ncbdc:Sp3fs" \w*
+\w וְ֝⁠יָדֶ֗י⁠הָ|lemma="יָד" strong="c:H3027" x-morph="He,C:Ncbdc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w שִׁלְּחָ֥ה|lemma="שָׁלַח" strong="H7971" x-morph="He,Vpp3fs" \w*
 \w לָֽ⁠אֶבְיֽוֹן|lemma="אֶבְיוֹן" strong="l:H0034" x-morph="He,Rd:Aamsa" \w*׃
 
