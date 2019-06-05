@@ -6085,7 +6085,7 @@
 \w אָ֑לֶף|lemma="אֶלֶף" strong="H0505" x-morph="He,Acbsa" \w*
 \w וְ⁠לַ⁠עֲדֹ֖ר|lemma="עֲדַר" strong="c:l:H5737a" x-morph="He,C:R:Vqc" \w*
 \w בְּ⁠לֹא|lemma="לֹא" strong="b:H3808" x-morph="He,R:Tn" \w*־
-\w לֵ֥ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
+\w לֵ֥ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w וָ⁠לֵֽב|lemma="לֵב" strong="c:H3820a" x-morph="He,C:Ncmsa" \w*׃ס
 
 \v 35
@@ -6157,7 +6157,7 @@
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־
 \w שֵׁרִ֧ית|lemma="שְׁאֵרִית" strong="H7611" x-morph="He,Ncfsc" x-tw="rc://*/tw/dict/bible/kt/remnant" \w*
 \w יִשְׂרָאֵ֛ל|lemma="יִשְׂרָאֵל" strong="H3478" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/israel" \w*
-\w לֵ֥ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
+\w לֵ֥ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w אֶחָ֖ד|lemma="אֶחָד" strong="H0259" x-morph="He,Acmsa" \w*
 \w לְ⁠הַמְלִ֥יךְ|lemma="מָלַךְ" strong="l:H4427a" x-morph="He,R:Vhc" x-tw="rc://*/tw/dict/bible/other/reign" \w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־
@@ -7235,7 +7235,7 @@
 \w בְּ⁠שֵׁ֣ם|lemma="שֵׁם" strong="b:H8034" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/kt/name" \w*
 \w קָדְשׁ֔⁠וֹ|lemma="קֹדֶשׁ" strong="H6944" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/holy" \w*
 \w יִשְׂמַ֕ח|lemma="שָׂמַח" strong="H8055" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/joy" \w*
-\w לֵ֖ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/kind" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
+\w לֵ֖ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w מְבַקְשֵׁ֥י|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vprmpc" x-tw="rc://*/tw/dict/bible/other/seek" \w*
 \w יְהוָֽה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*׃
 
