@@ -931,7 +931,7 @@
 \w הָפַ֣כְתִּי|lemma="הָפַךְ" strong="H2015" x-morph="He,Vqp1cs" \w*
 \w בָ⁠כֶ֗ם|lemma="" strong="b" x-morph="He,R:Sp2mp" \w*
 \w כְּ⁠מַהְפֵּכַ֤ת|lemma="מַהְפֵּכָה" strong="k:H4114" x-morph="He,R:Ncfsc" \w*
-\w אֱלֹהִים֙|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/god" x\-tw\=\"rc://\*/tw/dict/bible/kt/god\" \w*
+\w אֱלֹהִים֙|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־
 \w סְדֹ֣ם|lemma="סְדֹם" strong="H5467" x-morph="He,Np" \w*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To" \w*־
