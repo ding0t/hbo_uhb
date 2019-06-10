@@ -896,7 +896,11 @@
 \w לֹ֥א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
 \w עֲבָדֽ⁠וֹ|lemma="עָבַד" strong="H5647" x-morph="He,Vqp3ms:Sp3ms" \w*׃ס
 
-\v 19
+
+\c 4
+\p
+\v 1
+\va 3:19\va*
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־
 \w הִנֵּ֤ה|lemma="הִנֵּה" strong="H2009" x-morph="He,Tm" \w*
 \w הַ⁠יּוֹם֙|lemma="יוֹם" strong="d:H3117" x-morph="He,Td:Ncmsa" \w*
@@ -924,7 +928,8 @@
 \w שֹׁ֥רֶשׁ|lemma="שֶׁרֶשׁ" strong="H8328" x-morph="He,Ncmsa" \w*
 \w וְ⁠עָנָֽף|lemma="עָנָף" strong="c:H6057" x-morph="He,C:Ncmsa" \w*׃
 
-\v 20
+\v 2
+\va 3:20\va*
 \w וְ⁠זָרְחָ֨ה|lemma="זָרַח" strong="c:H2224" x-morph="He,C:Vqq3fs" \w*
 \w לָ⁠כֶ֜ם|lemma="" strong="l" x-morph="He,R:Sp2mp" \w*
 \w יִרְאֵ֤י|lemma="יָרֵא" strong="H3373" x-morph="He,Aampc" \w*
@@ -938,7 +943,8 @@
 \w כְּ⁠עֶגְלֵ֥י|lemma="עֵגֶל" strong="k:H5695" x-morph="He,R:Ncmpc" \w*
 \w מַרְבֵּֽק|lemma="מַרְבֵּק" strong="H4770" x-morph="He,Ncmsa" \w*׃
 
-\v 21
+\v 3
+\va 3:21\va*
 \w וְ⁠עַסּוֹתֶ֣ם|lemma="עָסַס" strong="c:H6072" x-morph="He,C:Vqq2mp" \w*
 \w רְשָׁעִ֔ים|lemma="רָשָׁע" strong="H7563" x-morph="He,Aampa" \w*
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־
@@ -955,7 +961,8 @@
 \w יְהוָ֥ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w צְבָאֽוֹת|lemma="צָבָא" strong="H6635b" x-morph="He,Ncbpa" \w*׃פ
 
-\v 22
+\v 4
+\va 3:22\va*
 \w זִכְר֕וּ|lemma="זָכַר" strong="H2142" x-morph="He,Vqv2mp" \w*
 \w תּוֹרַ֖ת|lemma="תּוֹרָה" strong="H8451" x-morph="He,Ncfsc" \w*
 \w מֹשֶׁ֣ה|lemma="מֹשֶׁה" strong="H4872" x-morph="He,Np" \w*
@@ -970,7 +977,8 @@
 \w חֻקִּ֖ים|lemma="חֹק" strong="H2706" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/ordinance" \w*
 \w וּ⁠מִשְׁפָּטִֽים|lemma="מִשְׁפָּט" strong="c:H4941" x-morph="He,C:Ncmpa" x-tw="rc://*/tw/dict/bible/other/statute" \w*׃
 
-\v 23
+\v 5
+\va 3:23\va*
 \w הִנֵּ֤ה|lemma="הִנֵּה" strong="H2009" x-morph="He,Tm" \w*
 \w אָֽנֹכִי֙|lemma="אָנֹכִי" strong="H0595" x-morph="He,Pp1cs" \w*
 \w שֹׁלֵ֣חַ|lemma="שָׁלַח" strong="H7971" x-morph="He,Vqrmsa" \w*
@@ -985,7 +993,8 @@
 \w הַ⁠גָּד֖וֹל|lemma="גָּדוֹל" strong="d:H1419a" x-morph="He,Td:Aamsa" \w*
 \w וְ⁠הַ⁠נּוֹרָֽא|lemma="יָרֵא" strong="c:d:H3372" x-morph="He,C:Td:VNrmsa" \w*׃
 
-\v 24
+\v 6
+\va 3:24\va*
 \w וְ⁠הֵשִׁ֤יב|lemma="שׁוּב" strong="c:H7725" x-morph="He,C:Vhq3ms" \w*
 \w לֵב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/heart" \w*־
 \w אָבוֹת֙|lemma="אָב" strong="H0001" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/father" \w*
