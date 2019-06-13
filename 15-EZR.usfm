@@ -3174,8 +3174,8 @@
 \w מְשָׁרְתִ֖ים|lemma="שָׁרַת" strong="H8334" x-morph="He,Vprmpa" x-tw="rc://*/tw/dict/bible/other/servant" \w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/houseofgod"
 \w לְ⁠בֵ֥ית|lemma="בַּיִת" strong="l:H1004b" x-morph="He,R:Ncmsc" \w*
-\w אֱלֹהֵֽי⁠נוּ|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp1cp" x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\k-e\*׃
+\w אֱלֹהֵֽי⁠נוּ|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp1cp" x-tw="rc://*/tw/dict/bible/kt/god" \w*:
+\k-e\*
 
 \v 18
 \w וַ⁠יָּבִ֨יאּוּ|lemma="בּוֹא" strong="c:H0935" x-morph="He,C:Vhw3mp" \w*
@@ -3373,8 +3373,8 @@
 \w הַ⁠לִּשְׁכ֖וֹת|lemma="לִשְׁכָּה" strong="d:H3957" x-morph="He,Td:Ncfpc" \w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/houseofgod"
 \w בֵּ֥ית|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/house" \w*
-\w יְהוָֽה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
-\k-e\*׃
+\w יְהוָֽה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*:
+\k-e\*
 
 \v 30
 \w וְ⁠קִבְּלוּ֙|lemma="קָבַל" strong="c:H6901" x-morph="He,C:Vpp3cp" \w*
@@ -3505,8 +3505,8 @@
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To" \w*־
 \k-s | x-tw="rc://*/tw/dict/bible/kt/houseofgod"
 \w בֵּֽית|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc" \w*־
-\w הָ⁠אֱלֹהִֽים|lemma="אֱלֹהִים" strong="d:H0430" x-morph="He,Td:Ncmpa" x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\k-e\*:ס
+\w הָ⁠אֱלֹהִֽים|lemma="אֱלֹהִים" strong="d:H0430" x-morph="He,Td:Ncmpa" x-tw="rc://*/tw/dict/bible/kt/god" \w*:
+\k-e\*ס
 
 \c 9
 \p
