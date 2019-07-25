@@ -1589,10 +1589,10 @@
 \w עָמוֹס֙|lemma="עָמוֹס" strong="H5986" x-morph="He,Np" \w*
 \w וַ⁠יֹּ֣אמֶר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3ms" \w*
 \w אֶל|lemma="אֵל" strong="H0413" x-morph="He,R" \w*־\w אֲמַצְיָ֔ה|lemma="אֲמַצְיָה" strong="H0558" x-morph="He,Np" \w*
-\w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־\w נָבִ֣יא|lemma="נָבִיא" strong="H5030" x-morph="He,Ncmsa" \w*
+\w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־\w נָבִ֣יא|lemma="נָבִיא" strong="H5030" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/prophet" \w*
 \w אָנֹ֔כִי|lemma="אָנֹכִי" strong="H0595" x-morph="He,Pp1cs" x-tw="rc://*/tw/dict/bible/kt/pray" \w*
 \w וְ⁠לֹ֥א|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn" \w*
-\w בֶן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son" \w*־\w נָבִ֖יא|lemma="נָבִיא" strong="H5030" x-morph="He,Ncmsa" \w*
+\w בֶן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son" \w*־\w נָבִ֖יא|lemma="נָבִיא" strong="H5030" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/prophet" \w*
 \w אָנֹ֑כִי|lemma="אָנֹכִי" strong="H0595" x-morph="He,Pp1cs" x-tw="rc://*/tw/dict/bible/kt/pray" \w*
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־\w בוֹקֵ֥ר|lemma="בּוֹקֵר" strong="H0951" x-morph="He,Ncmsa" \w*
 \w אָנֹ֖כִי|lemma="אָנֹכִי" strong="H0595" x-morph="He,Pp1cs" x-tw="rc://*/tw/dict/bible/kt/pray" \w*

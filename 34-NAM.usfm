@@ -387,7 +387,7 @@
 \w וְ⁠לֹֽא|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn" \w*־\w יִשָּׁמַ֥ע|lemma="שָׁמַע" strong="H8085" x-morph="He,VNi3ms" \w*
 \w ע֖וֹד|lemma="עוֹד" strong="H5750" x-morph="He,D" \w*
 \w ק֥וֹל|lemma="קוֹל" strong="H6963a" x-morph="He,Ncmsc" \w*
-\w מַלְאָכֵֽ⁠כֵה|lemma="מַלְאָךְ" strong="H4397" x-morph="He,Ncmpc:Sp2fs" \w*׃ס
+\w מַלְאָכֵֽ⁠כֵה|lemma="מַלְאָךְ" strong="H4397" x-morph="He,Ncmpc:Sp2fs" x-tw="rc://*/tw/dict/bible/other/messenger" \w*׃ס
 
 \c 3
 \p

@@ -187,7 +187,7 @@
 \w שְׁלָח֖⁠וֹ|lemma="שָׁלַח" strong="H7971" x-morph="He,Vqp3ms:Sp3ms" \w*
 \w יְהוָ֣ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w אֱלֹהֵי⁠הֶ֑ם|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp3mp" x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\w וַ⁠יִּֽירְא֥וּ|lemma="יָרֵא" strong="c:H3372" x-morph="He,C:Vqw3mp" \w*
+\w וַ⁠יִּֽירְא֥וּ|lemma="יָרֵא" strong="c:H3372" x-morph="He,C:Vqw3mp" x-tw="rc://*/tw/dict/bible/kt/fear" \w*
 \w הָ⁠עָ֖ם|lemma="עַם" strong="d:H5971a" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
 \w מִ⁠פְּנֵ֥י|lemma="פָּנִים" strong="m:H6440" x-morph="He,R:Ncbpc" \w*
 \w יְהוָֽה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*׃
@@ -195,7 +195,7 @@
 \v 13
 \w וַ֠⁠יֹּאמֶר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3ms" \w*
 \w חַגַּ֞י|lemma="חַגַּי" strong="H2292a" x-morph="He,Np" \w*
-\w מַלְאַ֧ךְ|lemma="מַלְאָךְ" strong="H4397" x-morph="He,Ncmsc" \w*
+\w מַלְאַ֧ךְ|lemma="מַלְאָךְ" strong="H4397" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/messenger" \w*
 \w יְהוָ֛ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w בְּ⁠מַלְאֲכ֥וּת|lemma="מַלְאֲכוּת" strong="b:H4400" x-morph="He,R:Ncfsc" \w*
 \w יְהוָ֖ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*

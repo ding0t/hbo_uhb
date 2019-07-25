@@ -22,7 +22,7 @@
 \w מֵ⁠אֵ֤ת|lemma="אֵת" strong="m:H0854" x-morph="He,R:R" \w*
 \w יְהוָה֙|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w וְ⁠צִיר֙|lemma="צִיר" strong="c:H6735a" x-morph="He,C:Ncmsa" \w*
-\w בַּ⁠גּוֹיִ֣ם|lemma="גּוֹי" strong="b:H1471a" x-morph="He,Rd:Ncmpa" \w*
+\w בַּ⁠גּוֹיִ֣ם|lemma="גּוֹי" strong="b:H1471a" x-morph="He,Rd:Ncmpa" x-tw="rc://*/tw/dict/bible/other/nation" \w*
 \w שֻׁלָּ֔ח|lemma="שָׁלַח" strong="H7971" x-morph="He,VPp3ms" \w*
 \w ק֛וּמוּ|lemma="קוּם" strong="H6965b" x-morph="He,Vqv2mp" x-tw="rc://*/tw/dict/bible/other/decree" \w*
 \w וְ⁠נָק֥וּמָה|lemma="קוּם" strong="c:H6965b" x-morph="He,C:Vqh1cp" \w*
@@ -33,7 +33,7 @@
 \w הִנֵּ֥ה|lemma="הִנֵּה" strong="H2009" x-morph="He,Tm" \w*
 \w קָטֹ֛ן|lemma="קָטָן" strong="H6996b" x-morph="He,Aamsa" \w*
 \w נְתַתִּ֖י⁠ךָ|lemma="נָתַן" strong="H5414" x-morph="He,Vqp1cs:Sp2ms" \w*
-\w בַּ⁠גּוֹיִ֑ם|lemma="גּוֹי" strong="b:H1471a" x-morph="He,Rd:Ncmpa" \w*
+\w בַּ⁠גּוֹיִ֑ם|lemma="גּוֹי" strong="b:H1471a" x-morph="He,Rd:Ncmpa" x-tw="rc://*/tw/dict/bible/other/nation" \w*
 \w בָּז֥וּי|lemma="בָּזָה" strong="H0959" x-morph="He,Vqsmsa" \w*
 \w אַתָּ֖ה|lemma="אַתָּה" strong="H0859a" x-morph="He,Pp2ms" \w*
 \w מְאֹֽד|lemma="מְאֹד" strong="H3966" x-morph="He,D" \w*׃
