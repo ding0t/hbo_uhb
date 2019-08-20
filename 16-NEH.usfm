@@ -430,7 +430,8 @@
 \w שֹׂבֵ֜ר|lemma="שָׂבַר" strong="H7663a" x-morph="He,Vqrmsa" \w*
 \w בְּ⁠חוֹמֹ֤ת|lemma="חוֹמָה" strong="b:H2346" x-morph="He,R:Ncfpc" \w*
 \w יְרוּשָׁלִַ֨ם֙|lemma="יְרוּשָׁלִַ͏ם" strong="H3389" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/jerusalem" \w*
-\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*־\w ה⁠מפרוצים|lemma="פָּרַץ" strong="d:H6555" x-morph="He,Td:VPsmpa" \w*
+\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*־\w הֵ֣ם פְּרוּצִ֔ים|lemma="פָּרַץ" strong="d:H6555" x-morph="He,Pp3mp:VQsmpa" \w*
+\f + \ft K \ft* \w ה⁠מפרוצים|lemma="פָּרַץ" strong="d:H6555" x-morph="He,Td:VPsmpa" \w* \f*
 \w וּ⁠שְׁעָרֶ֖י⁠הָ|lemma="שַׁעַר" strong="c:H8179" x-morph="He,C:Ncmpc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/gate" \w*
 \w אֻכְּל֥וּ|lemma="אָכַל" strong="H0398" x-morph="He,VQp3cp" \w*
 \w בָ⁠אֵֽשׁ|lemma="אֵשׁ" strong="b:H0784" x-morph="He,Rd:Ncbsa" x-tw="rc://*/tw/dict/bible/other/fire" \w*׃
@@ -4412,7 +4413,7 @@
 \w בֶּן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son" \w*־\w שַׁמּ֔וּעַ|lemma="שַׁמּוּעַ" strong="H8051" x-morph="He,Np" \w*
 \w בֶּן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son" \w*־\w גָּלָ֖ל|lemma="גָּלָל" strong="H1559" x-morph="He,Np" \w*
 \w בֶּן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son" \w*־\w יְדוּתֽוּן|lemma="יְדוּתוּן" strong="H3038" x-morph="He,Np" \w*׃
-\f+ \ft K \ft* \w ידיתון|lemma="יְדוּתוּן" strong="H3038" x-morph="He,Np" \w* \f*
+\f + \ft K \ft* \w ידיתון|lemma="יְדוּתוּן" strong="H3038" x-morph="He,Np" \w* \f*
 
 \v 18
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־\w הַ⁠לְוִיִּם֙|lemma="לֵוִיִּי" strong="d:H3881" x-morph="He,Td:Ngmpa" x-tw="rc://*/tw/dict/bible/names/levite" \w*
@@ -4687,7 +4688,7 @@
 
 \v 14
 \w ל⁠מלוכי|lemma="מַלּוּךְ" strong="l:H4409b" x-morph="He,R:Np" \w*
-\f + \ft Q \ft* \w לִ/מְלִ֙יכוּ֙|lemma="מַלּוּךְ" strong="l:H4409b" x-morph="He,R:Np" \w* \f*
+\f + \ft Q \ft* \w לִמְלִ֙יכוּ֙|lemma="מַלּוּךְ" strong="l:H4409b" x-morph="He,R:Np" \w* \f*
 \w יֽוֹנָתָ֔ן|lemma="יוֹנָתָן" strong="H3129" x-morph="He,Np" \w*
 \w לִ⁠שְׁבַנְיָ֖ה|lemma="שְׁבַנְיָה" strong="l:H7645" x-morph="He,R:Np" \w*
 \w יוֹסֵֽף|lemma="יוֹסֵף" strong="H3130" x-morph="He,Np" \w*׃
