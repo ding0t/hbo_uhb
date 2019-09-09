@@ -6117,7 +6117,7 @@
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w יֹֽשְׁבֵ֛י|lemma="יָשַׁב" strong="H3427" x-morph="He,Vqrmpc" \w*
 \w הָ⁠עִ֥יר|lemma="עִיר" strong="d:H5892b" x-morph="He,Td:Ncfsa" x-tw="rc://*/tw/dict/bible/other/elder" \w*
 \w ה⁠הוא|lemma="הוּא" strong="d:H1931" x-morph="He,Td:Pp3ms" \w*
-\f + \ft Q \ft* \w הַהִ֖יא|lemma="הוּא" strong="d:H1931" x-morph="He,Td:Pp3ms" \w* \f*
+\f + \ft Q \ft* \w הַהִ֖יא|lemma="הִיא" strong="d:H1992" x-morph="He,Td:Pp3fs" \w* \f*
 \w לְ⁠פִי|lemma="פֶּה" strong="l:H6310" x-morph="He,R:Ncmsc" \w*־\w חָ֑רֶב|lemma="חֶרֶב" strong="H2719" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/sword" \w*
 \w הַחֲרֵ֨ם|lemma="חָרַם" strong="H2763a" x-morph="He,Vha" \w*
 \w אֹתָ֧⁠הּ|lemma="אֵת" strong="H0853" x-morph="He,To:Sp3fs" \w*
