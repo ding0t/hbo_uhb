@@ -4574,6 +4574,7 @@
 \w מְרַדֵּ֖ף|lemma="רָדַף" strong="H7291" x-morph="He,Vprmsa" x-tw="rc://*/tw/dict/bible/other/persecute" \w*
 \w אֲמָרִ֣ים|lemma="אֵמֶר" strong="H0561" x-morph="He,Ncmpa" \w*
 \w לא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־\w הֵֽמָּה|lemma="הֵם" strong="H1992" x-morph="He,Pp3mp" \w*׃
+\f + \ft Q \ft* \w לוֹ|lemma="לֹא" strong="l" x-morph="He,R:Sp3ms" \w* \f*
 
 \v 8
 \w קֹֽנֶה|lemma="קָנָה" strong="H7069" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/kt/redeem" \w*־\w לֵּ֭ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
@@ -4653,7 +4654,8 @@
 \w נַפְשׁ֑⁠וֹ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/life" \w*
 \w בּוֹזֵ֖ה|lemma="בָּזָה" strong="H0959" x-morph="He,Vqrmsc" \w*
 \w דְרָכָ֣י⁠ו|lemma="דֶּרֶךְ" strong="H1870" x-morph="He,Ncbpc:Sp3ms" \w*
-\w יומת|lemma="מוּת" strong="H4191" x-morph="He,VHi3ms" \w*׃
+\w יָמֽוּת|lemma="מוּת" strong="H4191" x-morph="He,Vqi3ms" \w*׃
+\f + \ft K \ft* \w יומת|lemma="מוּת" strong="H4191" x-morph="He,VHi3ms" \w* \f*
 
 \v 17
 \w מַלְוֵ֣ה|lemma="לָוָה" strong="H3867b" x-morph="He,Vhrmsc" \w*
@@ -4674,6 +4676,7 @@
 
 \v 19
 \w גרל|lemma="גָּרֹל" strong="H1632" x-morph="He,Ncmsc" \w*־\w חֵ֭מָה|lemma="חֵמָה" strong="H2534" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/kt/wrath" \w*
+\f + \ft ? \ft* \w גרל|lemma="גָּרֹל" strong="H1632" x-morph="He,Ncmsc" \w* \f*
 \w נֹ֣שֵׂא|lemma="נָשָׂא" strong="H5375" x-morph="He,Vqrmsa" \w*
 \w עֹ֑נֶשׁ|lemma="עֹנֶשׁ" strong="H6066" x-morph="He,Ncmsa" \w*
 \w כִּ֥י|lemma="כִּי" strong="H3588b" x-morph="He,C" \w*
