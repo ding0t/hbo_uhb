@@ -8330,7 +8330,8 @@
 \v 13
 \w וַ⁠יֹּ֣אמֶר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3ms" \w*
 \w לְ⁠נַעֲר֔⁠וֹ|lemma="נַעַר" strong="l:H5288" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/servant" \w*
-\w לְךָ֥|lemma="יָלַךְ" strong="H3212" x-morph="He,Vqv2ms" x-tw="rc://*/tw/dict/bible/other/walk" \w*
+\w לך|lemma="יָלַךְ" strong="H3212" x-morph="He,Vqv2ms" x-tw="rc://*/tw/dict/bible/other/walk" \w*
+\f + \ft Q \ft* \w לְךָ֥|lemma="יָלַךְ" strong="H3212" x-morph="He,Vqv2ms:Sh" \w* \f*
 \w וְ⁠נִקְרְבָ֖ה|lemma="קָרַב" strong="c:H7126" x-morph="He,C:Vqh1cp" \w*
 \w בְּ⁠אַחַ֣ד|lemma="אֶחָד" strong="b:H0259" x-morph="He,R:Acmsc" \w*
 \w הַ⁠מְּקֹמ֑וֹת|lemma="מָקוֹם" strong="d:H4725" x-morph="He,Td:Ncmpa" \w*
