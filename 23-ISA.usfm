@@ -2807,7 +2807,7 @@
 \w גְּבוּלֹ֣ת|lemma="גְּבוּלָה" strong="H1367" x-morph="He,Ncfpc" \w*
 \w עַמִּ֗ים|lemma="עַם" strong="H5971a" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
 \w ו⁠עתידתי⁠הם|lemma="עָתִיד" strong="c:H6264" x-morph="He,C:Aampc:Sp3mp" \w*
-\f + \ft Q \ft* \w וַעֲתוּדֽוֹתֵיהֶם֙|lemma="עָתִיד" strong="c:H6264" x-morph="He,C:Aampc:Sp3mp" \w* \f*
+\f + \ft Q \ft* \w וַעֲתוּדֽוֹתֵיהֶם֙|lemma="עָתוּד" strong="c:H6259" x-morph="He,C:Aampc:Sp3mp" \w* \f*
 \w שׁוֹשֵׂ֔תִי|lemma="שָׁסָה" strong="H8154" x-morph="He,Vmp1cs" \w*
 \w וְ⁠אוֹרִ֥יד|lemma="יָרַד" strong="c:H3381" x-morph="He,C:Vhi1cs" \w*
 \w כַּ⁠אבִּ֖יר|lemma="אַבִּיר" strong="k:H0047" x-morph="He,R:Aamsa" \w*
