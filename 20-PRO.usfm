@@ -3120,12 +3120,8 @@
 \w מֵ⁠רָֽע|lemma="רַע" strong="m:H7451a" x-morph="He,R:Aamsa" \w*׃
 
 \v 20
-<<<<<<< Updated upstream
-\w הוֹלֵ֣ךְ|lemma="הָלַךְ" strong="H1980" x-morph="He,Vqrmsa" \w*
+\w הוֹלֵ֣ךְ|lemma="הָלַךְ" strong="H1980" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/other/walk" \w*
 \f + \ft K \ft* \w הלוך|lemma="הָלַךְ" strong="H1980" x-morph="He,Vqa" \w* \f*
-=======
-\w הלוך|lemma="הָלַךְ" strong="H1980" x-morph="He,Vqa" x-tw="rc://*/tw/dict/bible/other/walk" \w*
->>>>>>> Stashed changes
 \w אֶת|lemma="אֵת" strong="H0854" x-morph="He,R" \w*־\w חֲכָמִ֣ים|lemma="חָכָם" strong="H2450" x-morph="He,Aampa" x-tw="rc://*/tw/dict/bible/other/wisemen" \w*
 \w יֶחְכָּ֑ם|lemma="חָכַם" strong="c:H2449" x-morph="He,C:Vqi2ms" \w*
 \f + \ft K \ft* \w ו⁠חכם|lemma="חָכַם" strong="c:H2449" x-morph="He,C:Vqv2ms" \w* \f*

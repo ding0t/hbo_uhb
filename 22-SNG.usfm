@@ -297,12 +297,8 @@
 \v 11
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־\w הִנֵּ֥ה|lemma="הִנֵּה" strong="H2009" x-morph="He,Tm" \w*
 \w ה⁠סתו|lemma="סְתָו" strong="d:H5638" x-morph="He,Td:Ncmsa" \w*
-<<<<<<< Updated upstream
 \f + \ft Q \ft* \w הַסְּתָ֖יו|lemma="סְתָו" strong="d:H5638" x-morph="He,Td:Ncmsa" \w* \f*
-\w עָבָ֑ר|lemma="עָבַר" strong="H5674a" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/kt/transgression" \w*
-=======
 \w עָבָ֑ר|lemma="עָבַר" strong="H5674a" x-morph="He,Vqp3ms" \w*
->>>>>>> Stashed changes
 \w הַ⁠גֶּ֕שֶׁם|lemma="גֶּשֶׁם" strong="d:H1653" x-morph="He,Td:Ncmsa" \w*
 \w חָלַ֖ף|lemma="חָלַף" strong="H2498" x-morph="He,Vqp3ms" \w*
 \w הָלַ֥ךְ|lemma="הָלַךְ" strong="H1980" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/other/walk" \w*
@@ -328,14 +324,9 @@
 \w סְמָדַ֖ר|lemma="סְמָדַר" strong="H5563" x-morph="He,Ncmsa" \w*
 \w נָ֣תְנוּ|lemma="נָתַן" strong="H5414" x-morph="He,Vqp3cp" \w*
 \w רֵ֑יחַ|lemma="רֵיחַ" strong="H7381" x-morph="He,Ncmsa" \w*
-<<<<<<< Updated upstream
-\w ק֥וּמִי|lemma="קוּם" strong="H6965b" x-morph="He,Vqv2fs" x-tw="rc://*/tw/dict/bible/other/decree" \w*
+\w ק֥וּמִי|lemma="קוּם" strong="H6965b" x-morph="He,Vqv2fs" \w*
 \w לכי|lemma="הָלַךְ" strong="H3212" x-morph="He,Vqv2fs" x-tw="rc://*/tw/dict/bible/other/walk" \w*
 \f + \ft Q \ft* \w לָךְ|lemma="" strong="l" x-morph="He,R:Sp2fs" \w* \f*
-=======
-\w ק֥וּמִי|lemma="קוּם" strong="H6965b" x-morph="He,Vqv2fs" \w*
-\w לכי|lemma="יָלַךְ" strong="H3212" x-morph="He,Vqv2fs" x-tw="rc://*/tw/dict/bible/other/walk" \w*
->>>>>>> Stashed changes
 \w רַעְיָתִ֥⁠י|lemma="רַעְיָה" strong="H7474" x-morph="He,Ncfsc:Sp1cs" \w*
 \w יָפָתִ֖⁠י|lemma="יָפֶה" strong="H3303" x-morph="He,Aafsc:Sp1cs" \w*
 \w וּ⁠לְכִי|lemma="יָלַךְ" strong="c:H3212" x-morph="He,C:Vqv2fs" \w*־\w לָֽ⁠ךְ|lemma="" strong="l" x-morph="He,R:Sp2fs" \w*׃ס
