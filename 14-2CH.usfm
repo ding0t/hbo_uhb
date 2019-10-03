@@ -884,6 +884,7 @@
 \w מֵֽ⁠הַ⁠שְּׂמֹ֑אול|lemma="שְׂמָאלִי" strong="m:d:H8042" x-morph="He,R:Td:Ncmsa" \w*
 \w וַ⁠יִּקְרָ֤א|lemma="קָרָא" strong="c:H7121" x-morph="He,C:Vqw3ms" x-tw="rc://*/tw/dict/bible/other/declare" \w*
 \w שֵׁם|lemma="שֵׁם" strong="H8034" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/name" \w*־\w ה⁠ימיני|lemma="יְמִינִי" strong="d:H3227a" x-morph="He,Td:Aamsa" \w*
+\f + \ft Q \ft* \w הַיְמָנִי֙|lemma="יְמִינִי" strong="d:H3233" x-morph="He,Td:Aamsa" \w* \f*
 \w יָכִ֔ין|lemma="יָכִין" strong="H3199" x-morph="He,Np" \w*
 \w וְ⁠שֵׁ֥ם|lemma="שֵׁם" strong="c:H8034" x-morph="He,C:Ncmsc" \w*
 \w הַ⁠שְּׂמָאלִ֖י|lemma="שְׂמֹאול" strong="d:H8040" x-morph="He,Td:Aamsa" \w*
@@ -1059,7 +1060,8 @@
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To" \w*־\w הַ⁠יָּעִ֖ים|lemma="יָע" strong="d:H3257" x-morph="He,Td:Ncmpa" \w*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To" \w*־\w הַ⁠מִּזְרָק֑וֹת|lemma="מִזְרָק" strong="d:H4219" x-morph="He,Td:Ncmpa" \w*ס
 \w וַ⁠יְכַ֣ל|lemma="כָּלָה" strong="c:H3615" x-morph="He,C:Vpw3ms" \w*
-\w חירם|lemma="חִירָם" strong="H2438" x-morph="He,Np" \w*
+\w חוּרָ֗ם|lemma="חִירָם" strong="H2461" x-morph="He,Np" \w*
+\f + \ft K \ft* \w חירם|lemma="חִירָם" strong="H2438" x-morph="He,Np" \w* \f*
 \w לַ⁠עֲשׂוֹת֙|lemma="עָשָׂה" strong="l:H6213a" x-morph="He,R:Vqc" \w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w הַ⁠מְּלָאכָ֔ה|lemma="מְלָאכָה" strong="d:H4399" x-morph="He,Td:Ncfsa" \w*
 \w אֲשֶׁ֥ר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*
@@ -1403,7 +1405,8 @@
 \w כֹּֽהֲנִים֙|lemma="כֹּהֵן" strong="H3548" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/priest" \w*
 \w לְ⁠מֵאָ֣ה|lemma="מֵאָה" strong="l:H3967" x-morph="He,R:Acbsa" \w*
 \w וְ⁠עֶשְׂרִ֔ים|lemma="עֶשְׂרִים" strong="c:H6242" x-morph="He,C:Acbpa" \w*
-\w מחצררים|lemma="חָצַר" strong="H2690" x-morph="He,Vhrmpa" \w*
+\w מחצררים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w*
+\f + \ft Q \ft* \w מַחְצְרִ֖ים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w* \f*
 \w בַּ⁠חֲצֹֽצְרֽוֹת|lemma="חֲצֹצְרָה" strong="b:H2689" x-morph="He,R:Ncfpa" x-tw="rc://*/tw/dict/bible/other/trumpet" \w*׃
 
 \v 13
