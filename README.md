@@ -9,12 +9,13 @@ The UHB is based on the [Open Scriptures Hebrew Bible](https://github.com/opensc
 
 ## Changes from the OSHB
 
-The UHB differs from the OSHB in two respects (though more may be coming):
+The UHB differs from the OSHB in a few respects (though more may be coming):
 
 * Metadata - The UHB text includes various metadata to mark the text which create links to other content that our software uses. For example, we add links to our [unfoldingWord® Translation Words](https://git.door43.org/unfoldingWord/en_tw) articles where appropriate.
 * Joined words (for example: inseparable prepositions, the definite article, conjunctive waw) are separated using a unicode WORD JOINER (U+2060) character instead of the `/` character that the OSHB uses.
 * The UHB is encoded in USFM 3.0 instead of the OSIS that the OSHB uses.
 * The UHB uses the versification scheme of the [ULT](https://git.door43.org/unfoldingWord/en_ult) instead of that of the OSHB (which is based on the WLC scheme common for Hebrew Bibles). The goal of this change is to simplify the translation and reference process for Gateway Language teams and supplemental resources (such as our translation helps suite). This may make some resources that are keyed to the WLC more difficult to use with the Hebrew text but it will likely simplify the use of many other resources that use an ASV/KJV style of versification.
+* For each Ketiv/Qere occurrence, we have selected one of the forms for the main body of the text and have footnoted the other. In a few places we have chosen a reading from another manuscript.
 
 ## Related projects
 
