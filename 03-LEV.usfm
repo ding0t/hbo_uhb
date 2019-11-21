@@ -1222,7 +1222,7 @@
 \w ק֣וֹל|lemma="קוֹל" strong="H6963a" x-morph="He,Ncmsc" \w*
 \w אָלָ֔ה|lemma="אָלָה" strong="H0423" x-morph="He,Ncfsa" \w*
 \w וְ⁠ה֣וּא|lemma="הוּא" strong="c:H1931" x-morph="He,C:Pp3ms" \w*
-\w עֵ֔ד|lemma="עֵד" strong="H5707" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/witness" \w*
+\w עֵ֔ד|lemma="עֵד" strong="H5707" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/testimony" \w*
 \w א֥וֹ|lemma="אוֹ" strong="H0176a" x-morph="He,C" \w*
 \w רָאָ֖ה|lemma="רָאָה" strong="H7200" x-morph="He,Vqp3ms" \w*
 \w א֣וֹ|lemma="אוֹ" strong="H0176a" x-morph="He,C" \w*
@@ -7711,7 +7711,7 @@
 \w תְלַקֵּ֑ט|lemma="לָקַט" strong="H3950" x-morph="He,Vpi2ms" x-tw="rc://*/tw/dict/bible/other/glean" \w*
 \w לֶֽ⁠עָנִ֤י|lemma="עָנִי" strong="l:H6041" x-morph="He,Rd:Aamsa" \w*
 \w וְ⁠לַ⁠גֵּר֙|lemma="גֵּר" strong="c:l:H1616" x-morph="He,C:Rd:Ncmsa" \w*
-\w תַּעֲזֹ֣ב|lemma="עָזַב" strong="H5800a" x-morph="He,Vqi2ms" x-tw="rc://*/tw/dict/bible/kt/forsake" \w*
+\w תַּעֲזֹ֣ב|lemma="עָזַב" strong="H5800a" x-morph="He,Vqi2ms" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*
 \w אֹתָ֔⁠ם|lemma="אֵת" strong="H0853" x-morph="He,To:Sp3mp" \w*
 \w אֲנִ֖י|lemma="אֲנִי" strong="H0589" x-morph="He,Pp1cs" \w*
 \w יְהוָ֥ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
@@ -9529,7 +9529,7 @@
 \w תְלַקֵּ֑ט|lemma="לָקַט" strong="H3950" x-morph="He,Vpi2ms" x-tw="rc://*/tw/dict/bible/other/glean" \w*
 \w לֶֽ⁠עָנִ֤י|lemma="עָנִי" strong="l:H6041" x-morph="He,Rd:Aamsa" \w*
 \w וְ⁠לַ⁠גֵּר֙|lemma="גֵּר" strong="c:l:H1616" x-morph="He,C:Rd:Ncmsa" \w*
-\w תַּעֲזֹ֣ב|lemma="עָזַב" strong="H5800a" x-morph="He,Vqi2ms" x-tw="rc://*/tw/dict/bible/kt/forsake" \w*
+\w תַּעֲזֹ֣ב|lemma="עָזַב" strong="H5800a" x-morph="He,Vqi2ms" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*
 \w אֹתָ֔⁠ם|lemma="אֵת" strong="H0853" x-morph="He,To:Sp3mp" \w*
 \w אֲנִ֖י|lemma="אֲנִי" strong="H0589" x-morph="He,Pp1cs" \w*
 \w יְהוָ֥ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
@@ -11391,7 +11391,7 @@
 
 \v 43
 \w וְ⁠הָ⁠אָרֶץ֩|lemma="אֶרֶץ" strong="c:d:H0776" x-morph="He,C:Td:Ncbsa" \w*
-\w תֵּעָזֵ֨ב|lemma="עָזַב" strong="H5800a" x-morph="He,VNi3fs" x-tw="rc://*/tw/dict/bible/kt/forsake" \w*
+\w תֵּעָזֵ֨ב|lemma="עָזַב" strong="H5800a" x-morph="He,VNi3fs" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*
 \w מֵ⁠הֶ֜ם|lemma="" strong="m" x-morph="He,R:Sp3mp" \w*
 \w וְ⁠תִ֣רֶץ|lemma="רָצָה" strong="c:H7521" x-morph="He,C:Vqi3fs" \w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w שַׁבְּתֹתֶ֗י⁠הָ|lemma="שַׁבָּת" strong="H7676" x-morph="He,Ncbpc:Sp3fs" x-tw="rc://*/tw/dict/bible/kt/sabbath" \w*

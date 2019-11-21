@@ -2958,7 +2958,7 @@
 \w וְ⁠עֻזּ֣⁠וֹ|lemma="עֹז" strong="c:H5797" x-morph="He,C:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/power" \w*
 \w וְ⁠אַפּ֔⁠וֹ|lemma="אַף" strong="c:H0639" x-morph="He,C:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/wrath" \w*
 \w עַ֖ל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*
-\w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־\w עֹזְבָֽי⁠ו|lemma="עָזַב" strong="H5800a" x-morph="He,Vqrmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/forsake" \w*׃
+\w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־\w עֹזְבָֽי⁠ו|lemma="עָזַב" strong="H5800a" x-morph="He,Vqrmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*׃
 
 \v 23
 \w וַ⁠נָּצ֛וּמָ⁠ה|lemma="צוּם" strong="c:H6684" x-morph="He,C:Vqw1cp:Sh" x-tw="rc://*/tw/dict/bible/other/fast" \w*
@@ -3335,7 +3335,7 @@
 \w אֲנַ֔חְנוּ|lemma="אֲנַחְנוּ" strong="H0587" x-morph="He,Pp1cp" \w*
 \w וּ⁠בְ⁠עַבְדֻ֔תֵ⁠נוּ|lemma="עַבְדוּת" strong="c:b:H5659" x-morph="He,C:R:Ncfsc:Sp1cp" x-tw="rc://*/tw/dict/bible/kt/bond" \w*
 \w לֹ֥א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
-\w עֲזָבָ֖⁠נוּ|lemma="עָזַב" strong="H5800a" x-morph="He,Vqp3ms:Sp1cp" x-tw="rc://*/tw/dict/bible/kt/forsake" \w*
+\w עֲזָבָ֖⁠נוּ|lemma="עָזַב" strong="H5800a" x-morph="He,Vqp3ms:Sp1cp" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*
 \w אֱלֹהֵ֑י⁠נוּ|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp1cp" x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \w וַֽ⁠יַּט|lemma="נָטָה" strong="c:H5186" x-morph="He,C:Vhw3ms" \w*־\w עָלֵ֣י⁠נוּ|lemma="עַל" strong="H5921a" x-morph="He,R:Sp1cp" \w*
 \w חֶ֡סֶד|lemma="חֶסֶד" strong="H2617a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/covenantfaith" \w*
@@ -3360,7 +3360,7 @@
 \w אֱלֹהֵ֖י⁠נוּ|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp1cp" x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \w אַֽחֲרֵי|lemma="אַחַר" strong="H0310a" x-morph="He,R" \w*־\w זֹ֑את|lemma="זֹאת" strong="H2063" x-morph="He,Pdxfs" \w*
 \w כִּ֥י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
-\w עָזַ֖בְנוּ|lemma="עָזַב" strong="H5800a" x-morph="He,Vqp1cp" x-tw="rc://*/tw/dict/bible/kt/forsake" \w*
+\w עָזַ֖בְנוּ|lemma="עָזַב" strong="H5800a" x-morph="He,Vqp1cp" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*
 \w מִצְוֺתֶֽי⁠ךָ|lemma="מִצְוָה" strong="H4687" x-morph="He,Ncfpc:Sp2ms" x-tw="rc://*/tw/dict/bible/kt/command" \w*׃
 
 \v 11

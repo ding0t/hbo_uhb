@@ -529,8 +529,7 @@
 \w וְ⁠עַל|lemma="עַל" strong="c:H5921a" x-morph="He,C:R" \w*־\w אֶפְרַ֨יִם֙|lemma="אֶפְרַיִם" strong="H0669" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/ephraim" \w*
 \w וְ⁠עַל|lemma="עַל" strong="c:H5921a" x-morph="He,C:R" \w*־\w בִּנְיָמִ֔ן|lemma="בִּנְיָמִין" strong="H1144" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/benjamin" \w*
 \w וְ⁠עַל|lemma="עַל" strong="c:H5921a" x-morph="He,C:R" \w*־\w יִשְׂרָאֵ֖ל|lemma="יִשְׂרָאֵל" strong="H3478" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/israel" \w*
-\w כֻּלֹּֽ⁠ה|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc:Sp3ms" \w*׃פ
-\f + \w כלוֹ|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc:Sp3ms" \w* \ft some manuscripts indicate \ft* \f*
+\w כֻּלֹּֽ⁠ה|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc:Sp3fs" \w*׃פ
 
 \v 10
 \w בֶּן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son" \w*־\w אַרְבָּעִ֨ים|lemma="אַרְבָּעִים" strong="H0705" x-morph="He,Acbpa" \w*
@@ -10307,7 +10306,7 @@
 \w בֶן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son" \w*־\w יְהוֹיָדָ֧ע|lemma="יְהוֹיָדָע" strong="H3077" x-morph="He,Np" \w*
 \w בֶּן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son" \w*־\w אִֽישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsc" \w*־\w חַ֛יִל|lemma="חַיִל" strong="H2428" x-morph="He,Aamsa" \w*
 \f + \ft K \ft* \w חי|lemma="חַי" strong="H2416a" x-morph="He,Aamsa" \w* \f*
-\w רַב|lemma="רַב" strong="H7227a" x-morph="He,Aamsc" \w*־\w פְּעָלִ֖ים|lemma="פֹּעַל" strong="H6467" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/work" \w*
+\w רַב|lemma="רַב" strong="H7227a" x-morph="He,Aamsc" \w*־\w פְּעָלִ֖ים|lemma="פֹּעַל" strong="H6467" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/works" \w*
 \w מִֽ⁠קַּבְצְאֵ֑ל|lemma="קַבְצְאֵל" strong="m:H6909" x-morph="He,R:Np" \w*
 \w ה֣וּא|lemma="הוּא" strong="H1931" x-morph="He,Pp3ms" \w*
 \w הִכָּ֗ה|lemma="נָכָה" strong="H5221" x-morph="He,Vhp3ms" \w*

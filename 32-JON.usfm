@@ -378,7 +378,7 @@
 \w מְשַׁמְּרִ֖ים|lemma="שָׁמַר" strong="H8104" x-morph="He,Vprmpa" \w*
 \w הַבְלֵי|lemma="הֶבֶל" strong="H1892" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/kt/falsegod" \w*־\w שָׁ֑וְא|lemma="שָׁוְא" strong="H7723" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/vain" \w*
 \w חַסְדָּ֖⁠ם|lemma="חֶסֶד" strong="H2617a" x-morph="He,Ncmsc:Sp3mp" x-tw="rc://*/tw/dict/bible/kt/covenantfaith" \w*
-\w יַעֲזֹֽבוּ|lemma="עָזַב" strong="H5800a" x-morph="He,Vqi3mp" x-tw="rc://*/tw/dict/bible/kt/forsake" \w*׃
+\w יַעֲזֹֽבוּ|lemma="עָזַב" strong="H5800a" x-morph="He,Vqi3mp" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*׃
 
 \v 9
 \va 10\va*
@@ -387,7 +387,7 @@
 \w תּוֹדָה֙|lemma="תּוֹדָה" strong="H8426" x-morph="He,Ncfsa" \w*
 \w אֶזְבְּחָה|lemma="זָבַח" strong="H2076" x-morph="He,Vqh1cs" x-tw="rc://*/tw/dict/bible/other/sacrifice" \w*־\w לָּ֔⁠ךְ|lemma="" strong="l" x-morph="He,R:Sp2fs" \w*
 \w אֲשֶׁ֥ר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*
-\w נָדַ֖רְתִּי|lemma="נָדַר" strong="H5087" x-morph="He,Vqp1cs" x-tw="rc://*/tw/dict/bible/other/vow" \w*
+\w נָדַ֖רְתִּי|lemma="נָדַר" strong="H5087" x-morph="He,Vqp1cs" x-tw="rc://*/tw/dict/bible/kt/vow" \w*
 \w אֲשַׁלֵּ֑מָה|lemma="שָׁלַם" strong="H7999a" x-morph="He,Vph1cs" \w*
 \w יְשׁוּעָ֖תָ⁠ה|lemma="יְשׁוּעָה" strong="H3444" x-morph="He,Ncfsa:Sh" x-tw="rc://*/tw/dict/bible/kt/save" \w*
 \w לַ⁠יהוָֽה|lemma="יְהֹוָה" strong="l:H3068" x-morph="He,R:Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*׃ס
@@ -558,7 +558,7 @@
 \w לֽ⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms" \w*׃
 
 \v 2
-\w וַ⁠יִּתְפַּלֵּ֨ל|lemma="פָּלַל" strong="c:H6419" x-morph="He,C:Vtw3ms" x-tw="rc://*/tw/dict/bible/other/pray" \w*
+\w וַ⁠יִּתְפַּלֵּ֨ל|lemma="פָּלַל" strong="c:H6419" x-morph="He,C:Vtw3ms" x-tw="rc://*/tw/dict/bible/kt/pray" \w*
 \w אֶל|lemma="אֵל" strong="H0413" x-morph="He,R" \w*־\w יְהוָ֜ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w וַ⁠יֹּאמַ֗ר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3ms" \w*
 \w אָנָּ֤ה|lemma="אָנָּא" strong="H0577" x-morph="He,Tj" \w*
@@ -592,7 +592,7 @@
 \w כִּ֛י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w ט֥וֹב|lemma="טוֹב" strong="H2896a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/good" \w*
 \w מוֹתִ֖⁠י|lemma="מָוֶת" strong="H4194" x-morph="He,Ncmsc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/death" \w*
-\w מֵ⁠חַיָּֽ⁠י|lemma="חַי" strong="m:H2416e" x-morph="He,R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/live" \w*׃ס
+\w מֵ⁠חַיָּֽ⁠י|lemma="חַי" strong="m:H2416e" x-morph="He,R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/life" \w*׃ס
 
 \v 4
 \w וַ⁠יֹּ֣אמֶר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3ms" \w*

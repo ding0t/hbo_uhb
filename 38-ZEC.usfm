@@ -261,8 +261,8 @@
 \w נְאֻ֖ם|lemma="נְאֻם" strong="H5002" x-morph="He,Ncmsc" \w*
 \w יְהוָ֣ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w צְבָא֑וֹת|lemma="צָבָא" strong="H6635b" x-morph="He,Ncbpa" \w*
-\w וְקָ֥ו|lemma="קַו" strong="c:H6957" x-morph="He,C:Ncmsa" \w*
-\f + \ft K \ft* \w ו⁠קוה|lemma="קַו" strong="c:H6957" x-morph="He,C:Ncbsa" \w* \f*
+\w וְקָ֥ו|lemma="קָוֶה" strong="c:H6961" x-morph="He,C:Ncmsa" \w*
+\f + \ft K \ft* \w ו⁠קוה|lemma="קָוֶה" strong="c:H6961" x-morph="He,C:Ncfsa" \w* \f*
 \w יִנָּטֶ֖ה|lemma="נָטָה" strong="H5186" x-morph="He,VNi3ms" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־\w יְרוּשָׁלִָֽם|lemma="יְרוּשָׁלִַ͏ם" strong="H3389" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/jerusalem" \w*׃
 
@@ -1834,7 +1834,7 @@
 \w בְּ⁠אֶ֣רֶץ|lemma="אֶרֶץ" strong="b:H0776" x-morph="He,R:Ncbsc" \w*
 \w חַדְרָ֔ךְ|lemma="חַדְרָךְ" strong="H2317" x-morph="He,Np" \w*
 \w וְ⁠דַמֶּ֖שֶׂק|lemma="דַּמֶּשֶׂק" strong="c:H1834" x-morph="He,C:Np" \w*
-\w מְנֻחָת֑⁠וֹ|lemma="מְנוּחָה" strong="H4496" x-morph="He,Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/rest" \w*
+\w מְנֻחָת֑⁠וֹ|lemma="מְנוּחָה" strong="H4496" x-morph="He,Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/rest" \w*
 \w כִּ֤י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w לַֽ⁠יהוָה֙|lemma="יְהֹוָה" strong="l:H3068" x-morph="He,R:Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w עֵ֣ין|lemma="עַיִן" strong="H5869a" x-morph="He,Ncbsc" \w*
@@ -2480,7 +2480,7 @@
 \w ה֣וֹי|lemma="הוֹי" strong="H1945" x-morph="He,Tj" \w*
 \w רֹעִ֤י|lemma="רֹעִי" strong="H7473" x-morph="He,Vqrmsc" \w*
 \w הָֽ⁠אֱלִיל֙|lemma="אֱלִיל" strong="d:H0457" x-morph="He,Td:Ncmsa" \w*
-\w עֹזְבִ֣י|lemma="עָזַב" strong="H5800a" x-morph="He,Vqrmsc" x-tw="rc://*/tw/dict/bible/kt/forsake" \w*
+\w עֹזְבִ֣י|lemma="עָזַב" strong="H5800a" x-morph="He,Vqrmsc" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*
 \w הַ⁠צֹּ֔אן|lemma="צֹאן" strong="d:H6629" x-morph="He,Td:Ncbsa" x-tw="rc://*/tw/dict/bible/other/sheep" \w*
 \w חֶ֥רֶב|lemma="חֶרֶב" strong="H2719" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/sword" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־\w זְרוֹע֖⁠וֹ|lemma="זְרוֹעַ" strong="H2220" x-morph="He,Ncbsc:Sp3ms" \w*
