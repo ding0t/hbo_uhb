@@ -18,7 +18,7 @@
 \w אֲחַשְׁוֵר֗וֹשׁ|lemma="אֲחַשְׁוֵרוֹשׁ" strong="H0325" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/ahasuerus" \w*
 \w הַ⁠מֹּלֵךְ֙|lemma="מָלַךְ" strong="d:H4427a" x-morph="He,Td:Vqrmsa" x-tw="rc://*/tw/dict/bible/other/reign" \w*
 \w מֵ⁠הֹ֣דּוּ|lemma="הֹדוּ" strong="m:H1912" x-morph="He,R:Np" \w*
-\w וְ⁠עַד|lemma="עַד" strong="c:H5704" x-morph="He,C:R" \w*־\w כּ֔וּשׁ|lemma="כּוּשׁ" strong="H3568a" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/other/ethiopia" \w*
+\w וְ⁠עַד|lemma="עַד" strong="c:H5704" x-morph="He,C:R" \w*־\w כּ֔וּשׁ|lemma="כּוּשׁ" strong="H3568a" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/ethiopia" \w*
 \w שֶׁ֛בַע|lemma="שֶׁבַע" strong="H7651" x-morph="He,Acfsa" \w*
 \w וְ⁠עֶשְׂרִ֥ים|lemma="עֶשְׂרִים" strong="c:H6242" x-morph="He,C:Acbpa" \w*
 \w וּ⁠מֵאָ֖ה|lemma="מֵאָה" strong="c:H3967" x-morph="He,C:Acbsa" \w*
@@ -1706,7 +1706,7 @@
 \w בִּ⁠יקָר֑⁠וֹ|lemma="יְקָר" strong="b:H3366" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/honor" \w*
 \w וַ⁠יֹּ֤אמֶר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3ms" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w הָמָן֙|lemma="הָמָן" strong="H2001" x-morph="He,Np" \w*
-\w בְּ⁠לִבּ֔⁠וֹ|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/heart" \w*
+\w בְּ⁠לִבּ֔⁠וֹ|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w לְ⁠מִ֞י|lemma="מִי" strong="l:H4310" x-morph="He,R:Ti" \w*
 \w יַחְפֹּ֥ץ|lemma="חָפֵץ" strong="H2654a" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/delight" \w*
 \w הַ⁠מֶּ֛לֶךְ|lemma="מֶלֶךְ" strong="d:H4428" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
@@ -2231,7 +2231,7 @@
 \w הַ⁠מְּדִינ֜וֹת|lemma="מְדִינָה" strong="d:H4082" x-morph="He,Td:Ncfpa" x-tw="rc://*/tw/dict/bible/other/province" \w*
 \w אֲשֶׁ֣ר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*׀
 \w מֵ⁠הֹ֣דּוּ|lemma="הֹדוּ" strong="m:H1912" x-morph="He,R:Np" \w*
-\w וְ⁠עַד|lemma="עַד" strong="c:H5704" x-morph="He,C:R" \w*־\w כּ֗וּשׁ|lemma="כּוּשׁ" strong="H3568a" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/other/ethiopia" \w*
+\w וְ⁠עַד|lemma="עַד" strong="c:H5704" x-morph="He,C:R" \w*־\w כּ֗וּשׁ|lemma="כּוּשׁ" strong="H3568a" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/ethiopia" \w*
 \w שֶׁ֣בַע|lemma="שֶׁבַע" strong="H7651" x-morph="He,Acfsa" \w*
 \w וְ⁠עֶשְׂרִ֤ים|lemma="עֶשְׂרִים" strong="c:H6242" x-morph="He,C:Acbpa" \w*
 \w וּ⁠מֵאָה֙|lemma="מֵאָה" strong="c:H3967" x-morph="He,C:Acbsa" \w*
