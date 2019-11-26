@@ -8376,7 +8376,7 @@
 \c 22
 \p
 \v 1
-\va 21:37/va*
+\va 21:37\va*
 \w כִּ֤י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w יִגְנֹֽב|lemma="גָּנַב" strong="H1589" x-morph="He,Vqi3ms" \w*־\w אִישׁ֙|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
 \w שׁ֣וֹר|lemma="שׁוֹר" strong="H7794" x-morph="He,Ncmsa" \w*
@@ -15957,7 +15957,7 @@
 \w חֹבְרֹ֑ת|lemma="חָבַר" strong="H2266" x-morph="He,Vqrfpa" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־\w שְׁנֵ֥י|lemma="שְׁנַיִם" strong="H8147" x-morph="He,Acmdc" \w*
 \w קצוות⁠ו|lemma="קְצָת" strong="H7117" x-morph="He,Ncfpc:Sp3ms" \w*
-\f + \ft Q \ft* \w קְצוֹתָ֖יו|lemma="קְצָת" strong="H7098" x-morph="He,Ncbpc:Sp3ms" \w*
+\f + \ft Q \ft* \w קְצוֹתָ֖יו|lemma="קְצָת" strong="H7098" x-morph="He,Ncbpc:Sp3ms" \w* \f*
 \w חֻבָּֽר|lemma="חָבַר" strong="H2266" x-morph="He,VPp3ms" \w*׃
 
 \v 5

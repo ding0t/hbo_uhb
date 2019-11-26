@@ -1477,8 +1477,8 @@
 \w לַ⁠חֲטֹֽא|lemma="חָטָא" strong="l:H2398" x-morph="He,R:Vqc" \w*׃
 
 \v 12
-\w אֶ֨כְתָּב|lemma="כָּתַב" strong="H3789" x-morph="He,Vqi1cs" \w*־\w ל֔⁠וֹ|lemma="כָּתַב" strong="l:H3789" x-morph="He,R:Sp3ms" \w*
-\f + \ft K \ft* אכתוב|lemma="כָּתַב" strong="H3789" x-morph="He,Vqi1cs" \w*־\w ל֔⁠וֹ|lemma="כָּתַב" strong="l:H3789" x-morph="He,R:Sp3ms" \w* \f*
+\w אֶ֨כְתָּב|lemma="כָּתַב" strong="H3789" x-morph="He,Vqi1cs" \w*־\w ל֔⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms" \w*
+\f + \ft K \ft* \w אכתוב|lemma="כָּתַב" strong="H3789" x-morph="He,Vqi1cs" \w* \f*
 \w רבו|lemma="רִבּוֹ" strong="H7239" x-morph="He,Ncbsc" \w*
 \f + \ft Q \ft* \w רֻבֵּ֖י|lemma="רִבּוֹ" strong="H7239" x-morph="He,Ncbsc" \w* \f*
 \w תּֽוֹרָתִ֑⁠י|lemma="תּוֹרָה" strong="H8451" x-morph="He,Ncfsc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/lawofmoses" \w*
