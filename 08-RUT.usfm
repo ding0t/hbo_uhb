@@ -902,7 +902,7 @@
 \w כִּ֣י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w אָמְנָ֔ם|lemma="אׇמְנָם" strong="H0551" x-morph="He,D" x-tw="rc://*/tw/dict/bible/kt/true" \w*
 \w כִּ֥י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
-\w אם|lemma="אִם" strong="H0518a" x-morph="He,C" \w*
+\f + \ft K \ft* \w כי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w* \w אם|lemma="אִם" strong="H0518a" x-morph="He,C" \w* \f*
 \w גֹאֵ֖ל|lemma="גָּאַל" strong="H1350a" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/kt/redeem" \w*
 \w אָנֹ֑כִי|lemma="אָנֹכִי" strong="H0595" x-morph="He,Pp1cs" \w*
 \w וְ⁠גַ֛ם|lemma="גַּם" strong="c:H1571" x-morph="He,C:Ta" \w*
