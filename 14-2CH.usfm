@@ -1405,15 +1405,15 @@
 \w כֹּֽהֲנִים֙|lemma="כֹּהֵן" strong="H3548" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/priest" \w*
 \w לְ⁠מֵאָ֣ה|lemma="מֵאָה" strong="l:H3967" x-morph="He,R:Acbsa" \w*
 \w וְ⁠עֶשְׂרִ֔ים|lemma="עֶשְׂרִים" strong="c:H6242" x-morph="He,C:Acbpa" \w*
-\w מחצררים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w*
-\f + \ft Q \ft* \w מַחְצְרִ֖ים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w* \f*
+\w מַחְצְרִ֖ים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w*
+\f + \ft K \ft* \w מחצררים|lemma="חצצר" strong="H2690" x-morph="He,Vprmpa" \w* \f*
 \w בַּ⁠חֲצֹֽצְרֽוֹת|lemma="חֲצֹצְרָה" strong="b:H2689" x-morph="He,R:Ncfpa" x-tw="rc://*/tw/dict/bible/other/trumpet" \w*׃
 
 \v 13
 \w וַ⁠יְהִ֣י|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqw3ms" \w*
 \w כְ֠⁠אֶחָד|lemma="אֶחָד" strong="k:H0259" x-morph="He,R:Acmsa" \w*
-\w ל⁠מחצצרים|lemma="חָצַר" strong="l:H2690" x-morph="He,Rd:Vprmpa" \w*
-\f + \ft Q \ft* \w לַמְחַצְּרִ֨ים|lemma="חָצַר" strong="l:H2690" x-morph="He,Rd:Vprmpa" \w* \f*
+\w לַמְחַצְּרִ֨ים|lemma="חָצַר" strong="l:H2690" x-morph="He,Rd:Vprmpa" \w*
+\f + \ft K \ft* \w ל⁠מחצצרים|lemma="חצצר" strong="l:H2690" x-morph="He,Rd:Vprmpa" \w* \f*
 \w וְ⁠לַ⁠מְשֹֽׁרֲרִ֜ים|lemma="שִׁיר" strong="c:l:H7891" x-morph="He,C:Rd:Vormpa" \w*
 \w לְ⁠הַשְׁמִ֣יעַ|lemma="שָׁמַע" strong="l:H8085" x-morph="He,R:Vhc" \w*
 \w קוֹל|lemma="קוֹל" strong="H6963a" x-morph="He,Ncmsa" \w*־\w אֶחָ֗ד|lemma="אֶחָד" strong="H0259" x-morph="He,Acmsa" \w*
@@ -4411,8 +4411,8 @@
 \w וַֽ⁠יִּצְעֲק֖וּ|lemma="צָעַק" strong="c:H6817" x-morph="He,C:Vqw3mp" \w*
 \w לַ⁠יהוָ֑ה|lemma="יְהֹוָה" strong="l:H3068" x-morph="He,R:Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w וְ⁠הַ⁠כֹּ֣הֲנִ֔ים|lemma="כֹּהֵן" strong="c:d:H3548" x-morph="He,C:Td:Ncmpa" x-tw="rc://*/tw/dict/bible/kt/priest" \w*
-\w מחצצרים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w*
-\f + \ft Q \ft* \w מַחְצְרִ֖ים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w* \f*
+\w מַחְצְרִ֖ים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w*
+\f + \ft K \ft* \w מחצצרים|lemma="חצצר" strong="H2690" x-morph="He,Vprmpa" \w* \f*
 \w בַּ⁠חֲצֹצְרֽוֹת|lemma="חֲצֹצְרָה" strong="b:H2689" x-morph="He,R:Ncfpa" x-tw="rc://*/tw/dict/bible/other/trumpet" \w*׃
 
 \v 15
@@ -10021,8 +10021,8 @@
 \w וְ⁠הַ⁠שִּׁ֣יר|lemma="שִׁיר" strong="c:d:H7892a" x-morph="He,C:Td:Ncbsa" \w*
 \w מְשׁוֹרֵ֔ר|lemma="שִׁיר" strong="H7891" x-morph="He,Vormsa" \w*
 \w וְ⁠הַ⁠חֲצֹצְר֖וֹת|lemma="חֲצֹצְרָה" strong="c:d:H2689" x-morph="He,C:Td:Ncfpa" \w*
-\w מחצצרים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w*
-\f + \ft Q \ft* \w מַחְצְרִ֑ים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w* \f*
+\w מַחְצְרִ֑ים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w*
+\f + \ft Q \ft* \w מחצצרים|lemma="חצצר" strong="H2690" x-morph="He,Vprmpa" \w* \f*
 \w הַ⁠כֹּ֕ל|lemma="כֹּל" strong="d:H3605" x-morph="He,Td:Ncmsa" \w*
 \w עַ֖ד|lemma="עַד" strong="H5704" x-morph="He,R" \w*
 \w לִ⁠כְל֥וֹת|lemma="כָּלָה" strong="l:H3615" x-morph="He,R:Vqc" x-tw="rc://*/tw/dict/bible/kt/fulfill" \w*

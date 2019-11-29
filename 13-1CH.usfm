@@ -6266,8 +6266,8 @@
 \w וּ⁠בְנָיָ֤הוּ|lemma="בְּנָיָה" strong="c:H1141" x-morph="He,C:Np" \w*
 \w וֶֽ⁠אֱלִיעֶ֨זֶר֙|lemma="אֱלִיעֶזֶר" strong="c:H0461" x-morph="He,C:Np" \w*
 \w הַ⁠כֹּ֣הֲנִ֔ים|lemma="כֹּהֵן" strong="d:H3548" x-morph="He,Td:Ncmpa" x-tw="rc://*/tw/dict/bible/kt/priest" \w*
-\w מחצצרים|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w*
-\f + \ft Q \ft* \w מַחְצְרִים֙|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w* \f*
+\w מַחְצְרִים֙|lemma="חָצַר" strong="H2690" x-morph="He,Vprmpa" \w*
+\f + \ft Q \ft* \w מחצצרים|lemma="חצצר" strong="H2690" x-morph="He,Vprmpa" \w* \f*
 \w בַּ⁠חֲצֹ֣צְר֔וֹת|lemma="חֲצֹצְרָה" strong="b:H2689" x-morph="He,R:Ncfpa" x-tw="rc://*/tw/dict/bible/other/trumpet" \w*
 \w לִ⁠פְנֵ֖י|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc" \w*
 \w אֲר֣וֹן|lemma="אָרוֹן" strong="H0727" x-morph="He,Ncbsc" \w*

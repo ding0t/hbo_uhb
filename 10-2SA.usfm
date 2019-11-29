@@ -8806,8 +8806,8 @@
 \w עֲמָשָׂ֖א|lemma="עֲמָשָׂא" strong="H6021" x-morph="He,Np" \w*
 \w לְ⁠הַזְעִ֣יק|lemma="זָעַק" strong="l:H2199" x-morph="He,R:Vhc" \w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w יְהוּדָ֑ה|lemma="יְהוּדָה" strong="H3063" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/judea" \w*
-\w ו⁠ייחר|lemma="אָחַר" strong="c:H0309" x-morph="He,C:Vhw3ms" \w*
-\f + \ft K \ft* \w ו⁠ייחר|lemma="אָחַר" strong="c:H0309" x-morph="He,C:Vqw3ms" \w* \f*
+\w וַיּ֕וֹחֶר|lemma="אָחַר" strong="c:H0309" x-morph="He,C:Vhw3ms" \w*
+\f + \ft K \ft* \w ו⁠ייחר|lemma="אָחַר" strong="c:H0309" x-morph="He,C:Vhw3ms" \w* \f*
 \w מִן|lemma="מִן" strong="H4480a" x-morph="He,R" \w*־\w הַ⁠מּוֹעֵ֖ד|lemma="מוֹעֵד" strong="d:H4150" x-morph="He,Td:Ncmsa" \w*
 \w אֲשֶׁ֥ר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*
 \w יְעָדֽ⁠וֹ|lemma="יָעַד" strong="H3259" x-morph="He,Vqp3ms:Sp3ms" \w*׃ס
