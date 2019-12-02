@@ -154,7 +154,7 @@
 \w אֱלֹהֵ֤י|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \w הַ⁠שָּׁמַ֨יִם֙|lemma="שָׁמַיִם" strong="d:H8064" x-morph="He,Td:Ncmpa" x-tw="rc://*/tw/dict/bible/kt/heaven" \w*
 \w אֲנִ֣י|lemma="אֲנִי" strong="H0589" x-morph="He,Pp1cs" \w*
-\w יָרֵ֔א|lemma="יָרֵא" strong="H3373" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/kt/fear" \w*
+\w יָרֵ֔א|lemma="יָרֵא" strong="H3373" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/kt/fear" \w*
 \w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*־\w עָשָׂ֥ה|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqp3ms" \w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w הַ⁠יָּ֖ם|lemma="יָם" strong="d:H3220" x-morph="He,Td:Ncmsa" \w*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To" \w*־\w הַ⁠יַּבָּשָֽׁה|lemma="יַבָּשָׁה" strong="d:H3004" x-morph="He,Td:Ncfsa" \w*׃
