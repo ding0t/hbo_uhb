@@ -236,7 +236,7 @@
 \w וְ⁠נֹדֵ֛ר|lemma="נָדַר" strong="c:H5087" x-morph="He,C:Vqrmsa" \w*
 \w וְ⁠זֹבֵ֥חַ|lemma="זָבַח" strong="c:H2076" x-morph="He,C:Vqrmsa" \w*
 \w מָשְׁחָ֖ת|lemma="שָׁחַת" strong="H7843" x-morph="He,VHsmsa" \w*
-\w לַֽ⁠אדֹנָ֑⁠י|lemma="אֲדֹנָי" strong="l:H0136" x-morph="He,R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/lord" \w*
+\w לַֽ⁠אדֹנָ֑⁠י|lemma="אֲדֹנָי" strong="l:H0136" x-morph="He,R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/lord" \w*
 \w כִּי֩|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w מֶ֨לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w גָּד֜וֹל|lemma="גָּדוֹל" strong="H1419a" x-morph="He,Aamsa" \w*
@@ -362,7 +362,7 @@
 \w בַּ⁠תּוֹרָ֑ה|lemma="תּוֹרָה" strong="b:H8451" x-morph="He,Rd:Ncfsa" x-tw="rc://*/tw/dict/bible/kt/lawofmoses" \w*
 \w שִֽׁחַתֶּם֙|lemma="שָׁחַת" strong="H7843" x-morph="He,Vpp2mp" \w*
 \w בְּרִ֣ית|lemma="בְּרִית" strong="H1285" x-morph="He,Ncfsc" x-tw="rc://*/tw/dict/bible/kt/covenant" \w*
-\w הַ⁠לֵּוִ֔י|lemma="לֵוִי" strong="d:H3878" x-morph="He,Td:Np" x-tw="rc://*/tw/dict/bible/names/levi" \w*
+\w הַ⁠לֵּוִ֔י|lemma="לֵוִי" strong="d:H3878" x-morph="He,Td:Np" x-tw="rc://*/tw/dict/bible/names/levite" \w*
 \w אָמַ֖ר|lemma="אָמַר" strong="H0559" x-morph="He,Vqp3ms" \w*
 \w יְהוָ֥ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w צְבָאֽוֹת|lemma="צָבָא" strong="H6635b" x-morph="He,Ncbpa" \w*׃

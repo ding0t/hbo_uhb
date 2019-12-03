@@ -7315,7 +7315,7 @@
 \w עוֹד֙|lemma="עוֹד" strong="H5750" x-morph="He,D" \w*
 \w בִּ⁠שְׁמ֔⁠וֹ|lemma="שֵׁם" strong="b:H8034" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/name" \w*
 \w וְ⁠הָיָ֤ה|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqq3ms" \w*
-\w בְ⁠לִבִּ⁠י֙|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/heart" \w*
+\w בְ⁠לִבִּ⁠י֙|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w כְּ⁠אֵ֣שׁ|lemma="אֵשׁ" strong="k:H0784" x-morph="He,R:Ncbsa" \w*
 \w בֹּעֶ֔רֶת|lemma="בָּעַר" strong="H1197a" x-morph="He,Vqrfsa" \w*
 \w עָצֻ֖ר|lemma="עָצָר" strong="H6113" x-morph="He,Vqsmsa" \w*
@@ -8529,7 +8529,7 @@
 \v 26
 \w עַד|lemma="עַד" strong="H5704" x-morph="He,R" \w*־\w מָתַ֗י|lemma="מָתַי" strong="H4970" x-morph="He,Ti" \w*
 \w הֲ⁠יֵ֛שׁ|lemma="יֵשׁ" strong="i:H3426" x-morph="He,Ti:Tm" \w*
-\w בְּ⁠לֵ֥ב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/other/heart" \w*
+\w בְּ⁠לֵ֥ב|lemma="לֵב" strong="b:H3820a" x-morph="He,R:Ncmsc" x-tw="rc://*/tw/dict/bible/kt/heart" \w*
 \w הַ⁠נְּבִאִ֖ים|lemma="נָבִיא" strong="d:H5030" x-morph="He,Td:Ncmpa" x-tw="rc://*/tw/dict/bible/kt/prophet" \w*
 \w נִבְּאֵ֣י|lemma="נָבָא" strong="H5012" x-morph="He,VNrmpc" \w*
 \w הַ⁠שָּׁ֑קֶר|lemma="שֶׁקֶר" strong="d:H8267" x-morph="He,Td:Ncmsa" \w*
@@ -17624,7 +17624,7 @@
 \w הָ⁠רֶ֔כֶב|lemma="רֶכֶב" strong="d:H7393" x-morph="He,Td:Ncmsa" \w*
 \w וְ⁠יֵצְא֖וּ|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vqi3mp" x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w הַ⁠גִּבּוֹרִ֑ים|lemma="גִּבּוֹר" strong="d:H1368" x-morph="He,Td:Aampa" x-tw="rc://*/tw/dict/bible/other/mighty" \w*
-\w כּ֤וּשׁ|lemma="כּוּשׁ" strong="H3568a" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/other/ethiopia" \w*
+\w כּ֤וּשׁ|lemma="כּוּשׁ" strong="H3568a" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/ethiopia" \w*
 \w וּ⁠פוּט֙|lemma="פּוּט" strong="c:H6316" x-morph="He,C:Np" \w*
 \w תֹּפְשֵׂ֣י|lemma="תָּפַשׂ" strong="H8610" x-morph="He,Vqrmpc" \w*
 \w מָגֵ֔ן|lemma="מָגֵן" strong="H4043" x-morph="He,Ncbsa" \w*
@@ -17636,7 +17636,7 @@
 \v 10
 \w וְֽ⁠הַ⁠יּ֨וֹם|lemma="יוֹם" strong="c:d:H3117" x-morph="He,C:Td:Ncmsa" \w*
 \w הַ⁠ה֜וּא|lemma="הוּא" strong="d:H1931" x-morph="He,Td:Pp3ms" \w*
-\w לַ⁠אדֹנָ֧⁠י|lemma="אֲדֹנָי" strong="l:H0136" x-morph="He,R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/lord" \w*
+\w לַ⁠אדֹנָ֧⁠י|lemma="אֲדֹנָי" strong="l:H0136" x-morph="He,R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/lord" \w*
 \w יְהוִ֣ה|lemma="יְהֹוִה" strong="H3069" x-morph="He,Np" \w*
 \w צְבָא֗וֹת|lemma="צָבָא" strong="H6635b" x-morph="He,Ncbpa" \w*
 \w י֤וֹם|lemma="יוֹם" strong="H3117" x-morph="He,Ncmsc" \w*
@@ -17650,7 +17650,7 @@
 \w מִ⁠דָּמָ֑⁠ם|lemma="דָּם" strong="m:H1818" x-morph="He,R:Ncmsc:Sp3mp" \w*
 \w כִּ֣י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
 \w זֶ֠בַח|lemma="זֶבַח" strong="H2077" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/sacrifice" \w*
-\w לַ⁠אדֹנָ֨⁠י|lemma="אֲדֹנָי" strong="l:H0136" x-morph="He,R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/lord" \w*
+\w לַ⁠אדֹנָ֨⁠י|lemma="אֲדֹנָי" strong="l:H0136" x-morph="He,R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/lord" \w*
 \w יְהוִ֧ה|lemma="יְהֹוִה" strong="H3069" x-morph="He,Np" \w*
 \w צְבָא֛וֹת|lemma="צָבָא" strong="H6635b" x-morph="He,Ncbpa" \w*
 \w בְּ⁠אֶ֥רֶץ|lemma="אֶרֶץ" strong="b:H0776" x-morph="He,R:Ncbsc" \w*
@@ -19564,7 +19564,7 @@
 \w זַעְמ֑⁠וֹ|lemma="זַעַם" strong="H2195" x-morph="He,Ncmsc:Sp3ms" \w*
 \w כִּי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־\w מְלָאכָ֣ה|lemma="מְלָאכָה" strong="H4399" x-morph="He,Ncfsa" \w*
 \w הִ֗יא|lemma="הוּא" strong="H1931" x-morph="He,Pp3fs" \w*
-\w לַֽ⁠אדֹנָ֧⁠י|lemma="אֲדֹנָי" strong="l:H0136" x-morph="He,R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/lord" \w*
+\w לַֽ⁠אדֹנָ֧⁠י|lemma="אֲדֹנָי" strong="l:H0136" x-morph="He,R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/lord" \w*
 \w יְהוִ֛ה|lemma="יְהֹוִה" strong="H3069" x-morph="He,Np" \w*
 \w צְבָא֖וֹת|lemma="צָבָא" strong="H6635b" x-morph="He,Ncbpa" \w*
 \w בְּ⁠אֶ֥רֶץ|lemma="אֶרֶץ" strong="b:H0776" x-morph="He,R:Ncbsc" \w*
