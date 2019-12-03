@@ -4775,8 +4775,9 @@
 
 \v 3
 \w וְ⁠הָ⁠עֲרָבָה֩|lemma="עֲרָבָה" strong="c:d:H6160" x-morph="He,C:Td:Ncfsa" x-tw="rc://*/tw/dict/bible/names/arabah" \w*
-\w עַד|lemma="עַד" strong="H5704" x-morph="He,R" \w*־\k-s | x-tw="rc://*/tw/dict/bible/names/seaofgalilee"\w יָ֨ם|lemma="יָם" strong="H3220" x-morph="He,Ncmsc" \w*
-\w כִּנְר֜וֹת|lemma="כִּנְּרוֹת" strong="H3672" x-morph="He,Np" \w*\k-e\*
+\w עַד|lemma="עַד" strong="H5704" x-morph="He,R" \w*־\k-s | x-tw="rc://*/tw/dict/bible/names/seaofgalilee" \w יָ֨ם|lemma="יָם" strong="H3220" x-morph="He,Ncmsc" \w*
+\w כִּנְר֜וֹת|lemma="כִּנְּרוֹת" strong="H3672" x-morph="He,Np" \w*
+\k-e\*
 \w מִזְרָ֗חָ⁠ה|lemma="מִזְרָח" strong="H4217" x-morph="He,Ncmsa:Sd" \w*
 \w וְ֠⁠עַד|lemma="עַד" strong="c:H5704" x-morph="He,C:R" \w*
 \w יָ֣ם|lemma="יָם" strong="H3220" x-morph="He,Ncmsc" \w*
