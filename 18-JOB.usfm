@@ -874,7 +874,7 @@
 \w אָ֑וֶן|lemma="אָוֶן" strong="H0205" x-morph="He,Ncmsa" \w*
 \w וְ⁠זֹרְעֵ֖י|lemma="זָרַע" strong="c:H2232" x-morph="He,C:Vqrmpc" \w*
 \w עָמָ֣ל|lemma="עָמָל" strong="H5999" x-morph="He,Ncbsa" \w*
-\w יִקְצְרֻֽ⁠הוּ|lemma="קָצַר" strong="H7114b" x-morph="He,Vqi3mp:Sp3ms" x-tw="rc://*/tw/dict/bible/other/reap" \w*׃
+\w יִקְצְרֻֽ⁠הוּ|lemma="קָצַר" strong="H7114b" x-morph="He,Vqi3mp:Sp3ms" x-tw="rc://*/tw/dict/bible/other/harvest" \w*׃
 
 \v 9
 \w מִ⁠נִּשְׁמַ֣ת|lemma="נְשָׁמָה" strong="m:H5397" x-morph="He,R:Ncfsc" \w*
@@ -5125,7 +5125,7 @@
 \v 6
 \w בַּ֭⁠שָּׂדֶה|lemma="שָׂדֶה" strong="b:H7704b" x-morph="He,Rd:Ncmsa" \w*
 \w בְּלִיל֣⁠וֹ|lemma="בְּלִיל" strong="H1098" x-morph="He,Ncmsc:Sp3ms" \w*
-\w יִקְצ֑וֹרוּ|lemma="קָצַר" strong="H7114b" x-morph="He,Vqi3mp" x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w יִקְצ֑וֹרוּ|lemma="קָצַר" strong="H7114b" x-morph="He,Vqi3mp" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \f + \ft K \ft* \w יקצירו|lemma="קָצַר" strong="H7114b" x-morph="He,Vhi3mp" \w* \f*
 \w וְ⁠כֶ֖רֶם|lemma="כֶּרֶם" strong="c:H3754" x-morph="He,C:Ncbsa" x-tw="rc://*/tw/dict/bible/other/vineyard" \w*
 \w רָשָׁ֣ע|lemma="רָשָׁע" strong="H7563" x-morph="He,Aamsa" \w*

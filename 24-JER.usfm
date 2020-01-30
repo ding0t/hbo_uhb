@@ -3718,7 +3718,7 @@
 \w הַ⁠שָּׂדֶ֑ה|lemma="שָׂדֶה" strong="d:H7704b" x-morph="He,Td:Ncmsa" \w*
 \w וּ⁠כְ⁠עָמִ֛יר|lemma="עָמִיר" strong="c:k:H5995" x-morph="He,C:R:Ncmsa" \w*
 \w מֵ⁠אַחֲרֵ֥י|lemma="אַחַר" strong="m:H0310a" x-morph="He,R:R" \w*
-\w הַ⁠קֹּצֵ֖ר|lemma="קָצַר" strong="d:H7114b" x-morph="He,Td:Vqrmsa" x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w הַ⁠קֹּצֵ֖ר|lemma="קָצַר" strong="d:H7114b" x-morph="He,Td:Vqrmsa" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w וְ⁠אֵ֥ין|lemma="אַיִן" strong="c:H0369" x-morph="He,C:Tn" \w*
 \w מְאַסֵּֽף|lemma="אָסַף" strong="H0622" x-morph="He,Vprmsa" x-tw="rc://*/tw/dict/bible/other/assembly" \w*׃ס
 
@@ -4691,7 +4691,7 @@
 \w זָרְע֤וּ|lemma="זָרַע" strong="H2232" x-morph="He,Vqp3cp" \w*
 \w חִטִּים֙|lemma="חִטָּה" strong="H2406" x-morph="He,Ncfpa" x-tw="rc://*/tw/dict/bible/other/wheat" \w*
 \w וְ⁠קֹצִ֣ים|lemma="קוֹץ" strong="c:H6975" x-morph="He,C:Ncmpa" \w*
-\w קָצָ֔רוּ|lemma="קָצַר" strong="H7114b" x-morph="He,Vqp3cp" x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w קָצָ֔רוּ|lemma="קָצַר" strong="H7114b" x-morph="He,Vqp3cp" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w נֶחְל֖וּ|lemma="חָלָה" strong="H2470a" x-morph="He,VNp3cp" \w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
 \w יוֹעִ֑לוּ|lemma="יָעַל" strong="H3276" x-morph="He,Vhi3mp" \w*
