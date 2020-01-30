@@ -7695,7 +7695,7 @@
 \w תְכַלֶּ֛ה|lemma="כָּלָה" strong="H3615" x-morph="He,Vpi2ms" x-tw="rc://*/tw/dict/bible/other/consume" \w*
 \w פְּאַ֥ת|lemma="פֵּאָה" strong="H6285" x-morph="He,Ncfsc" \w*
 \w שָׂדְ⁠ךָ֖|lemma="שָׂדֶה" strong="H7704b" x-morph="He,Ncmsc:Sp2ms" \w*
-\w לִ⁠קְצֹ֑ר|lemma="קָצַר" strong="l:H7114b" x-morph="He,R:Vqc" x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w לִ⁠קְצֹ֑ר|lemma="קָצַר" strong="l:H7114b" x-morph="He,R:Vqc" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w וְ⁠לֶ֥קֶט|lemma="לֶקֶט" strong="c:H3951" x-morph="He,C:Ncmsc" \w*
 \w קְצִֽירְ⁠ךָ֖|lemma="קָצִיר" strong="H7105a" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w לֹ֥א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
@@ -10186,7 +10186,7 @@
 \w סְפִ֤יחַ|lemma="סָפִיחַ" strong="H5599b" x-morph="He,Ncmsc" \w*
 \w קְצִֽירְ⁠ךָ֙|lemma="קָצִיר" strong="H7105a" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
-\w תִקְצ֔וֹר|lemma="קָצַר" strong="H7114b" x-morph="He,Vqi2ms" x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w תִקְצ֔וֹר|lemma="קָצַר" strong="H7114b" x-morph="He,Vqi2ms" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To" \w*־\w עִנְּבֵ֥י|lemma="עֵנָב" strong="H6025" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/grape" \w*
 \w נְזִירֶ֖⁠ךָ|lemma="נָזִיר" strong="H5139" x-morph="He,Ncmpc:Sp2ms" \w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
@@ -10285,7 +10285,7 @@
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
 \w תִזְרָ֔עוּ|lemma="זָרַע" strong="H2232" x-morph="He,Vqi2mp" \w*
 \w וְ⁠לֹ֤א|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn" \w*
-\w תִקְצְרוּ֙|lemma="קָצַר" strong="H7114b" x-morph="He,Vqi2mp" x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w תִקְצְרוּ֙|lemma="קָצַר" strong="H7114b" x-morph="He,Vqi2mp" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w סְפִיחֶ֔י⁠הָ|lemma="סָפִיחַ" strong="H5599b" x-morph="He,Ncmpc:Sp3fs" \w*
 \w וְ⁠לֹ֥א|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn" \w*
 \w תִבְצְר֖וּ|lemma="בָּצַר" strong="H1219" x-morph="He,Vqi2mp" \w*
