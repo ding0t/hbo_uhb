@@ -245,7 +245,7 @@
 \w וַ⁠תֹּ֤אמֶר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3fs" \w*
 \w רוּת֙|lemma="רוּת" strong="H7327" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/ruth" \w*
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־\w תִּפְגְּעִי|lemma="פָּגַע" strong="H6293" x-morph="He,Vqj2fs" \w*־\w בִ֔⁠י|lemma="" strong="b" x-morph="He,R:Sp1cs" \w*
-\w לְ⁠עָזְבֵ֖⁠ךְ|lemma="עָזַב" strong="l:H5800a" x-morph="He,R:Vqc:Sp2fs" \w*
+\w לְ⁠עָזְבֵ֖⁠ךְ|lemma="עָזַב" strong="l:H5800a" x-morph="He,R:Vqc:Sp2fs" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*
 \w לָ⁠שׁ֣וּב|lemma="שׁוּב" strong="l:H7725" x-morph="He,R:Vqc" \w*
 \w מֵ⁠אַחֲרָ֑יִ⁠ךְ|lemma="אַחַר" strong="m:H0310a" x-morph="He,R:R:Sp2fs" \w*
 \w כִּ֠י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*
@@ -336,7 +336,7 @@
 \w עָ֣נָה|lemma="עָנָה" strong="H6030b" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/kt/testimony" \w*
 \w בִ֔⁠י|lemma="" strong="b" x-morph="He,R:Sp1cs" \w*
 \w וְ⁠שַׁדַּ֖י|lemma="שַׁדַּי" strong="c:H7706" x-morph="He,C:Np" x-tw="rc://*/tw/dict/bible/kt/almighty" \w*
-\w הֵ֥רַֽע|lemma="רָעַע" strong="H7489a" x-morph="He,Vhp3ms" x-tw="rc://*/tw/dict/bible/other/afflict" \w*
+\w הֵ֥רַֽע|lemma="רָעַע" strong="H7489a" x-morph="He,Vhp3ms" x-tw="rc://*/tw/dict/bible/kt/evil" \w*
 \w לִֽ⁠י|lemma="" strong="l" x-morph="He,R:Sp1cs" \w*׃
 
 \v 22
@@ -609,7 +609,7 @@
 \w הָֽ⁠עֳמָרִ֛ים|lemma="עֹמֶר" strong="d:H6016a" x-morph="He,Td:Ncmpa" \w*
 \w תְּלַקֵּ֖ט|lemma="לָקַט" strong="H3950" x-morph="He,Vpi3fs" x-tw="rc://*/tw/dict/bible/other/glean" \w*
 \w וְ⁠לֹ֥א|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn" \w*
-\w תַכְלִימֽוּ⁠הָ|lemma="כָּלַם" strong="H3637" x-morph="He,Vhi2mp:Sp3fs" x-tw="rc://*/tw/dict/bible/other/reproach" \w*׃
+\w תַכְלִימֽוּ⁠הָ|lemma="כָּלַם" strong="H3637" x-morph="He,Vhi2mp:Sp3fs" x-tw="rc://*/tw/dict/bible/other/shame" \w*׃
 
 \v 16
 \w וְ⁠גַ֛ם|lemma="גַּם" strong="c:H1571" x-morph="He,C:Ta" \w*

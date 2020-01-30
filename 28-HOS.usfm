@@ -1423,7 +1423,7 @@
 \w ר֥וּחַ|lemma="רוּחַ" strong="H7307" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
 \w יִזְרָ֖עוּ|lemma="זָרַע" strong="H2232" x-morph="He,Vqi3mp" \w*
 \w וְ⁠סוּפָ֣תָ⁠ה|lemma="סוּפָה" strong="c:H5492a" x-morph="He,C:Ncfsa:Sh" \w*
-\w יִקְצֹ֑רוּ|lemma="קָצַר" strong="H7114b" x-morph="He,Vqi3mp" x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w יִקְצֹ֑רוּ|lemma="קָצַר" strong="H7114b" x-morph="He,Vqi3mp" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w קָמָ֣ה|lemma="קָמָה" strong="H7054" x-morph="He,Ncfsa" \w*
 \w אֵֽין|lemma="אַיִן" strong="H0369" x-morph="He,Tn" \w*־\w ל֗⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms" \w*
 \w צֶ֚מַח|lemma="צֶמַח" strong="H6780" x-morph="He,Ncmsa" \w*
@@ -1898,7 +1898,7 @@
 \w זִרְע֨וּ|lemma="זָרַע" strong="H2232" x-morph="He,Vqv2mp" \w*
 \w לָ⁠כֶ֤ם|lemma="" strong="l" x-morph="He,R:Sp2mp" \w*
 \w לִ⁠צְדָקָה֙|lemma="צְדָקָה" strong="l:H6666" x-morph="He,R:Ncfsa" \w*
-\w קִצְר֣וּ|lemma="קָצַר" strong="H7114b" x-morph="He,Vqv2mp" x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w קִצְר֣וּ|lemma="קָצַר" strong="H7114b" x-morph="He,Vqv2mp" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w לְ⁠פִי|lemma="פֶּה" strong="l:H6310" x-morph="He,R:Ncmsc" \w*־\w חֶ֔סֶד|lemma="חֶסֶד" strong="H2617a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/covenantfaith" \w*
 \w נִ֥ירוּ|lemma="נִיר" strong="H5214" x-morph="He,Vqv2mp" \w*
 \w לָ⁠כֶ֖ם|lemma="" strong="l" x-morph="He,R:Sp2mp" \w*
@@ -1914,7 +1914,7 @@
 \v 13
 \w חֲרַשְׁתֶּם|lemma="חָרַשׁ" strong="H2790a" x-morph="He,Vqp2mp" \w*־\w רֶ֛שַׁע|lemma="רֶשַׁע" strong="H7562" x-morph="He,Ncmsa" \w*
 \w עַוְלָ֥תָ⁠ה|lemma="עֶוֶל" strong="H5766b" x-morph="He,Ncbsc:Sd" \w*
-\w קְצַרְתֶּ֖ם|lemma="קָצַר" strong="H7114b" x-morph="He,Vqp2mp" x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w קְצַרְתֶּ֖ם|lemma="קָצַר" strong="H7114b" x-morph="He,Vqp2mp" x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w אֲכַלְתֶּ֣ם|lemma="אָכַל" strong="H0398" x-morph="He,Vqp2mp" x-tw="rc://*/tw/dict/bible/other/devour" \w*
 \w פְּרִי|lemma="פְּרִי" strong="H6529" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/fruit" \w*־\w כָ֑חַשׁ|lemma="כַּחַשׁ" strong="H3585" x-morph="He,Ncmsa" \w*
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־\w בָטַ֥חְתָּ|lemma="בָּטַח" strong="H0982" x-morph="He,Vqp2ms" \w*
