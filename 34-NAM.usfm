@@ -37,7 +37,7 @@
 \v 3
 \w יְהֹוָ֗ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w אֶ֤רֶךְ|lemma="אָרֵךְ" strong="H0750" x-morph="He,Aamsc" \w*
-\w אַפַּ֨יִם֙|lemma="אַף" strong="H0639" x-morph="He,Ncmda" x-tw="rc://*/tw/dict/bible/other/angry" \w*
+\w אַפַּ֨יִם֙|lemma="אַף" strong="H0639" x-morph="He,Ncmda" \w*
 \w ו⁠גדול|lemma="גָּדוֹל" strong="c:H1419a" x-morph="He,C:Aamsc" \w*־\w כֹּ֔חַ|lemma="כֹּחַ" strong="H3581b" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/strength" \w*
 \f + \ft Q \ft* \w וּגְדָל|lemma="גָּדַל" strong="c:H1419a" x-morph="He,C:Vqq3ms" \w* \f*
 \w וְ⁠נַקֵּ֖ה|lemma="נָקָה" strong="c:H5352" x-morph="He,C:Vpa" \w*
@@ -85,7 +85,7 @@
 \w וּ⁠מִ֥י|lemma="מִי" strong="c:H4310" x-morph="He,C:Ti" \w*
 \w יָק֖וּם|lemma="קוּם" strong="H6965b" x-morph="He,Vqi3ms" \w*
 \w בַּ⁠חֲר֣וֹן|lemma="חָרוֹן" strong="b:H2740" x-morph="He,R:Ncmsc" \w*
-\w אַפּ֑⁠וֹ|lemma="אַף" strong="H0639" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/angry" \w*
+\w אַפּ֑⁠וֹ|lemma="אַף" strong="H0639" x-morph="He,Ncmsc:Sp3ms" \w*
 \w חֲמָת⁠וֹ֙|lemma="חֵמָה" strong="H2534" x-morph="He,Ncfsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/wrath" \w*
 \w נִתְּכָ֣ה|lemma="נָתַךְ" strong="H5413" x-morph="He,VNp3fs" \w*
 \w כָ⁠אֵ֔שׁ|lemma="אֵשׁ" strong="k:H0784" x-morph="He,Rd:Ncbsa" \w*

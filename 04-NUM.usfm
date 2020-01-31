@@ -15036,7 +15036,7 @@
 \w אֲלֵי⁠הֶם֙|lemma="אֵל" strong="H0413" x-morph="He,R:Sp3mp" \w*
 \w מֹשֶׁ֔ה|lemma="מֹשֶׁה" strong="H4872" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/moses" \w*
 \w אִֽם|lemma="אִם" strong="H0518a" x-morph="He,C" \w*־\w תַּעֲשׂ֖וּ⁠ן|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqi2mp:Sn" \w*
-\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w הַ⁠דָּבָ֣ר|lemma="דָּבָר" strong="d:H1697" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/other/word" \w*
+\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w הַ⁠דָּבָ֣ר|lemma="דָּבָר" strong="d:H1697" x-morph="He,Td:Ncmsa" \w*
 \w הַ⁠זֶּ֑ה|lemma="זֶה" strong="d:H2088" x-morph="He,Td:Pdxms" \w*
 \w אִם|lemma="אִם" strong="H0518a" x-morph="He,C" \w*־\w תֵּחָֽלְצ֛וּ|lemma="חָלַץ" strong="H2502b" x-morph="He,VNi2mp" \w*
 \w לִ⁠פְנֵ֥י|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc" \w*

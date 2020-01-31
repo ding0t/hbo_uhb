@@ -589,7 +589,7 @@
 \w יְהוָ֔ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
 \w אִ֤ם|lemma="אִם" strong="H0518a" x-morph="He,C" \w*
 \w בַּ⁠נְּהָרִים֙|lemma="נָהָר" strong="b:H5104" x-morph="He,Rd:Ncmpa" \w*
-\w אַפֶּ֔⁠ךָ|lemma="אַף" strong="H0639" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/angry" \w*
+\w אַפֶּ֔⁠ךָ|lemma="אַף" strong="H0639" x-morph="He,Ncmsc:Sp2ms" \w*
 \w אִם|lemma="אִם" strong="H0518a" x-morph="He,C" \w*־\w בַּ⁠יָּ֖ם|lemma="יָם" strong="b:H3220" x-morph="He,Rd:Ncmsa" \w*
 \w עֶבְרָתֶ֑⁠ךָ|lemma="עֶבְרָה" strong="H5678" x-morph="He,Ncfsc:Sp2ms" \w*
 \w כִּ֤י|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*

@@ -1132,7 +1132,7 @@
 \w בְּ⁠חֶשְׁבּ֗וֹן|lemma="חֶשְׁבּוֹן" strong="b:H2809" x-morph="He,R:Np" \w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־\w שַׁ֨עַר֙|lemma="שַׁעַר" strong="H8179" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/gate" \w*
 \w בַּת|lemma="בַּת רַבִּים" strong="H1337" x-morph="He,Np" \w*־\w רַבִּ֔ים|lemma="בַּת רַבִּים" strong="H1337" x-morph="He,Np" \w*
-\w אַפֵּ⁠ךְ֙|lemma="אַף" strong="H0639" x-morph="He,Ncmsc:Sp2fs" x-tw="rc://*/tw/dict/bible/other/angry" \w*
+\w אַפֵּ⁠ךְ֙|lemma="אַף" strong="H0639" x-morph="He,Ncmsc:Sp2fs" \w*
 \w כְּ⁠מִגְדַּ֣ל|lemma="מִגְדָּל" strong="k:H4026" x-morph="He,R:Ncbsc" \w*
 \w הַ⁠לְּבָנ֔וֹן|lemma="לְבָנוֹן" strong="d:H3844" x-morph="He,Td:Np" x-tw="rc://*/tw/dict/bible/names/lebanon" \w*
 \w צוֹפֶ֖ה|lemma="צָפָה" strong="H6822" x-morph="He,Vqrmsa" \w*
@@ -1179,7 +1179,7 @@
 \w כְּ⁠אֶשְׁכְּל֣וֹת|lemma="אֶשְׁכּוֹל" strong="k:H0811" x-morph="He,R:Ncmpc" \w*
 \w הַ⁠גֶּ֔פֶן|lemma="גֶּפֶן" strong="d:H1612" x-morph="He,Td:Ncbsa" x-tw="rc://*/tw/dict/bible/other/vine" \w*
 \w וְ⁠רֵ֥יחַ|lemma="רֵיחַ" strong="c:H7381" x-morph="He,C:Ncmsc" \w*
-\w אַפֵּ֖⁠ךְ|lemma="אַף" strong="H0639" x-morph="He,Ncmsc:Sp2fs" x-tw="rc://*/tw/dict/bible/other/angry" \w*
+\w אַפֵּ֖⁠ךְ|lemma="אַף" strong="H0639" x-morph="He,Ncmsc:Sp2fs" \w*
 \w כַּ⁠תַּפּוּחִֽים|lemma="תַּפּוּחַ" strong="k:H8598" x-morph="He,Rd:Ncmpa" \w*׃
 
 \v 9
