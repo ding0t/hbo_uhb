@@ -11181,7 +11181,7 @@
 \w עַד|lemma="עַד" strong="H5704" x-morph="He,R" \w*־\w זִקְנָ֨ה|lemma="זִקְנָה" strong="H2209" x-morph="He,Ncfsa" \w*׀
 \w וְ⁠שֵׂיבָה֮|lemma="שֵׂיבָה" strong="c:H7872" x-morph="He,C:Ncfsa" \w*
 \w אֱלֹהִ֪ים|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\w אַֽל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־\w תַּעַ֫זְבֵ֥⁠נִי|lemma="עָזַב" strong="H5800a" x-morph="He,Vqj2ms:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*
+\w אַֽל|lemma="אַל" strong="H0408" x-morph="He,Tn" \w*־\w תַּעַ֫זְבֵ֥⁠נִי|lemma="עָזַב" strong="H5800a" x-morph="He,Vqj2ms:Sp1cs" x-tw="rc://*/tw/dict/bible/other/forsaken" \w*
 \w עַד|lemma="עַד" strong="H5704" x-morph="He,R" \w*־\w אַגִּ֣יד|lemma="נָגַד" strong="H5046" x-morph="He,Vhi1cs" \w*
 \w זְרוֹעֲ⁠ךָ֣|lemma="זְרוֹעַ" strong="H2220" x-morph="He,Ncbsc:Sp2ms" \w*
 \w לְ⁠ד֑וֹר|lemma="דּוֹר" strong="l:H1755" x-morph="He,R:Ncmsa" x-tw="rc://*/tw/dict/bible/other/generation" \w*
@@ -14683,7 +14683,7 @@
 
 \v 30
 \va 31\va*
-\w אִם|lemma="אִם" strong="H0518a" x-morph="He,C" \w*־\w יַֽעַזְב֣וּ|lemma="עָזַב" strong="H5800a" x-morph="He,Vqi3mp" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*
+\w אִם|lemma="אִם" strong="H0518a" x-morph="He,C" \w*־\w יַֽעַזְב֣וּ|lemma="עָזַב" strong="H5800a" x-morph="He,Vqi3mp" x-tw="rc://*/tw/dict/bible/other/forsaken" \w*
 \w בָ֭נָי⁠ו|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/son" \w*
 \w תּוֹרָתִ֑⁠י|lemma="תּוֹרָה" strong="H8451" x-morph="He,Ncfsc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/lawofmoses" \w*
 \w וּ֝⁠בְ⁠מִשְׁפָּטַ֗⁠י|lemma="מִשְׁפָּט" strong="c:b:H4941" x-morph="He,C:R:Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/judge" \w*
@@ -15508,7 +15508,7 @@
 \w עַמּ֑⁠וֹ|lemma="עַם" strong="H5971a" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
 \w וְ֝⁠נַחֲלָת֗⁠וֹ|lemma="נַחֲלָה" strong="c:H5159" x-morph="He,C:Ncfsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/inherit" \w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
-\w יַעֲזֹֽב|lemma="עָזַב" strong="H5800a" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*׃
+\w יַעֲזֹֽב|lemma="עָזַב" strong="H5800a" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/forsaken" \w*׃
 
 \v 15
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־\w עַד|lemma="עַד" strong="H5704" x-morph="He,R" \w*־\w צֶ֭דֶק|lemma="צֶדֶק" strong="H6664" x-morph="He,Ncmsa" \w*
