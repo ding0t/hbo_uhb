@@ -2077,7 +2077,7 @@
 \w בַּ⁠תַּנּ֔וּר|lemma="תַּנּוּר" strong="b:H8574" x-morph="He,Rd:Ncmsa" \w*
 \w וְ⁠כָל|lemma="כֹּל" strong="c:H3605" x-morph="He,C:Ncmsc" \w*־\w נַעֲשָׂ֥ה|lemma="עָשָׂה" strong="H6213a" x-morph="He,VNp3ms" \w*
 \w בַ⁠מַּרְחֶ֖שֶׁת|lemma="מַרְחֶשֶׁת" strong="b:H4802" x-morph="He,Rd:Ncfsa" \w*
-\w וְ⁠עַֽל|lemma="עַל" strong="c:H5921a" x-morph="He,C:R" \w*־\w מַחֲבַ֑ת|lemma="מַחֲבַת" strong="H4227" x-morph="He,Ncfsa" \w*
+\w וְ⁠עַֽל|lemma="עַל" strong="c:H5921a" x-morph="He,C:R" \w*־\w מַחֲבַ֑ת|lemma="מַחֲבַת" strong="b:H4227" x-morph="He,Ncfsa" \w*
 \w לַ⁠כֹּהֵ֛ן|lemma="כֹּהֵן" strong="l:H3548" x-morph="He,Rd:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/priest" \w*
 \w הַ⁠מַּקְרִ֥יב|lemma="קָרַב" strong="d:H7126" x-morph="He,Td:Vhrmsa" \w*
 \w אֹתָ֖⁠הּ|lemma="אֵת" strong="H0853" x-morph="He,To:Sp3fs" \w*
