@@ -3267,7 +3267,7 @@
 \w וָ⁠אֹמְרָ֗⁠ה|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw1cs:Sh" \w*
 \w אֱלֹהַ⁠י֙|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \w בֹּ֣שְׁתִּי|lemma="בּוּשׁ" strong="H0954" x-morph="He,Vqp1cs" x-tw="rc://*/tw/dict/bible/other/shame" \w*
-\w וְ⁠נִכְלַ֔מְתִּי|lemma="כָּלַם" strong="c:H3637" x-morph="He,C:VNp1cs" x-tw="rc://*/tw/dict/bible/other/humiliate" \w*
+\w וְ⁠נִכְלַ֔מְתִּי|lemma="כָּלַם" strong="c:H3637" x-morph="He,C:VNp1cs" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w לְ⁠הָרִ֧ים|lemma="רוּם" strong="l:H7311a" x-morph="He,R:Vhc" \w*
 \w אֱלֹהַ֛⁠י|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \w פָּנַ֖⁠י|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/face" \w*
@@ -3302,7 +3302,7 @@
 \w בַּ⁠חֶ֜רֶב|lemma="חֶרֶב" strong="b:H2719" x-morph="He,Rd:Ncfsa" x-tw="rc://*/tw/dict/bible/other/sword" \w*
 \w בַּ⁠שְּׁבִ֧י|lemma="שְׁבִי" strong="b:H7628a" x-morph="He,Rd:Ncbsa" x-tw="rc://*/tw/dict/bible/other/captive" \w*
 \w וּ⁠בַ⁠בִּזָּ֛ה|lemma="בִּזָּה" strong="c:b:H0961" x-morph="He,C:Rd:Ncfsa" \w*
-\w וּ⁠בְ⁠בֹ֥שֶׁת|lemma="בֹּשֶׁת" strong="c:b:H1322" x-morph="He,C:R:Ncfsc" x-tw="rc://*/tw/dict/bible/other/humiliate" \w*
+\w וּ⁠בְ⁠בֹ֥שֶׁת|lemma="בֹּשֶׁת" strong="c:b:H1322" x-morph="He,C:R:Ncfsc" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w פָּנִ֖ים|lemma="פָּנִים" strong="H6440" x-morph="He,Ncbpa" x-tw="rc://*/tw/dict/bible/other/face" \w*
 \w כְּ⁠הַ⁠יּ֥וֹם|lemma="יוֹם" strong="k:d:H3117" x-morph="He,R:Td:Ncmsa" \w*
 \w הַ⁠זֶּֽה|lemma="זֶה" strong="d:H2088" x-morph="He,Td:Pdxms" \w*׃

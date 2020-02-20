@@ -9041,7 +9041,7 @@
 \w כִּלְאָ֑יִם|lemma="כִּלְאַיִם" strong="H3610" x-morph="He,Ncmda" \w*
 \w פֶּן|lemma="פֵּן" strong="H6435" x-morph="He,C" \w*־\w תִּקְדַּ֗שׁ|lemma="קָדַשׁ" strong="H6942" x-morph="He,Vqi2fs" x-tw="rc://*/tw/dict/bible/kt/consecrate" \w*
 \w הַֽ⁠מְלֵאָ֤ה|lemma="מְלֵאָה" strong="d:H4395" x-morph="He,Td:Ncfsa" \w*
-\w הַ⁠זֶּ֨רַע֙|lemma="זֶרַע" strong="d:H2233" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/other/offspring" \w*
+\w הַ⁠זֶּ֨רַע֙|lemma="זֶרַע" strong="d:H2233" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/children" \w*
 \w אֲשֶׁ֣ר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*
 \w תִּזְרָ֔ע|lemma="זָרַע" strong="H2232" x-morph="He,Vqi2ms" \w*
 \w וּ⁠תְבוּאַ֖ת|lemma="תְּבוּאָה" strong="c:H8393" x-morph="He,C:Ncfsc" \w*
@@ -9192,7 +9192,7 @@
 \w בָּ⁠אֲבָנִים֙|lemma="אֶבֶן" strong="b:H0068" x-morph="He,Rd:Ncfpa" \w*
 \w וָ⁠מֵ֔תָה|lemma="מוּת" strong="c:H4191" x-morph="He,C:Vqq3fs" x-tw="rc://*/tw/dict/bible/other/death" \w*
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־\w עָשְׂתָ֤ה|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqp3fs" \w*
-\w נְבָלָה֙|lemma="נְבָלָה" strong="H5039" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/disgrace" \w*
+\w נְבָלָה֙|lemma="נְבָלָה" strong="H5039" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w בְּ⁠יִשְׂרָאֵ֔ל|lemma="יִשְׂרָאֵל" strong="b:H3478" x-morph="He,R:Np" x-tw="rc://*/tw/dict/bible/kt/israel" \w*
 \w לִ⁠זְנ֖וֹת|lemma="זָנָה" strong="l:H2181" x-morph="He,R:Vqc" \w*
 \w בֵּ֣ית|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/house" \w*

@@ -509,7 +509,7 @@
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R" \w*־\w עַמֶּ֗⁠ךָ|lemma="עַם" strong="H5971a" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
 \w וְ⁠אַל|lemma="אַל" strong="c:H0408" x-morph="He,C:Tn" \w*־\w תִּתֵּ֨ן|lemma="נָתַן" strong="H5414" x-morph="He,Vqj2ms" \w*
 \w נַחֲלָתְ⁠ךָ֤|lemma="נַחֲלָה" strong="H5159" x-morph="He,Ncfsc:Sp2ms" x-tw="rc://*/tw/dict/bible/kt/inherit" \w*
-\w לְ⁠חֶרְפָּה֙|lemma="חֶרְפָּה" strong="l:H2781" x-morph="He,R:Ncfsa" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w לְ⁠חֶרְפָּה֙|lemma="חֶרְפָּה" strong="l:H2781" x-morph="He,R:Ncfsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w לִ⁠מְשָׁל|lemma="מָשַׁל" strong="l:H4910" x-morph="He,R:Vqc" \w*־\w בָּ֣⁠ם|lemma="" strong="b" x-morph="He,R:Sp3mp" x-tw="rc://*/tw/dict/bible/other/ruler" \w*
 \w גּוֹיִ֔ם|lemma="גּוֹי" strong="H1471a" x-morph="He,Ncmpa" x-tw="rc://*/tw/dict/bible/other/nation" \w*
 \w לָ֚⁠מָּה|lemma="מָה" strong="l:H4100" x-morph="He,R:Ti" \w*
@@ -541,7 +541,7 @@
 \w וְ⁠לֹא|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn" \w*־\w אֶתֵּ֨ן|lemma="נָתַן" strong="H5414" x-morph="He,Vqi1cs" \w*
 \w אֶתְ⁠כֶ֥ם|lemma="אֵת" strong="H0853" x-morph="He,To:Sp2mp" \w*
 \w ע֛וֹד|lemma="עוֹד" strong="H5750" x-morph="He,D" \w*
-\w חֶרְפָּ֖ה|lemma="חֶרְפָּה" strong="H2781" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w חֶרְפָּ֖ה|lemma="חֶרְפָּה" strong="H2781" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w בַּ⁠גּוֹיִֽם|lemma="גּוֹי" strong="b:H1471a" x-morph="He,Rd:Ncmpa" x-tw="rc://*/tw/dict/bible/other/nation" \w*׃
 
 \v 20

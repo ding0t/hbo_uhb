@@ -3493,7 +3493,7 @@
 \w לִ⁠קְרָאתָ֔⁠ם|lemma="קִרְאָה" strong="l:H7125" x-morph="He,R:Vqc:Sp3mp" \w*
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C" \w*־\w הָי֥וּ|lemma="הָיָה" strong="H1961" x-morph="He,Vqp3cp" \w*
 \w הָ⁠אֲנָשִׁ֖ים|lemma="אִישׁ" strong="d:H0376" x-morph="He,Td:Ncmpa" \w*
-\w נִכְלָמִ֣ים|lemma="כָּלַם" strong="H3637" x-morph="He,VNrmpa" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w נִכְלָמִ֣ים|lemma="כָּלַם" strong="H3637" x-morph="He,VNrmpa" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w מְאֹ֑ד|lemma="מְאֹד" strong="H3966" x-morph="He,D" \w*
 \w וַ⁠יֹּ֤אמֶר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3ms" \w*
 \w הַ⁠מֶּ֨לֶךְ֙|lemma="מֶלֶךְ" strong="d:H4428" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
@@ -4892,7 +4892,7 @@
 \w וַ⁠אֲנִ֗י|lemma="אֲנִי" strong="c:H0589" x-morph="He,C:Pp1cs" \w*
 \w אָ֤נָה|lemma="אָן" strong="H0575" x-morph="He,D" \w*
 \w אוֹלִיךְ֙|lemma="יָלַךְ" strong="H3212" x-morph="He,Vhi1cs" x-tw="rc://*/tw/dict/bible/other/walk" \w*
-\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w חֶרְפָּתִ֔⁠י|lemma="חֶרְפָּה" strong="H2781" x-morph="He,Ncfsc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w חֶרְפָּתִ֔⁠י|lemma="חֶרְפָּה" strong="H2781" x-morph="He,Ncfsc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w וְ⁠אַתָּ֗ה|lemma="אַתָּה" strong="c:H0859a" x-morph="He,C:Pp2ms" \w*
 \w תִּהְיֶ֛ה|lemma="הָיָה" strong="H1961" x-morph="He,Vqi2ms" \w*
 \w כְּ⁠אַחַ֥ד|lemma="אֶחָד" strong="k:H0259" x-morph="He,R:Acmsc" \w*

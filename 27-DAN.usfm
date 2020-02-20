@@ -4706,7 +4706,7 @@
 \w אֲבֹתֵ֔י⁠נוּ|lemma="אָב" strong="H0001" x-morph="He,Ncmpc:Sp1cp" x-tw="rc://*/tw/dict/bible/other/father" \w*
 \w יְרוּשָׁלִַ֧ם|lemma="יְרוּשָׁלִַ͏ם" strong="H3389" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/jerusalem" \w*
 \w וְ⁠עַמְּ⁠ךָ֛|lemma="עַם" strong="c:H5971a" x-morph="He,C:Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
-\w לְ⁠חֶרְפָּ֖ה|lemma="חֶרְפָּה" strong="l:H2781" x-morph="He,R:Ncfsa" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w לְ⁠חֶרְפָּ֖ה|lemma="חֶרְפָּה" strong="l:H2781" x-morph="He,R:Ncfsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w לְ⁠כָל|lemma="כֹּל" strong="l:H3605" x-morph="He,R:Ncmsc" \w*־\w סְבִיבֹתֵֽי⁠נוּ|lemma="סָבִיב" strong="H5439" x-morph="He,Ncbpc:Sp1cp" \w*׃
 
 \v 17
@@ -5533,10 +5533,10 @@
 \w רַבִּ֑ים|lemma="רַב" strong="H7227a" x-morph="He,Aampa" \w*
 \w וְ⁠הִשְׁבִּ֨ית|lemma="שָׁבַת" strong="c:H7673a" x-morph="He,C:Vhq3ms" \w*
 \w קָצִ֤ין|lemma="קָצִין" strong="H7101" x-morph="He,Ncmsa" \w*
-\w חֶרְפָּת⁠וֹ֙|lemma="חֶרְפָּה" strong="H2781" x-morph="He,Ncfsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w חֶרְפָּת⁠וֹ֙|lemma="חֶרְפָּה" strong="H2781" x-morph="He,Ncfsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w ל֔⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms" \w*
 \w בִּלְתִּ֥י|lemma="בִּלְתִּי" strong="H1115" x-morph="He,C" \w*
-\w חֶרְפָּת֖⁠וֹ|lemma="חֶרְפָּה" strong="H2781" x-morph="He,Ncfsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w חֶרְפָּת֖⁠וֹ|lemma="חֶרְפָּה" strong="H2781" x-morph="He,Ncfsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w יָשִׁ֥יב|lemma="שׁוּב" strong="H7725" x-morph="He,Vhi3ms" x-tw="rc://*/tw/dict/bible/kt/restore" \w*
 \w לֽ⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms" \w*׃
 
@@ -5948,7 +5948,7 @@
 \w לְ⁠חַיֵּ֣י|lemma="חַי" strong="l:H2416e" x-morph="He,R:Ncmpc" \w*
 \w עוֹלָ֔ם|lemma="עוֹלָם" strong="H5769" x-morph="He,Ncmsa" \w*
 \w וְ⁠אֵ֥לֶּה|lemma="אֵלֶּה" strong="c:H0428" x-morph="He,C:Pdxcp" \w*
-\w לַ⁠חֲרָפ֖וֹת|lemma="חֶרְפָּה" strong="l:H2781" x-morph="He,R:Ncfpa" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w לַ⁠חֲרָפ֖וֹת|lemma="חֶרְפָּה" strong="l:H2781" x-morph="He,R:Ncfpa" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w לְ⁠דִרְא֥וֹן|lemma="דְּרָאוֹן" strong="l:H1860" x-morph="He,R:Ncmsc" \w*
 \w עוֹלָֽם|lemma="עוֹלָם" strong="H5769" x-morph="He,Ncmsa" \w*׃ס
 

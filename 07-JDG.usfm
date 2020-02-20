@@ -1965,7 +1965,7 @@
 \v 18
 \w זְבֻל֗וּן|lemma="זְבוּלוּן" strong="H2074" x-morph="He,Np" \w*
 \w עַ֣ם|lemma="עַם" strong="H5971a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
-\w חֵרֵ֥ף|lemma="חָרַף" strong="H2778a" x-morph="He,Vpp3ms" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w חֵרֵ֥ף|lemma="חָרַף" strong="H2778a" x-morph="He,Vpp3ms" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w נַפְשׁ֛⁠וֹ|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/life" \w*
 \w לָ⁠מ֖וּת|lemma="מוּת" strong="l:H4191" x-morph="He,R:Vqc" x-tw="rc://*/tw/dict/bible/other/death" \w*
 \w וְ⁠נַפְתָּלִ֑י|lemma="נַפְתָּלִי" strong="c:H5321" x-morph="He,C:Np" \w*
@@ -3506,7 +3506,7 @@
 \w זֶ֣בַח|lemma="זֶבַח" strong="H2078" x-morph="He,Np" \w*
 \w וְ⁠צַלְמֻנָּ֑ע|lemma="צַלְמֻנָּע" strong="c:H6759" x-morph="He,C:Np" \w*
 \w אֲשֶׁר֩|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*
-\w חֵרַפְתֶּ֨ם|lemma="חָרַף" strong="H2778a" x-morph="He,Vpp2mp" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w חֵרַפְתֶּ֨ם|lemma="חָרַף" strong="H2778a" x-morph="He,Vpp2mp" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w אוֹתִ֜⁠י|lemma="אֵת" strong="H0853" x-morph="He,To:Sp1cs" \w*
 \w לֵ⁠אמֹ֗ר|lemma="אָמַר" strong="l:H0559" x-morph="He,R:Vqc" \w*
 \w הֲ֠⁠כַף|lemma="כַּף" strong="i:H3709" x-morph="He,Ti:Ncfsc" \w*
@@ -7725,7 +7725,7 @@
 \w צִדֹנִ֜ים|lemma="צִידֹנִי" strong="H6722" x-morph="He,Ngmpa" \w*
 \w שֹׁקֵ֣ט|lemma="שָׁקַט" strong="H8252" x-morph="He,Vqrmsa" \w*׀
 \w וּ⁠בֹטֵ֗חַ|lemma="בָּטַח" strong="c:H0982" x-morph="He,C:Vqrmsa" \w*
-\w וְ⁠אֵין|lemma="אַיִן" strong="c:H0369" x-morph="He,C:Tn" \w*־\w מַכְלִ֨ים|lemma="כָּלַם" strong="H3637" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w וְ⁠אֵין|lemma="אַיִן" strong="c:H0369" x-morph="He,C:Tn" \w*־\w מַכְלִ֨ים|lemma="כָּלַם" strong="H3637" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w דָּבָ֤ר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa" \w*
 \w בָּ⁠אָ֨רֶץ֙|lemma="אֶרֶץ" strong="b:H0776" x-morph="He,Rd:Ncbsa" \w*
 \w יוֹרֵ֣שׁ|lemma="יָרַשׁ" strong="H3423" x-morph="He,Vqrmsa" \w*
