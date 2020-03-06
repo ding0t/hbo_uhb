@@ -41,6 +41,14 @@ checking:
 projects:
 
   -
+    title: 'Front Matter'
+    versification: 'ufw'
+    identifier: 'frt'
+    sort: 0
+    path: './A0-FRT.usfm'
+    categories: [ 'bible-frt'  ]
+
+  -
     title: 'Genesis'
     versification: 'ufw'
     identifier: 'gen'
