@@ -20,8 +20,7 @@
 \w בָּ⁠אָ֑רֶץ|lemma="אֶרֶץ" strong="b:H0776" x-morph="He,Rd:Ncbsa" \w*
 \w וַ⁠יֵּ֨לֶךְ|lemma="יָלַךְ" strong="c:H3212" x-morph="He,C:Vqw3ms" \w*
 \w אִ֜ישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa" \w*
-\k-s | x-tw="rc://*/tw/dict/bible/names/bethlehem"
-\w מִ⁠בֵּ֧ית|lemma="בֵּית לֶחֶם" strong="m:H1035" x-morph="He,R:Np" \w*
+\k-s | x-tw="rc://*/tw/dict/bible/names/bethlehem"\*\w מִ⁠בֵּ֧ית|lemma="בֵּית לֶחֶם" strong="m:H1035" x-morph="He,R:Np" \w*
 \w לֶ֣חֶם|lemma="בֵּית לֶחֶם" strong="H1035" x-morph="He,Np" \w*
 \k-e\*
 \w יְהוּדָ֗ה|lemma="יְהוּדָה" strong="H3063" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/judah" \w*
