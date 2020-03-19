@@ -214,7 +214,7 @@
 \w לִ⁠פְנֵ֕י|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc" x-tw="rc://*/tw/dict/bible/other/face" \w*
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־\w יֹדְעֵ֖י|lemma="יָדַע" strong="H3045" x-morph="He,Vqrmpc" x-tw="rc://*/tw/dict/bible/other/know" \w*
 \w דָּ֥ת|lemma="דָּת" strong="H1881" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/law" \w*
-\w וָ⁠דִֽין|lemma="דִּין" strong="c:H1779" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/justice" \w*׃
+\w וָ⁠דִֽין|lemma="דִּין" strong="c:H1779" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/judge" \w*׃
 
 \v 14
 \w וְ⁠הַ⁠קָּרֹ֣ב|lemma="קָרוֹב" strong="c:d:H7138" x-morph="He,C:Td:Aamsa" \w*
@@ -384,7 +384,7 @@
 \w הַ⁠דְּבָרִ֣ים|lemma="דָּבָר" strong="d:H1697" x-morph="He,Td:Ncmpa" \w*
 \w הָ⁠אֵ֔לֶּה|lemma="אֵלֶּה" strong="d:H0428" x-morph="He,Td:Pdxcp" \w*
 \w כְּ⁠שֹׁ֕ךְ|lemma="שָׁכַךְ" strong="k:H7918" x-morph="He,R:Vqc" \w*
-\w חֲמַ֖ת|lemma="חֵמָה" strong="H2534" x-morph="He,Ncfsc" x-tw="rc://*/tw/dict/bible/kt/wrath" \w*
+\w חֲמַ֖ת|lemma="חֵמָה" strong="H2534" x-morph="He,Ncfsc" x-tw="rc://*/tw/dict/bible/other/rage" \w*
 \w הַ⁠מֶּ֣לֶךְ|lemma="מֶלֶךְ" strong="d:H4428" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/other/king" \w*
 \w אֲחַשְׁוֵר֑וֹשׁ|lemma="אֲחַשְׁוֵרוֹשׁ" strong="H0325" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/ahasuerus" \w*
 \w זָכַ֤ר|lemma="זָכַר" strong="H2142" x-morph="He,Vqp3ms" \w*
@@ -811,7 +811,7 @@
 \w הָ⁠אֲגָגִ֖י|lemma="אֲגָגִי" strong="d:H0091" x-morph="He,Td:Ngmsa" \w*
 \w וַֽ⁠יְנַשְּׂאֵ֑⁠הוּ|lemma="נָשָׂא" strong="c:H5375" x-morph="He,C:Vpw3ms:Sp3ms" \w*
 \w וַ⁠יָּ֨שֶׂם֙|lemma="שׂוּם" strong="c:H7760a" x-morph="He,C:Vqw3ms" \w*
-\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w כִּסְא֔⁠וֹ|lemma="כִּסֵּא" strong="H3678" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/throne" \w*
+\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To" \w*־\w כִּסְא֔⁠וֹ|lemma="כִּסֵּא" strong="H3678" x-morph="He,Ncmsc:Sp3ms" \w*
 \w מֵ⁠עַ֕ל|lemma="עַל" strong="m:H5921a" x-morph="He,R:R" \w*
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc" \w*־\w הַ⁠שָּׂרִ֖ים|lemma="שַׂר" strong="d:H8269" x-morph="He,Td:Ncmpa" x-tw="rc://*/tw/dict/bible/other/noble" \w*
 \w אֲשֶׁ֥ר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr" \w*
