@@ -7178,7 +7178,7 @@
 
 \ca 21\ca*
 \p
-\v45
+\v 45
 \va 21:1\va*
 \w וַ⁠יְהִ֥י|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqw3ms" \w*
 \w דְבַר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsc" \w*־\w יְהוָ֖ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh" \w*
@@ -13470,7 +13470,7 @@
 \w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*־\w תֹ֣אכְלִי|lemma="אָכַל" strong="H0398" x-morph="He,Vqi2fs" x-tw="rc://*/tw/dict/bible/other/devour" \w*
 \w ע֔וֹד|lemma="עוֹד" strong="H5750" x-morph="He,D" \w*
 \w ו⁠גוי⁠ך|lemma="גּוֹי" strong="c:H1471a" x-morph="He,C:Ncmsc:Sp2fs" \w*
-\f + \ft Q \ft* \w וְגוֹיַ֖יִךְ|lemma="גּוֹי" strong="c:H1471a" x-morph="He,C:Ncmpc:Sp2fs" \w*
+\f + \ft Q \ft* \w וְגוֹיַ֖יִךְ|lemma="גּוֹי" strong="c:H1471a" x-morph="He,C:Ncmpc:Sp2fs" \w* \f*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn" \w*
 \w תְשַׁכְּלִי|lemma="שָׁכַל" strong="H7921" x-morph="He,Vpi2fs" \w*־\w ע֑וֹד|lemma="עוֹד" strong="H5750" x-morph="He,D" \w*
 \f + \ft K \ft* \w תכשלי|lemma="כָּשַׁל" strong="H3782" x-morph="He,Vpi2fs" \w* \f*
