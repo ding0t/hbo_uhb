@@ -4704,7 +4704,7 @@ k-s | x-tw="rc://*/tw/dict/bible/names/bethel"\w*־\w אֵל֙|lemma="בֵּית
 \v 16
 \w לְעִדּ֥וֹא|lemma="עִדּוֹ" strong="l:H5714" x-morph="He,R:Np"\w*
 \f + \ft K \w ל⁠עדיא|lemma="עִדּוֹ" strong="l:H5714" x-morph="He,R:Np"\w*\f*
-\w זְכַרְיָ֖ה|lemma="זְכַרְיָה" strong="H2148a" x-morph="He,Np"\w*
+\w זְכַרְיָ֖ה|lemma="זְכַרְיָה" strong="H2148a" x-morph="He,Np"x-tw="rc://*/tw/dict/bible/names/zechariahot"\w*
 \w לְ⁠גִנְּת֥וֹן|lemma="גִּנְּתוֹן" strong="l:H1599" x-morph="He,R:Np"\w*
 \w מְשֻׁלָּֽם|lemma="מְשֻׁלָּם" strong="H4918" x-morph="He,Np"\w*׃
 
