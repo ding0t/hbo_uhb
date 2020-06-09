@@ -5479,11 +5479,11 @@
 \w וּ⁠בְנֵי⁠הֶ֗ם|lemma="בֵּן" strong="c:H1121a" x-morph="He,C:Ncmpc:Sp3mp" x-tw="rc://*/tw/dict/bible/kt/son"\w*
 \w חֲצִי֙|lemma="חֵצִי" strong="H2677" x-morph="He,Ncmsa"\w*
 \w מְדַבֵּ֣ר|lemma="דָבַר" strong="H1696" x-morph="He,Vprmsa"\w*
-\w אַשְׁדּוֹדִ֔ית|lemma="אַשְׁדּוֹדִית" strong="H0797" x-morph="He,Ngfsa" x-tw="rc://*/tw/dict/bible/names/ashdod"\w*
+\w אַשְׁדּוֹדִ֔ית|lemma="אַשְׁדּוֹדִית" strong="H0797" x-morph="He,Agfsa" x-tw="rc://*/tw/dict/bible/names/ashdod"\w*
 \w וְ⁠אֵינָ֥⁠ם|lemma="אַיִן" strong="c:H0369" x-morph="He,C:Tn:Sp3mp"\w*
 \w מַכִּירִ֖ים|lemma="נָכַר" strong="H5234a" x-morph="He,Vhrmpa"\w*
 \w לְ⁠דַבֵּ֣ר|lemma="דָבַר" strong="l:H1696" x-morph="He,R:Vpc"\w*
-\w יְהוּדִ֑ית|lemma="יְהוּדִית" strong="H3066" x-morph="He,Ngfsa" x-tw="rc://*/tw/dict/bible/kt/hebrew"\w*
+\w יְהוּדִ֑ית|lemma="יְהוּדִית" strong="H3066" x-morph="He,Agfsa" x-tw="rc://*/tw/dict/bible/kt/hebrew"\w*
 \w וְ⁠כִ⁠לְשׁ֖וֹן|lemma="לָשׁוֹן" strong="c:k:H3956" x-morph="He,C:R:Ncbsc" x-tw="rc://*/tw/dict/bible/other/tongue"\w*
 \w עַ֥ם|lemma="עַם" strong="H5971a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/peoplegroup"\w*
 \w וָ⁠עָֽם|lemma="עַם" strong="c:H5971a" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/other/peoplegroup"\w*׃
