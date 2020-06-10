@@ -370,7 +370,7 @@
 \w כִּ⁠לְשׁוֹנ֑⁠וֹ|lemma="לָשׁוֹן" strong="k:H3956" x-morph="He,R:Ncbsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/tongue"\w*
 \w לִ⁠הְי֤וֹת|lemma="הָיָה" strong="l:H1961" x-morph="He,R:Vqc"\w*
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc"\w*־\w אִישׁ֙|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsa"\w*
-\w שֹׂרֵ֣ר|lemma="שָׂרַר" strong="H8323" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/kt/lord"\w*
+\w שֹׂרֵ֣ר|lemma="שָׂרַר" strong="H8323" x-morph="He,Vqrmsa" x-tw="rc://*/tw/dict/bible/other/ruler"\w*
 \w בְּ⁠בֵית֔⁠וֹ|lemma="בַּיִת" strong="b:H1004b" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/house"\w*
 \w וּ⁠מְדַבֵּ֖ר|lemma="דָבַר" strong="c:H1696" x-morph="He,C:Vprmsa"\w*
 \w כִּ⁠לְשׁ֥וֹן|lemma="לָשׁוֹן" strong="k:H3956" x-morph="He,R:Ncbsc" x-tw="rc://*/tw/dict/bible/other/tongue"\w*
@@ -695,10 +695,10 @@
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w אֶסְתֵּר֙|lemma="אֶסְתֵּר" strong="H0635" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/esther"\w*
 \w מִ⁠כָּל|lemma="כֹּל" strong="m:H3605" x-morph="He,R:Ncmsc"\w*־\w הַ⁠נָּשִׁ֔ים|lemma="אִשָּׁה" strong="d:H0802" x-morph="He,Td:Ncfpa"\w*
 \w וַ⁠תִּשָּׂא|lemma="נָשָׂא" strong="c:H5375" x-morph="He,C:Vqw3fs"\w*־\w חֵ֥ן|lemma="חֵן" strong="H2580" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/favor"\w*
-\w וָ⁠חֶ֛סֶד|lemma="חֶסֶד" strong="c:H2617a" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/covenantfaith"\w*
+\w וָ⁠חֶ֛סֶד|lemma="חֶסֶד" strong="c:H2617a" x-morph="He,C:Ncmsa"\w*
 \w לְ⁠פָנָ֖י⁠ו|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/face"\w*
 \w מִ⁠כָּל|lemma="כֹּל" strong="m:H3605" x-morph="He,R:Ncmsc"\w*־\w הַ⁠בְּתוּלֹ֑ת|lemma="בְּתוּלָה" strong="d:H1330" x-morph="He,Td:Ncfpa" x-tw="rc://*/tw/dict/bible/other/virgin"\w*
-\w וַ⁠יָּ֤שֶׂם|lemma="שׂוּם" strong="c:H7760a" x-morph="He,C:Vqw3ms" x-tw="rc://*/tw/dict/bible/kt/appoint"\w*
+\w וַ⁠יָּ֤שֶׂם|lemma="שׂוּם" strong="c:H7760a" x-morph="He,C:Vqw3ms"\w*
 \w כֶּֽתֶר|lemma="כֶּתֶר" strong="H3804" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/crown"\w*־\w מַלְכוּת֙|lemma="מַלְכוּת" strong="H4438" x-morph="He,Ncfsa" x-tw="rc://*/tw/dict/bible/other/royal"\w*
 \w בְּ⁠רֹאשָׁ֔⁠הּ|lemma="רֹאשׁ" strong="b:H7218a" x-morph="He,R:Ncmsc:Sp3fs"\w*
 \w וַ⁠יַּמְלִיכֶ֖⁠הָ|lemma="מָלַךְ" strong="c:H4427a" x-morph="He,C:Vhw3ms:Sp3fs" x-tw="rc://*/tw/dict/bible/other/queen"\w*
