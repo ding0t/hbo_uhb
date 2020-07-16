@@ -743,7 +743,7 @@
 \w וַ⁠תֹּ֥אמֶר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3fs"\w*
 \w לָ֖⁠הּ|lemma="" strong="l" x-morph="He,R:Sp3fs"\w*
 \w נָעֳמִ֣י|lemma="נׇעֳמִי" strong="H5281" x-morph="He,Np"\w*
-\w חֲמוֹתָ֑⁠הּ|lemma="חֲמוֹת" strong="H2545" x-morph="He,Ncfsc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/rest"\w*
+\w חֲמוֹתָ֑⁠הּ|lemma="חֲמוֹת" strong="H2545" x-morph="He,Ncfsc:Sp3fs"\w*
 \w בִּתִּ֞⁠י|lemma="בַּת" strong="H1323" x-morph="He,Ncfsc:Sp1cs"\w*
 \w הֲ⁠לֹ֧א|lemma="לֹא" strong="i:H3808" x-morph="He,Ti:Tn"\w*
 \w אֲבַקֶּשׁ|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpi1cs"\w*־\w לָ֛⁠ךְ|lemma="" strong="l" x-morph="He,R:Sp2fs"\w*
@@ -1190,7 +1190,7 @@
 \w שְׁתֵּי⁠הֶם֙|lemma="שְׁנַיִם" strong="H8147" x-morph="He,Acfdc:Sp3mp"\w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w בֵּ֣ית|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/house"\w*
 \w יִשְׂרָאֵ֔ל|lemma="יִשְׂרָאֵל" strong="H3478" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/israel"\w*
-\w וַ⁠עֲשֵׂה|lemma="עָשָׂה" strong="c:H6213a" x-morph="He,C:Vqv2ms"\w*־\w חַ֣יִל|lemma="חַיִל" strong="H2428" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/prosper"\w*
+\w וַ⁠עֲשֵׂה|lemma="עָשָׂה" strong="c:H6213a" x-morph="He,C:Vqv2ms"\w*־\w חַ֣יִל|lemma="חַיִל" strong="H2428" x-morph="He,Ncmsa"\w*
 \w בְּ⁠אֶפְרָ֔תָה|lemma="אֶפְרָת" strong="b:H0672" x-morph="He,R:Np" x-tw="rc://*/tw/dict/bible/names/ephrathah"\w*
 \w וּ⁠קְרָא|lemma="קָרָא" strong="c:H7121" x-morph="He,C:Vqv2ms"\w*־\w שֵׁ֖ם|lemma="שֵׁם" strong="H8034"\w*
 \k-s | x-tw="rc://*/tw/dict/bible/names/bethlehem"\*\w בְּ⁠בֵ֥ית|lemma="בֵּית לֶחֶם" strong="b:H1035" x-morph="He,R:Np"\w*
