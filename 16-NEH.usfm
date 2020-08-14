@@ -5531,7 +5531,8 @@
 
 \v 27
 \w וְ⁠לָ⁠כֶ֣ם|lemma="" strong="c:l" x-morph="He,C:R:Sp2mp"\w*
-\w הֲ⁠נִשְׁמַ֗ע|lemma="שָׁמַע" strong="i:H8085" x-morph="He,Ti:VNp3ms"\w*
+\w הֲ⁠נִשְׁמַ֗ע|lemma="שָׁמַע" strong="i:H8085" x-morph="He,Ti:Vqp1cs"\w*
+\f + \ft or perhaps Niphal \ft* \w הֲ⁠נִשְׁמַ֗ע|lemma="שָׁמַע" strong="i:H8085" x-morph="He,Ti:VNp3ms"\w* \f*
 \w לַ⁠עֲשֹׂת֙|lemma="עָשָׂה" strong="l:H6213a" x-morph="He,R:Vqc"\w*
 \w אֵ֣ת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc"\w*־\w הָ⁠רָעָ֤ה|lemma="רַע" strong="d:H7451c" x-morph="He,Td:Ncfsa" x-tw="rc://*/tw/dict/bible/kt/evil"\w*
