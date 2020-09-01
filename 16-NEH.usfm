@@ -2927,7 +2927,7 @@
 \v 8
 \w וַֽ⁠יִּקְרְא֥וּ|lemma="קָרָא" strong="c:H7121" x-morph="He,C:Vqw3mp"\w*
 \w בַ⁠סֵּ֛פֶר|lemma="סֵפֶר" strong="b:H5612a" x-morph="He,Rd:Ncmsa"\w*
-\w בְּ⁠תוֹרַ֥ת|lemma="תּוֹרָה" strong="b:H8451" x-morph="He,R:Ncfsc"  x-tw="rc://*/tw/dict/bible/kt/lawofmoses"\w*
+\w בְּ⁠תוֹרַ֥ת|lemma="תּוֹרָה" strong="b:H8451" x-morph="He,R:Ncfsc" x-tw="rc://*/tw/dict/bible/kt/lawofmoses"\w*
 \w הָ⁠אֱלֹהִ֖ים|lemma="אֱלֹהִים" strong="d:H0430" x-morph="He,Td:Ncmpa" x-tw="rc://*/tw/dict/bible/kt/god"\w*
 \w מְפֹרָ֑שׁ|lemma="פָּרָשׁ" strong="H6567a" x-morph="He,VPsmsa"\w*
 \w וְ⁠שׂ֣וֹם|lemma="שׂוּם" strong="c:H7760a" x-morph="He,C:Vqa"\w*
@@ -2958,7 +2958,7 @@
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc"\w*־\w הָ⁠עָ֔ם|lemma="עַם" strong="d:H5971a" x-morph="He,Td:Ncmsa"\w*
 \w כְּ⁠שָׁמְעָ֖⁠ם|lemma="שָׁמַע" strong="k:H8085" x-morph="He,R:Vqc:Sp3mp"\w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w דִּבְרֵ֥י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc"\w*
-\w הַ⁠תּוֹרָֽה|lemma="תּוֹרָה" strong="d:H8451" x-morph="He,Td:Ncfsa"  x-tw="rc://*/tw/dict/bible/kt/lawofmoses"\w*׃
+\w הַ⁠תּוֹרָֽה|lemma="תּוֹרָה" strong="d:H8451" x-morph="He,Td:Ncfsa" x-tw="rc://*/tw/dict/bible/kt/lawofmoses"\w*׃
 
 \v 10
 \w וַ⁠יֹּ֣אמֶר|lemma="אָמַר" strong="c:H0559" x-morph="He,C:Vqw3ms"\w*
@@ -3023,7 +3023,7 @@
 \w הַ⁠סֹּפֵ֑ר|lemma="סָפַר" strong="d:H5608b" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/scribe"\w*
 \w וּ⁠לְ⁠הַשְׂכִּ֖יל|lemma="שָׂכַל" strong="c:l:H7919a" x-morph="He,C:R:Vhc"\w*
 \w אֶל|lemma="אֵל" strong="H0413" x-morph="He,R"\w*־\w דִּבְרֵ֥י|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmpc"\w*
-\w הַ⁠תּוֹרָֽה|lemma="תּוֹרָה" strong="d:H8451" x-morph="He,Td:Ncfsa"  x-tw="rc://*/tw/dict/bible/kt/lawofmoses"\w*׃
+\w הַ⁠תּוֹרָֽה|lemma="תּוֹרָה" strong="d:H8451" x-morph="He,Td:Ncfsa" x-tw="rc://*/tw/dict/bible/kt/lawofmoses"\w*׃
 
 \v 14
 \w וַֽ⁠יִּמְצְא֖וּ|lemma="מָצָא" strong="c:H4672" x-morph="He,C:Vqw3mp"\w*
