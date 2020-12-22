@@ -138,7 +138,7 @@
 \w הָ⁠אָ֨רֶץ֙|lemma="אֶרֶץ" strong="d:H0776" x-morph="He,Td:Ncbsa" x-tw="rc://*/tw/dict/bible/other/earth"\w*
 \w דֶּ֔שֶׁא|lemma="דֶּשֶׁא" strong="H1877" x-morph="He,Ncmsa"\w*
 \w עֵ֚שֶׂב|lemma="עֶשֶׂב" strong="H6212" x-morph="He,Ncmsa"\w*
-\w מַזְרִ֣יעַ|lemma="זָרַע" strong="H2232" x-morph="He,Vhrmsa"\w*
+\w מַזְרִ֣יעַ|lemma="זָרַע" strong="H2232" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/seed"\w*
 \w זֶ֔רַע|lemma="זֶרַע" strong="H2233" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/seed"\w*
 \w עֵ֣ץ|lemma="עֵץ" strong="H6086" x-morph="He,Ncmsc"\w*
 \w פְּרִ֞י|lemma="פְּרִי" strong="H6529" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/fruit"\w*
@@ -155,7 +155,7 @@
 \w הָ⁠אָ֜רֶץ|lemma="אֶרֶץ" strong="d:H0776" x-morph="He,Td:Ncbsa" x-tw="rc://*/tw/dict/bible/other/earth"\w*
 \w דֶּ֠שֶׁא|lemma="דֶּשֶׁא" strong="H1877" x-morph="He,Ncmsa"\w*
 \w עֵ֣שֶׂב|lemma="עֶשֶׂב" strong="H6212" x-morph="He,Ncmsa"\w*
-\w מַזְרִ֤יעַ|lemma="זָרַע" strong="H2232" x-morph="He,Vhrmsa"\w*
+\w מַזְרִ֤יעַ|lemma="זָרַע" strong="H2232" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/other/seed"\w*
 \w זֶ֨רַע֙|lemma="זֶרַע" strong="H2233" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/seed"\w*
 \w לְ⁠מִינֵ֔⁠הוּ|lemma="מִין" strong="l:H4327" x-morph="He,R:Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/kind"\w*
 \w וְ⁠עֵ֧ץ|lemma="עֵץ" strong="c:H6086" x-morph="He,C:Ncmsa"\w*
