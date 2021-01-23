@@ -1478,7 +1478,7 @@
 \w נִשְׁתְּוָנָ⁠א֙|lemma="נִשְׁתְּוָן" strong="H5407" x-morph="Ar,Ncmsd:Td"\w*
 \w דִּ֚י|lemma="דִּי" strong="H1768" x-morph="Ar,Tr"\w*
 \w ארתחששתא|lemma="אַרְתַּחְשַׁשְׁתָּא" strong="H0783b" x-morph="Ar,Np" x-tw="rc://*/tw/dict/bible/names/artaxerxes"\w*
-\f + \ft Q \w אַרְתַּחְשַׁ֣שְׂתְּ|lemma="אַרְתַּחְשַׁשְׁתָּא" strong="H0783b"\w*\f*
+\f + \ft Q \w אַרְתַּחְשַׁ֣שְׂתְּ|lemma="אַרְתַּחְשַׁשְׁתָּא" strong="H0783b" x-morph="Ar,Np"\w*\f*
 \w מַלְכָּ֔⁠א|lemma="מֶלֶךְ" strong="H4430" x-morph="Ar,Ncmsd:Td" x-tw="rc://*/tw/dict/bible/other/king"\w*
 \w קֱרִ֧י|lemma="קְרָא" strong="H7123" x-morph="Ar,VQp3ms"\w*
 \w קֳדָם|lemma="קֳדָם" strong="H6925" x-morph="Ar,R"\w*־\w רְח֛וּם|lemma="רְחוּם" strong="H7348b" x-morph="Ar,Np"\w*

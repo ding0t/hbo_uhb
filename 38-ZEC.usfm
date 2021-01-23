@@ -1742,7 +1742,7 @@
 \w וְ⁠צ֣וֹם|lemma="צוֹם" strong="c:H6685" x-morph="He,C:Ncmsc" x-tw="rc://*/tw/dict/bible/other/fast"\w*
 \w הַ⁠חֲמִישִׁי֩|lemma="חֲמִישִׁי" strong="d:H2549" x-morph="He,Td:Aomsa"\w*
 \w וְ⁠צ֨וֹם|lemma="צוֹם" strong="c:H6685" x-morph="He,C:Ncmsc" x-tw="rc://*/tw/dict/bible/other/fast"\w*
-\w הַ⁠שְּׁבִיעִ֜י|lemma="שְׁבִיעִי" strong="d:H7637"\w*
+\w הַ⁠שְּׁבִיעִ֜י|lemma="שְׁבִיעִי" strong="d:H7637" x-morph="He,Aomsa"\w*
 \w וְ⁠צ֣וֹם|lemma="צוֹם" strong="c:H6685" x-morph="He,C:Ncmsc" x-tw="rc://*/tw/dict/bible/other/fast"\w*
 \w הָ⁠עֲשִׂירִ֗י|lemma="עֲשִׂירִי" strong="d:H6224" x-morph="He,Td:Aomsa"\w*
 \w יִהְיֶ֤ה|lemma="הָיָה" strong="H1961" x-morph="He,Vqi3ms"\w*

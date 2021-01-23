@@ -1192,7 +1192,7 @@
 \w יִשְׂרָאֵ֔ל|lemma="יִשְׂרָאֵל" strong="H3478" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/israel"\w*
 \w וַ⁠עֲשֵׂה|lemma="עָשָׂה" strong="c:H6213a" x-morph="He,C:Vqv2ms"\w*־\w חַ֣יִל|lemma="חַיִל" strong="H2428" x-morph="He,Ncmsa"\w*
 \w בְּ⁠אֶפְרָ֔תָה|lemma="אֶפְרָת" strong="b:H0672" x-morph="He,R:Np" x-tw="rc://*/tw/dict/bible/names/ephrathah"\w*
-\w וּ⁠קְרָא|lemma="קָרָא" strong="c:H7121" x-morph="He,C:Vqv2ms"\w*־\w שֵׁ֖ם|lemma="שֵׁם" strong="H8034"\w*
+\w וּ⁠קְרָא|lemma="קָרָא" strong="c:H7121" x-morph="He,C:Vqv2ms"\w*־\w שֵׁ֖ם|lemma="שֵׁם" strong="H8034" x-morph="He,Ncmsa"\w*
 \k-s |x-tw="rc://*/tw/dict/bible/names/bethlehem"\*\w בְּ⁠בֵ֥ית|lemma="בֵּית לֶחֶם" strong="b:H1035" x-morph="He,R:Np"\w*
 \w לָֽחֶם|lemma="בֵּית לֶחֶם" strong="H1035" x-morph="He,Np"\w*׃
 \k-e\*
