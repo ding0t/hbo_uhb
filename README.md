@@ -1,4 +1,5 @@
 <img src="https://cdn.door43.org/assets/uw-icons/logo-uhb-256.png" alt="drawing" width="100"/>
+
 # unfoldingWord® Hebrew Bible
 
 *An open-licensed, lexically tagged, morphologically parsed Hebrew Old Testament. It enables the global Church to have access to the original texts of the Old Testament.*

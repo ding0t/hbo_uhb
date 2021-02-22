@@ -431,7 +431,7 @@
 
 \v 28
 \w אַנְשֵׁ֤י|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmpc"\w*
-\k-s |x-tw="rc://*/tw/dict/bible/names/bethel"\* \w בֵֽית|lemma="בֵּית־אֵל" strong="H1008" x-morph="He,Np"\w*־\w אֵל֙|lemma="בֵּית־אֵל" strong="H1008" x-morph="He,Np"\w*
+\k-s |x-tw="rc://*/tw/dict/bible/names/bethel"\*\w בֵֽית|lemma="בֵּית־אֵל" strong="H1008" x-morph="He,Np"\w*־\w אֵל֙|lemma="בֵּית־אֵל" strong="H1008" x-morph="He,Np"\w*
 \k-e\*
 \w וְ⁠הָ⁠עָ֔י|lemma="עַי" strong="c:d:H5857" x-morph="He,C:Td:Np" x-tw="rc://*/tw/dict/bible/names/ai"\w*
 \w מָאתַ֖יִם|lemma="מֵאָה" strong="H3967" x-morph="He,Acbda"\w*
@@ -2492,7 +2492,7 @@
 \w דִי֩|lemma="דִּי" strong="H1768" x-morph="Ar,Pfxcs"\w*
 \w עלי⁠ך|lemma="עַל" strong="H5921a" x-morph="Ar,R:Sp2ms"\w*
 \f + \ft Q \w עֲלָ֨ךְ|lemma="עַל" strong="H5921a" x-morph="Ar,R:Sp2ms"\w*\f*
-\w וְ⁠עַל|lemma="עַל" strong="c:H5922" x-morph="Ar,C:R"\w*־\w אחי⁠ך|lemma="אַח" strong="H0252" x-morph="Ar,Ncmpc:Sp2ms" x-tw="rc://*/tw/dict/bible/other/brother"\w*
+\w וְ⁠עַל|lemma="עַל" strong="c:H5922" x-morph="Ar,C:R"\w*־\w אחי⁠ך|lemma="אַח" strong="H0252" x-morph="Ar,Ncmpc:Sp2ms" x-tw="rc://*/tw/dict/bible/kt/brother"\w*
 \f + \ft Q \w אֶחָ֜ךְ|lemma="אַח" strong="H0252" x-morph="Ar,Ncmsc:Sp2ms"\w*\f*
 \w יֵיטַ֗ב|lemma="יְטַב" strong="H3191" x-morph="Ar,Vqi3ms" x-tw="rc://*/tw/dict/bible/kt/good"\w*
 \w בִּ⁠שְׁאָ֛ר|lemma="שְׁאָר" strong="b:H7606" x-morph="Ar,R:Ncmsc"\w*
