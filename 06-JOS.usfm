@@ -3121,7 +3121,7 @@
 \w מֹשֶׁ֔ה|lemma="מֹשֶׁה" strong="H4872" x-morph="He,Np"\w*
 \k-e\*
 \w מִזְבַּח֙|lemma="מִזְבֵּחַ" strong="H4196" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/altar"\w*
-\w אֲבָנִ֣ים|lemma="אֶבֶן" strong="H0068" x-morph="He,Ncfpa" x-tw="rc://*/tw/dict/bible/kt/stone"w*
+\w אֲבָנִ֣ים|lemma="אֶבֶן" strong="H0068" x-morph="He,Ncfpa" x-tw="rc://*/tw/dict/bible/kt/stone"\w*
 \w שְׁלֵמ֔וֹת|lemma="שָׁלֵם" strong="H8003" x-morph="He,Aafpa"\w*
 \w אֲשֶׁ֛ר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*
 \w לֹֽא|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*־\w הֵנִ֥יף|lemma="נוּף" strong="H5130b" x-morph="He,Vhp3ms"\w*
@@ -7418,7 +7418,7 @@
 \w בְּ⁠תָב֤וֹר|lemma="תָּבוֹר" strong="b:H8396" x-morph="He,R:Np"\w*
 \w ו⁠שחצומ⁠ה|lemma="שַׁחֲצוֹם" strong="c:H7831" x-morph="He,C:Np:Sd"\w*
 \f + \ft Q \w וְשַׁחֲצִ֙ימָה֙|lemma="שַׁחֲצוֹם" strong="c:H7831" x-morph="He,C:Np:Sd"\w*\f*
-\k-s |x-tw="rc://*/tw/dict/bible/names/bethshemesh"\* \w וּ⁠בֵ֣ית|lemma="בֵּית שֶׁמֶשׁ" strong="c:H1053" x-morph="He,C:Np"\w*
+\k-s |x-tw="rc://*/tw/dict/bible/names/bethshemesh"\*\w וּ⁠בֵ֣ית|lemma="בֵּית שֶׁמֶשׁ" strong="c:H1053" x-morph="He,C:Np"\w*
 \w שֶׁ֔מֶשׁ|lemma="בֵּית שֶׁמֶשׁ" strong="H1053" x-morph="He,Np"\w*
 \k-e\*
 \w וְ⁠הָי֛וּ|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqp3cp"\w*
@@ -8110,7 +8110,7 @@
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To"\w*־\w מִגְרָשֶׁ֗⁠הָ|lemma="מִגְרָשׁ" strong="H4054" x-morph="He,Ncmpc:Sp3fs"\w*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To"\w*־\w יֻטָּה֙|lemma="יֻטָּה" strong="H3194" x-morph="He,Np"\w*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To"\w*־\w מִגְרָשֶׁ֔⁠הָ|lemma="מִגְרָשׁ" strong="H4054" x-morph="He,Ncmpc:Sp3fs"\w*
-\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\k-s |x-tw="rc://*/tw/dict/bible/names/bethshemesh"\*w בֵּ֥ית|lemma="בֵּית שֶׁמֶשׁ" strong="H1053" x-morph="He,Np"\w*
+\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\k-s |x-tw="rc://*/tw/dict/bible/names/bethshemesh"\*\w בֵּ֥ית|lemma="בֵּית שֶׁמֶשׁ" strong="H1053" x-morph="He,Np"\w*
 \w שֶׁ֖מֶשׁ|lemma="בֵּית שֶׁמֶשׁ" strong="H1053" x-morph="He,Np"\w*
 \k-e\*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To"\w*־\w מִגְרָשֶׁ֑⁠הָ|lemma="מִגְרָשׁ" strong="H4054" x-morph="He,Ncmpc:Sp3fs"\w*
