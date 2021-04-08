@@ -35,10 +35,10 @@
 \w וּ⁠בְנְיָמִֽן|lemma="בִּנְיָמִין" strong="c:H1144" x-morph="He,C:Np" x-tw="rc://*/tw/dict/bible/names/benjamin"\w*׃
 
 \v 4
-\w דָּ֥ן|lemma="דָּן" strong="H1835" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/dan\w*
-\w וְ⁠נַפְתָּלִ֖י|lemma="נַפְתָּלִי" strong="c:H5321" x-morph="He,C:Np" x-tw="rc://*/tw/dict/bible/names/naphtali\w*
+\w דָּ֥ן|lemma="דָּן" strong="H1835" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/dan"\w*
+\w וְ⁠נַפְתָּלִ֖י|lemma="נַפְתָּלִי" strong="c:H5321" x-morph="He,C:Np" x-tw="rc://*/tw/dict/bible/names/naphtali"\w*
 \w גָּ֥ד|lemma="גָּד" strong="H1410" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/gad"\w*
-\w וְ⁠אָשֵֽׁר|lemma="אָשֵׁר" strong="c:H0836" x-morph="He,C:Np" x-tw="rc://*/tw/dict/bible/names/asher\w*׃
+\w וְ⁠אָשֵֽׁר|lemma="אָשֵׁר" strong="c:H0836" x-morph="He,C:Np" x-tw="rc://*/tw/dict/bible/names/asher"\w*׃
 
 \v 5
 \w וַֽ⁠יְהִ֗י|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqw3ms"\w*
@@ -136,7 +136,7 @@
 
 \v 13
 \w וַ⁠יַּעֲבִ֧דוּ|lemma="עָבַד" strong="c:H5647" x-morph="He,C:Vhw3mp" x-tw="rc://*/tw/dict/bible/other/servant"\w*
-\w מִצְרַ֛יִם|lemma="מִצְרִי" strong="H4713" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/egypt\w*
+\w מִצְרַ֛יִם|lemma="מִצְרִי" strong="H4713" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/egypt"\w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w בְּנֵ֥י|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/kt/son"\w*
 \w יִשְׂרָאֵ֖ל|lemma="יִשְׂרָאֵל" strong="H3478" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/israel"\w*
 \w בְּ⁠פָֽרֶךְ|lemma="פֶּרֶךְ" strong="b:H6531" x-morph="He,R:Ncmsa"\w*׃
