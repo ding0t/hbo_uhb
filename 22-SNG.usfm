@@ -820,7 +820,7 @@
 \w בִּקַּשְׁתִּ֨י⁠הוּ֙|lemma="בָּקַשׁ" strong="H1245" x-morph="He,Vpp1cs:Sp3ms" x-tw="rc://*/tw/dict/bible/other/seek"\w*
 \w וְ⁠לֹ֣א|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn"\w*
 \w מְצָאתִ֔י⁠הוּ|lemma="מָצָא" strong="H4672" x-morph="He,Vqp1cs:Sp3ms"\w*
-\w קְרָאתִ֖י⁠ו|lemma="קָרָא" strong="H7121" x-morph="He,Vqp1cs:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/call"\w*
+\w קְרָאתִ֖י⁠ו|lemma="קָרָא" strong="H7121" x-morph="He,Vqp1cs:Sp3ms" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*
 \w וְ⁠לֹ֥א|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn"\w*
 \w עָנָֽ⁠נִי|lemma="עָנָה" strong="H6030b" x-morph="He,Vqp3ms:Sp1cs" x-tw="rc://*/tw/dict/bible/kt/testimony"\w*׃
 

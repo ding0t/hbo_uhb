@@ -1564,7 +1564,7 @@
 \v 10
 \w מַה|lemma="מָה" strong="H4100" x-morph="He,Ti"\w*־\w שֶּֽׁ⁠הָיָ֗ה|lemma="הָיָה" strong="s:H1961" x-morph="He,Tr:Vqp3ms"\w*
 \w כְּבָר֙|lemma="כְּבָר" strong="H3528" x-morph="He,D"\w*
-\w נִקְרָ֣א|lemma="קָרָא" strong="H7121" x-morph="He,VNrmsa" x-tw="rc://*/tw/dict/bible/kt/call"\w*
+\w נִקְרָ֣א|lemma="קָרָא" strong="H7121" x-morph="He,VNrmsa" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*
 \w שְׁמ֔⁠וֹ|lemma="שֵׁם" strong="H8034" x-morph="He,Ncmsc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/name"\w*
 \w וְ⁠נוֹדָ֖ע|lemma="יָדַע" strong="c:H3045" x-morph="He,C:VNrmsa" x-tw="rc://*/tw/dict/bible/other/know"\w*
 \w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w ה֣וּא|lemma="הוּא" strong="H1931" x-morph="He,Pp3ms"\w*

@@ -101,7 +101,7 @@
 \w יְהוָ֛ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh"\w*
 \w זֶ֖בַח|lemma="זֶבַח" strong="H2077" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/sacrifice"\w*
 \w הִקְדִּ֥ישׁ|lemma="קָדַשׁ" strong="H6942" x-morph="He,Vhp3ms" x-tw="rc://*/tw/dict/bible/kt/consecrate"\w*
-\w קְרֻאָֽי⁠ו|lemma="קָרָא" strong="H7121" x-morph="He,Vqsmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/call"\w*׃
+\w קְרֻאָֽי⁠ו|lemma="קָרָא" strong="H7121" x-morph="He,Vqsmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*׃
 
 \v 8
 \w וְ⁠הָיָ֗ה|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqq3ms"\w*

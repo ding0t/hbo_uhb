@@ -1147,7 +1147,7 @@
 \w ק֤וֹל|lemma="קוֹל" strong="H6963a" x-morph="He,Ncmsc"\w*
 \w יְהוָה֙|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh"\w*
 \w לָ⁠עִ֣יר|lemma="עִיר" strong="l:H5892b" x-morph="He,Rd:Ncfsa"\w*
-\w יִקְרָ֔א|lemma="קָרָא" strong="H7121" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/kt/call"\w*
+\w יִקְרָ֔א|lemma="קָרָא" strong="H7121" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*
 \w וְ⁠תוּשִׁיָּ֖ה|lemma="תּוּשִׁיָּה" strong="c:H8454" x-morph="He,C:Ncfsa"\w*
 \w יִרְאֶ֣ה|lemma="יָרֵא" strong="H3372" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/kt/fear"\w*
 \w שְׁמֶ֑⁠ךָ|lemma="שֵׁם" strong="H8034" x-morph="He,Ncmsc:Sp2ms" x-tw="rc://*/tw/dict/bible/kt/name"\w*
