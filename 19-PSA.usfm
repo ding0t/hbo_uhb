@@ -17107,7 +17107,7 @@
 \w לֵ⁠אמֹ֗ר|lemma="אָמַר" strong="l:H0559" x-morph="He,R:Vqc"\w*
 \w לְ⁠ךָ֗|lemma="" strong="l" x-morph="He,R:Sp2ms"\w*
 \w אֶתֵּ֥ן|lemma="נָתַן" strong="H5414" x-morph="He,Vqi1cs"\w*
-\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w אֶֽרֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsc"\w*־\w כְּנָ֑עַן|lemma="כְּנַעַן" strong="H3667a" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/other/earth" x-tw="rc://*/tw/dict/bible/names/canaan"\w*
+\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w אֶֽרֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/other/earth"\w*־\w כְּנָ֑עַן|lemma="כְּנַעַן" strong="H3667a" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/canaan"\w*
 \w חֶ֝֗בֶל|lemma="חֶבֶל" strong="H2256a" x-morph="He,Ncbsc"\w*
 \w נַחֲלַתְ⁠כֶֽם|lemma="נַחֲלָה" strong="H5159" x-morph="He,Ncfsc:Sp2mp" x-tw="rc://*/tw/dict/bible/kt/inherit"\w*׃
 

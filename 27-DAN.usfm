@@ -33,7 +33,7 @@
 \w כְּלֵ֣י|lemma="כְּלִי" strong="H3627" x-morph="He,Ncmpc"\w*
 \w בֵית|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/house"\w*־\w הָֽ⁠אֱלֹהִ֔ים|lemma="אֱלֹהִים" strong="d:H0430" x-morph="He,Td:Ncmpa" x-tw="rc://*/tw/dict/bible/kt/god"\w*
 \w וַ⁠יְבִיאֵ֥⁠ם|lemma="בּוֹא" strong="c:H0935" x-morph="He,C:Vhw3ms:Sp3mp"\w*
-\w אֶֽרֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsc"\w*־\w שִׁנְעָ֖ר|lemma="שִׁנְעָר" strong="H8152" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/other/earth" x-tw="rc://*/tw/dict/bible/names/shinar"\w*
+\w אֶֽרֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/other/earth"\w*־\w שִׁנְעָ֖ר|lemma="שִׁנְעָר" strong="H8152" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/shinar"\w*
 \w בֵּ֣ית|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/house"\w*
 \w אֱלֹהָ֑י⁠ו|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/god"\w*
 \w וְ⁠אֶת|lemma="אֵת" strong="c:H0853" x-morph="He,C:To"\w*־\w הַ⁠כֵּלִ֣ים|lemma="כְּלִי" strong="d:H3627" x-morph="He,Td:Ncmpa"\w*

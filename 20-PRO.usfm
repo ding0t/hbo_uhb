@@ -1323,7 +1323,7 @@
 \w שָׁ֑קֶר|lemma="שֶׁקֶר" strong="H8267" x-morph="He,Ncmsa"\w*
 \w וְ֝⁠יָדַ֗יִם|lemma="יָד" strong="c:H3027" x-morph="He,C:Ncbda" x-tw="rc://*/tw/dict/bible/other/hand"\w*
 \w שֹׁפְכ֥וֹת|lemma="שָׁפַךְ" strong="H8210" x-morph="He,Vqrfpa"\w*
-\w דָּם|lemma="דָּם" strong="H1818" x-morph="He,Ncmsa"\w*־\w נָקִֽי|lemma="נָקִי" strong="H5355a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/blood" x-tw="rc://*/tw/dict/bible/kt/innocent"\w*׃
+\w דָּם|lemma="דָּם" strong="H1818" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/blood"\w*־\w נָקִֽי|lemma="נָקִי" strong="H5355a" x-morph="He,Aamsa" x-tw="rc://*/tw/dict/bible/kt/innocent"\w*׃
 
 \v 18
 \w לֵ֗ב|lemma="לֵב" strong="H3820a" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/heart"\w*

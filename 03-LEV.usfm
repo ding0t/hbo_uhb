@@ -7271,7 +7271,7 @@
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*
 \w תַעֲשׂ֑וּ|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqi2mp"\w*
 \w וּ⁠כְ⁠מַעֲשֵׂ֣ה|lemma="מַעֲשֶׂה" strong="c:k:H4639" x-morph="He,C:R:Ncmsc"\w*
-\w אֶֽרֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsc"\w*־\w כְּנַ֡עַן|lemma="כְּנַעַן" strong="H3667a" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/other/earth" x-tw="rc://*/tw/dict/bible/names/canaan"\w*
+\w אֶֽרֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/other/earth"\w*־\w כְּנַ֡עַן|lemma="כְּנַעַן" strong="H3667a" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/canaan"\w*
 \w אֲשֶׁ֣ר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*
 \w אֲנִי֩|lemma="אֲנִי" strong="H0589" x-morph="He,Pp1cs"\w*
 \w מֵבִ֨יא|lemma="בּוֹא" strong="H0935" x-morph="He,Vhrmsa"\w*
