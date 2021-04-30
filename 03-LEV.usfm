@@ -3010,7 +3010,7 @@
 \w וַ⁠יְהִי֙|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqw3ms"\w*
 \w בַּ⁠יּ֣וֹם|lemma="יוֹם" strong="b:H3117" x-morph="He,Rd:Ncmsa"\w*
 \w הַ⁠שְּׁמִינִ֔י|lemma="שְׁמִינִי" strong="d:H8066" x-morph="He,Td:Aomsa"\w*
-\w קָרָ֣א|lemma="קָרָא" strong="H7121" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*
+\w קָרָ֣א|lemma="קָרָא" strong="H7121" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/kt/call"\w*
 \w מֹשֶׁ֔ה|lemma="מֹשֶׁה" strong="H4872" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/moses"\w*
 \w לְ⁠אַהֲרֹ֖ן|lemma="אַהֲרוֹן" strong="l:H0175" x-morph="He,R:Np"\w*
 \w וּ⁠לְ⁠בָנָ֑י⁠ו|lemma="בֵּן" strong="c:l:H1121a" x-morph="He,C:R:Ncmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/kt/son"\w*
@@ -4995,7 +4995,7 @@
 \w יַעְטֶ֑ה|lemma="עָטָה" strong="H5844a" x-morph="He,Vqi3ms"\w*
 \w וְ⁠טָמֵ֥א|lemma="טָמֵא" strong="c:H2931" x-morph="He,C:Aamsa"\w* ׀
 \w טָמֵ֖א|lemma="טָמֵא" strong="H2931" x-morph="He,Aamsa"\w*
-\w יִקְרָֽא|lemma="קָרָא" strong="H7121" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*׃
+\w יִקְרָֽא|lemma="קָרָא" strong="H7121" x-morph="He,Vqi3ms" x-tw="rc://*/tw/dict/bible/kt/call"\w*׃
 
 \v 46
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc"\w*־\w יְמֵ֞י|lemma="יוֹם" strong="H3117" x-morph="He,Ncmpc"\w*
@@ -9235,7 +9235,7 @@
 \w אֲלֵ⁠הֶ֔ם|lemma="אֵל" strong="H0413" x-morph="He,R:Sp3mp"\w*
 \w מוֹעֲדֵ֣י|lemma="מוֹעֵד" strong="H4150" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/feast"\w*
 \w יְהוָ֔ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh"\w*
-\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w תִּקְרְא֥וּ|lemma="קָרָא" strong="H7121" x-morph="He,Vqi2mp" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*
+\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w תִּקְרְא֥וּ|lemma="קָרָא" strong="H7121" x-morph="He,Vqi2mp" x-tw="rc://*/tw/dict/bible/kt/call"\w*
 \w אֹתָ֖⁠ם|lemma="אֵת" strong="H0853" x-morph="He,To:Sp3mp"\w*
 \w מִקְרָאֵ֣י|lemma="מִקְרָא" strong="H4744" x-morph="He,Ncmpc"\w*
 \w קֹ֑דֶשׁ|lemma="קֹדֶשׁ" strong="H6944" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/holy"\w*
@@ -9268,7 +9268,7 @@
 \w יְהוָ֔ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh"\w*
 \w מִקְרָאֵ֖י|lemma="מִקְרָא" strong="H4744" x-morph="He,Ncmpc"\w*
 \w קֹ֑דֶשׁ|lemma="קֹדֶשׁ" strong="H6944" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/holy"\w*
-\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w תִּקְרְא֥וּ|lemma="קָרָא" strong="H7121" x-morph="He,Vqi2mp" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*
+\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w תִּקְרְא֥וּ|lemma="קָרָא" strong="H7121" x-morph="He,Vqi2mp" x-tw="rc://*/tw/dict/bible/kt/call"\w*
 \w אֹתָ֖⁠ם|lemma="אֵת" strong="H0853" x-morph="He,To:Sp3mp"\w*
 \w בְּ⁠מוֹעֲדָֽ⁠ם|lemma="מוֹעֵד" strong="b:H4150" x-morph="He,R:Ncmsc:Sp3mp"\w*׃
 
@@ -9714,7 +9714,7 @@
 \w אֵ֚לֶּה|lemma="אֵלֶּה" strong="H0428" x-morph="He,Pdxcp"\w*
 \w מוֹעֲדֵ֣י|lemma="מוֹעֵד" strong="H4150" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/other/feast"\w*
 \w יְהוָ֔ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh"\w*
-\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w תִּקְרְא֥וּ|lemma="קָרָא" strong="H7121" x-morph="He,Vqi2mp" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*
+\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w תִּקְרְא֥וּ|lemma="קָרָא" strong="H7121" x-morph="He,Vqi2mp" x-tw="rc://*/tw/dict/bible/kt/call"\w*
 \w אֹתָ֖⁠ם|lemma="אֵת" strong="H0853" x-morph="He,To:Sp3mp"\w*
 \w מִקְרָאֵ֣י|lemma="מִקְרָא" strong="H4744" x-morph="He,Ncmpc"\w*
 \w קֹ֑דֶשׁ|lemma="קֹדֶשׁ" strong="H6944" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/kt/holy"\w*

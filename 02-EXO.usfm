@@ -5995,7 +5995,7 @@
 \w מָרִ֖ים|lemma="מַר" strong="H4751" x-morph="He,Aampa"\w*
 \w הֵ֑ם|lemma="הֵם" strong="H1992" x-morph="He,Pp3mp"\w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R"\w*־\w כֵּ֥ן|lemma="כֵּן" strong="H3651c" x-morph="He,Tm"\w*
-\w קָרָֽא|lemma="קָרָא" strong="H7121" x-morph="He,Vqp3ms"\w*־\w שְׁמָ֖⁠הּ|lemma="שֵׁם" strong="H8034" x-morph="He,Ncmsc:Sp3fs" x-tw="rc://*/tw/dict/bible/kt/name" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*
+\w קָרָֽא|lemma="קָרָא" strong="H7121" x-morph="He,Vqp3ms"\w*־\w שְׁמָ֖⁠הּ|lemma="שֵׁם" strong="H8034" x-morph="He,Ncmsc:Sp3fs" x-tw="rc://*/tw/dict/bible/kt/name" x-tw="rc://*/tw/dict/bible/kt/call"\w*
 \w מָרָֽה|lemma="מָרָה" strong="H4785" x-morph="He,Np"\w*׃
 
 \v 24
@@ -12476,7 +12476,7 @@
 
 \v 2
 \w רְאֵ֖ה|lemma="רָאָה" strong="H7200" x-morph="He,Vqv2ms"\w*
-\w קָרָ֣אתִֽי|lemma="קָרָא" strong="H7121" x-morph="He,Vqp1cs" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*
+\w קָרָ֣אתִֽי|lemma="קָרָא" strong="H7121" x-morph="He,Vqp1cs" x-tw="rc://*/tw/dict/bible/kt/call"\w*
 \w בְ⁠שֵׁ֑ם|lemma="שֵׁם" strong="b:H8034" x-morph="He,R:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/name"\w*
 \w בְּצַלְאֵ֛ל|lemma="בְּצַלְאֵל" strong="H1212" x-morph="He,Np"\w*
 \w בֶּן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son"\w*־\w אוּרִ֥י|lemma="אוּרִי" strong="H0221" x-morph="He,Np"\w*
@@ -14471,7 +14471,7 @@
 \w אֶל|lemma="אֵל" strong="H0413" x-morph="He,R"\w*־\w בְּנֵ֣י|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmpc" x-tw="rc://*/tw/dict/bible/kt/son"\w*
 \w יִשְׂרָאֵ֔ל|lemma="יִשְׂרָאֵל" strong="H3478" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/israel"\w*
 \w רְא֛וּ|lemma="רָאָה" strong="H7200" x-morph="He,Vqv2mp"\w*
-\w קָרָ֥א|lemma="קָרָא" strong="H7121" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/other/cry" x-tw="rc://*/tw/dict/bible/kt/call"\w*
+\w קָרָ֥א|lemma="קָרָא" strong="H7121" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/kt/call"\w*
 \w יְהוָ֖ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh"\w*
 \w בְּ⁠שֵׁ֑ם|lemma="שֵׁם" strong="b:H8034" x-morph="He,R:Ncmsa" x-tw="rc://*/tw/dict/bible/kt/name"\w*
 \w בְּצַלְאֵ֛ל|lemma="בְּצַלְאֵל" strong="H1212" x-morph="He,Np"\w*
