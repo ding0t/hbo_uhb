@@ -94,7 +94,7 @@
 \v 6
 \w וַ⁠יֵּצֵ֥א|lemma="יָצָא" strong="c:H3318" x-morph="He,C:Vqw3ms" x-tw="rc://*/tw/dict/bible/kt/command"\w*
 \w מן|lemma="מִן" strong="H4480a" x-morph="He,R"\w*־\w בת|lemma="בַּת" strong="H1323" x-morph="He,Ncfsc"\w*־\w צִיּ֖וֹן|lemma="צִיּוֹן" strong="H6726" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/zion"\w*
-\f + \ft Q \w מִבַּת|lemma="מִן" strong="H4480a" x-morph="He,R" lemma="בַּת" strong="H1323" x-morph="He,Ncfsc"\w*\f*
+\f + \ft Q \w מִבַּת|lemma="בַּת" strong="m:H1323" x-morph="He,Ncfsc"\w*\f*
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc"\w*־\w הֲדָרָ֑⁠הּ|lemma="הָדָר" strong="H1926" x-morph="He,Ncmsc:Sp3fs"\w*
 \w הָי֣וּ|lemma="הָיָה" strong="H1961" x-morph="He,Vqp3cp"\w*
 \w שָׂרֶ֗י⁠הָ|lemma="שַׂר" strong="H8269" x-morph="He,Ncmpc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/prince"\w*
