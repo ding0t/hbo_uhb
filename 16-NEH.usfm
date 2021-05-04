@@ -430,7 +430,8 @@
 \w שֹׂבֵ֜ר|lemma="שָׂבַר" strong="H7663a" x-morph="He,Vqrmsa"\w*
 \w בְּ⁠חוֹמֹ֤ת|lemma="חוֹמָה" strong="b:H2346" x-morph="He,R:Ncfpc"\w*
 \w יְרוּשָׁלִַ֨ם֙|lemma="יְרוּשָׁלִַ͏ם" strong="H3389" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/jerusalem"\w*
-\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w הֵ֣ם פְּרוּצִ֔ים|lemma="פָּרַץ" strong="d:H6555" x-morph="He,Pp3mp:VQsmpa"\w*
+\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w הֵ֣ם|lemma="הֵם" strong="H1992" x-morph="He,Pp3mp"\w*
+\w פְּרוּצִ֔ים|lemma="פָּרַץ" strong="H6555" x-morph="He,VQsmpa"\w*
 \f + \ft K \w ה⁠מפרוצים|lemma="פָּרַץ" strong="d:H6555" x-morph="He,Td:VPsmpa"\w*\f*
 \w וּ⁠שְׁעָרֶ֖י⁠הָ|lemma="שַׁעַר" strong="c:H8179" x-morph="He,C:Ncmpc:Sp3fs" x-tw="rc://*/tw/dict/bible/other/gate"\w*
 \w אֻכְּל֥וּ|lemma="אָכַל" strong="H0398" x-morph="He,VQp3cp"\w*
