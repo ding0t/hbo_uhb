@@ -9230,7 +9230,7 @@
 \v 11
 \w וְ⁠נִשְׁמַרְתֶּ֥ם|lemma="שָׁמַר" strong="c:H8104" x-morph="He,C:VNq2mp" x-tw="rc://*/tw/dict/bible/other/watch"\w*
 \w מְאֹ֖ד|lemma="מְאֹד" strong="H3966" x-morph="He,D"\w*
-\w לְ⁠נַפְשֹֽׁתֵי⁠כֶ֑ם|lemma="נֶפֶשׁ" strong="l:H5315" x-morph="He,R:Ncbpc:Sp2mp" x-tw="rc://*/tw/dict/bible/kt/life"\w*
+\w לְ⁠נַפְשֹֽׁתֵי⁠כֶ֑ם|lemma="נֶפֶשׁ" strong="l:H5315" x-morph="He,R:Ncbpc:Sp2mp" x-tw="rc://*/tw/dict/bible/kt/soul"\w*
 \w לְ⁠אַהֲבָ֖ה|lemma="אָהַב" strong="l:H0157" x-morph="He,R:Vqc" x-tw="rc://*/tw/dict/bible/kt/love"\w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w יְהוָ֥ה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/yahweh"\w*
 \w אֱלֹהֵי⁠כֶֽם|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp2mp" x-tw="rc://*/tw/dict/bible/kt/god"\w*׃
@@ -9293,7 +9293,7 @@
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc"\w*־\w הָ⁠אָ֑רֶץ|lemma="אֶרֶץ" strong="d:H0776" x-morph="He,Td:Ncbsa" x-tw="rc://*/tw/dict/bible/other/earth"\w*
 \w וִ⁠ידַעְתֶּ֞ם|lemma="יָדַע" strong="c:H3045" x-morph="He,C:Vqq2mp" x-tw="rc://*/tw/dict/bible/other/know"\w*
 \w בְּ⁠כָל|lemma="כֹּל" strong="b:H3605" x-morph="He,R:Ncmsc"\w*־\w לְבַבְ⁠כֶ֣ם|lemma="לֵבָב" strong="H3824" x-morph="He,Ncmsc:Sp2mp" x-tw="rc://*/tw/dict/bible/kt/heart"\w*
-\w וּ⁠בְ⁠כָל|lemma="כֹּל" strong="c:b:H3605" x-morph="He,C:R:Ncmsc"\w*־\w נַפְשְׁ⁠כֶ֗ם|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc:Sp2mp" x-tw="rc://*/tw/dict/bible/kt/life"\w*
+\w וּ⁠בְ⁠כָל|lemma="כֹּל" strong="c:b:H3605" x-morph="He,C:R:Ncmsc"\w*־\w נַפְשְׁ⁠כֶ֗ם|lemma="נֶפֶשׁ" strong="H5315" x-morph="He,Ncbsc:Sp2mp" x-tw="rc://*/tw/dict/bible/kt/soul"\w*
 \w כִּ֣י|lemma="כִּי" strong="H3588a" x-morph="He,C"\w*
 \w לֹֽא|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*־\w נָפַל֩|lemma="נָפַל" strong="H5307" x-morph="He,Vqp3ms"\w*
 \w דָּבָ֨ר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa"\w*
