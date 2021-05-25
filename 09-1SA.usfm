@@ -7544,7 +7544,8 @@
 \v 9
 \w וַ⁠יְהִ֥י|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqw3ms"\w*
 \w שָׁא֖וּל|lemma="שָׁאוּל" strong="H7586" x-morph="He,Np"\w*
-\w עון|lemma="עָוֺן" strong="H5771" x-morph="He,Ncbsa" x-tw="rc://*/tw/dict/bible/kt/iniquity"\w*
+\w עוֹיֵ֣ן|lemma="עָוַן" strong="H5770" x-morph="He,Vrmsa" \w*
+\f + \ft K \+w עון|lemma="עָוֺן" strong="H5771" x-morph="He,Ncbsa" \+w*\f*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w דָּוִ֑ד|lemma="דָּוִד" strong="H1732" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/david"\w*
 \w מֵ⁠הַ⁠יּ֥וֹם|lemma="יוֹם" strong="m:d:H3117" x-morph="He,R:Td:Ncmsa"\w*
 \w הַ⁠ה֖וּא|lemma="הוּא" strong="d:H1931" x-morph="He,Td:Pp3ms"\w*
