@@ -8288,8 +8288,8 @@
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*
 \w תָמוּת֒|lemma="מוּת" strong="H4191" x-morph="He,Vqi2ms"\w*
 \w הִנֵּ֡ה|lemma="הִנֵּה" strong="H2009" x-morph="He,Tm"\w*
-\w ל⁠ו|lemma="" strong="l" x-morph="He,R:Sp3ms"\w*־\w עשה|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqp3ms"\w*
-\f + \ft K \+w ל⁠ו|lemma="" strong="l" x-morph="He,R:Sp3ms"\+w*־\+w עשה|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqp3ms"\+w*\f*
+\w לֹֽא|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*־\w יַעֲשֶׂ֨ה|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqi3ms"\w*
+\f + \ft K \+w ל⁠ו|lemma="לֹא" strong="H3808" x-morph="He,Tn"\+w*־\+w עשה|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqp3ms"\+w*\f*
 \w אָבִ֜⁠י|lemma="אָב" strong="H0001" x-morph="He,Ncmsc:Sp1cs" x-tw="rc://*/tw/dict/bible/other/father"\w*
 \w דָּבָ֣ר|lemma="דָּבָר" strong="H1697" x-morph="He,Ncmsa"\w*
 \w גָּד֗וֹל|lemma="גָּדוֹל" strong="H1419a" x-morph="He,Aamsa"\w*
