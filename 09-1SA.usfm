@@ -7610,7 +7610,8 @@
 \v 14
 \w וַ⁠יְהִ֥י|lemma="הָיָה" strong="c:H1961" x-morph="He,C:Vqw3ms"\w*
 \w דָוִ֛ד|lemma="דָּוִד" strong="H1732" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/david"\w*
-\w לְ⁠כָל|lemma="כֹּל" strong="l:H3605" x-morph="He,R:Ncmsc"\w*־\w דָּרְכָ֖⁠ו|lemma="דֶּרֶךְ" strong="H1870" x-morph="He,Ncbpc:Sp3ms"\w*
+\w לְ⁠כָל|lemma="כֹּל" strong="l:H3605" x-morph="He,R:Ncmsc"\w*־\w דָּרְכָ֖⁠יו|lemma="דֶּרֶךְ" strong="H1870" x-morph="He,Ncbpc:Sp3ms"\w*
+\f + \ft K \+w דרכו|lemma="דֶּרֶךְ" strong="H1870" x-morph="He,Ncbsc:Sp3ms"\+w*\f*
 \w מַשְׂכִּ֑יל|lemma="שָׂכַל" strong="H7919a" x-morph="He,Vhrmsa" x-tw="rc://*/tw/dict/bible/kt/wise"\w*
 \w וַֽ⁠יהוָ֖ה|lemma="יְהֹוָה" strong="c:H3068" x-morph="He,C:Np" x-tw="rc://*/tw/dict/bible/kt/yahweh"\w*
 \w עִמּֽ⁠וֹ|lemma="עִם" strong="H5973a" x-morph="He,R:Sp3ms"\w*׃
