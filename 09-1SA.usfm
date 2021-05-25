@@ -7719,7 +7719,8 @@
 \v 22
 \w וַ⁠יְצַ֨ו|lemma="צָוָה" strong="c:H6680" x-morph="He,C:Vpw3ms" x-tw="rc://*/tw/dict/bible/kt/command"\w*
 \w שָׁא֜וּל|lemma="שָׁאוּל" strong="H7586" x-morph="He,Np"\w*
-\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w עֲבָדָ֗⁠ו|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/servant"\w*
+\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w עֲבָדָ֗⁠יו|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmpc:Sp3ms" x-tw="rc://*/tw/dict/bible/other/servant"\w*
+\f + \ft K \+w עבדו|lemma="עֶבֶד" strong="H5650" x-morph="He,Ncmsc:Sp3ms"\+w*\f*
 \w דַּבְּר֨וּ|lemma="דָבַר" strong="H1696" x-morph="He,Vpv2mp"\w*
 \w אֶל|lemma="אֵל" strong="H0413" x-morph="He,R"\w*־\w דָּוִ֤ד|lemma="דָּוִד" strong="H1732" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/names/david"\w*
 \w בַּ⁠לָּט֙|lemma="לָט" strong="b:H3909" x-morph="He,Rd:Ncmsa"\w*
