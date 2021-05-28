@@ -27,7 +27,7 @@
 \w בֶּן|lemma="בֵּן" strong="H1121a" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/kt/son"\w*־\w יוֹאָשׁ֙|lemma="יוֹאָשׁ" strong="H3101" x-morph="He,Np"\w*
 \w מֶ֣לֶךְ|lemma="מֶלֶךְ" strong="H4428" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/king"\w*
 \w יִשְׂרָאֵ֔ל|lemma="יִשְׂרָאֵל" strong="H3478" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/israel"\w*
-\w שְׁנָתַ֖יִם|lemma="שָׁנֶה" strong="H8141" x-morph="He,Ncfda"\w*
+\w שְׁנָתַ֖יִם|lemma="שָׁנָה" strong="H8141" x-morph="He,Ncfda"\w*
 \w לִ⁠פְנֵ֥י|lemma="פָּנִים" strong="l:H6440" x-morph="He,R:Ncbpc"\w*
 \w הָ⁠רָֽעַשׁ|lemma="רַעַשׁ" strong="d:H7494" x-morph="He,Td:Ncmsa"\w*׃
 
@@ -370,7 +370,7 @@
 \w אֶתְ⁠כֶ֤ם|lemma="אֵת" strong="H0853" x-morph="He,To:Sp2mp"\w*
 \w בַּ⁠מִּדְבָּר֙|lemma="מִדְבָּר" strong="b:H4057b" x-morph="He,Rd:Ncmsa" x-tw="rc://*/tw/dict/bible/other/desert"\w*
 \w אַרְבָּעִ֣ים|lemma="אַרְבָּעִים" strong="H0705" x-morph="He,Acbpa"\w*
-\w שָׁנָ֔ה|lemma="שָׁנֶה" strong="H8141" x-morph="He,Ncfsa"\w*
+\w שָׁנָ֔ה|lemma="שָׁנָה" strong="H8141" x-morph="He,Ncfsa"\w*
 \w לָ⁠רֶ֖שֶׁת|lemma="יָרַשׁ" strong="l:H3423" x-morph="He,R:Vqc" x-tw="rc://*/tw/dict/bible/other/possess"\w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w אֶ֥רֶץ|lemma="אֶרֶץ" strong="H0776" x-morph="He,Ncbsc" x-tw="rc://*/tw/dict/bible/other/earth"\w*
 \w הָ⁠אֱמֹרִֽי|lemma="אֱמֹרִי" strong="d:H0567" x-morph="He,Td:Ngmsa" x-tw="rc://*/tw/dict/bible/names/amorite"\w*׃
@@ -1177,7 +1177,7 @@
 \w הִֽגַּשְׁתֶּם|lemma="נָגַשׁ" strong="H5066" x-morph="He,Vhp2mp"\w*־\w לִ֧⁠י|lemma="" strong="l" x-morph="He,R:Sp1cs"\w*
 \w בַ⁠מִּדְבָּ֛ר|lemma="מִדְבָּר" strong="b:H4057b" x-morph="He,Rd:Ncmsa" x-tw="rc://*/tw/dict/bible/other/desert"\w*
 \w אַרְבָּעִ֥ים|lemma="אַרְבָּעִים" strong="H0705" x-morph="He,Acbpa"\w*
-\w שָׁנָ֖ה|lemma="שָׁנֶה" strong="H8141" x-morph="He,Ncfsa"\w*
+\w שָׁנָ֖ה|lemma="שָׁנָה" strong="H8141" x-morph="He,Ncfsa"\w*
 \w בֵּ֥ית|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmsc" x-tw="rc://*/tw/dict/bible/other/house"\w*
 \w יִשְׂרָאֵֽל|lemma="יִשְׂרָאֵל" strong="H3478" x-morph="He,Np" x-tw="rc://*/tw/dict/bible/kt/israel"\w*׃
 
