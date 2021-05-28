@@ -303,7 +303,7 @@
 \w וְ⁠אַֽחֲרָי⁠ו֙|lemma="אַחַר" strong="c:H0310a" x-morph="He,C:R:Sp3ms"\w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*
 \w יוֹסֵ֔ף|lemma="יָסַף" strong="H3254" x-morph="He,Vhi3ms"\w*
-\w עַד|lemma="עַד" strong="H5704" x-morph="He,R"\w*־\w שְׁנֵ֖י|lemma="שָׁנֶה" strong="H8141" x-morph="He,Acmdc"\w*
+\w עַד|lemma="עַד" strong="H5704" x-morph="He,R"\w*־\w שְׁנֵ֖י|lemma="שָׁנָה" strong="H8141" x-morph="He,Acmdc"\w*
 \w דּ֥וֹר|lemma="דּוֹר" strong="H1755" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/generation"\w*
 \w וָ⁠דֽוֹר|lemma="דּוֹר" strong="c:H1755" x-morph="He,C:Ncmsa" x-tw="rc://*/tw/dict/bible/other/generation"\w*׃
 
@@ -621,7 +621,7 @@
 \v 25
 \w וְ⁠שִׁלַּמְתִּ֤י|lemma="שָׁלַם" strong="c:H7999a" x-morph="He,C:Vpq1cs"\w*
 \w לָ⁠כֶם֙|lemma="" strong="l" x-morph="He,R:Sp2mp"\w*
-\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w הַ⁠שָּׁנִ֔ים|lemma="שָׁנֶה" strong="d:H8141" x-morph="He,Td:Ncfpa"\w*
+\w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w הַ⁠שָּׁנִ֔ים|lemma="שָׁנָה" strong="d:H8141" x-morph="He,Td:Ncfpa"\w*
 \w אֲשֶׁר֙|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*
 \w אָכַ֣ל|lemma="אָכַל" strong="H0398" x-morph="He,Vqp3ms" x-tw="rc://*/tw/dict/bible/other/devour"\w*
 \w הָֽ⁠אַרְבֶּ֔ה|lemma="אַרְבֶּה" strong="d:H0697" x-morph="He,Td:Ncmsa" x-tw="rc://*/tw/dict/bible/other/locust"\w*
