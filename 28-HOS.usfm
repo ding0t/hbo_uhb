@@ -1165,7 +1165,7 @@
 \w בַּ⁠חֽוּץ|lemma="חוּץ" strong="b:H2351" x-morph="He,Rd:Ncmsa"\w*׃
 
 \v 2
-\w וּ⁠בַל|lemma="בַּל" strong="c:H1077" x-morph="He,C:Tn"\w*־\w יֹֽאמְרוּ֙|lemma="אָמַר" strong="H0559" x-morph="He,Vqi3mp"\w*
+\w וּ⁠בַל|lemma="בַּל" strong="c:H1077" x-morph="He,C:Tn"\w*־\w יֹֽאמְרוּ֙|lemma="אָמַר" strong="H0559" x-morph="He,Vqi3mp"\w*
 \w לִ⁠לְבָבָ֔⁠ם|lemma="לֵבָב" strong="l:H3824" x-morph="He,R:Ncmsc:Sp3mp"\w*
 \w כָּל|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc"\w*־\w רָעָתָ֖⁠ם|lemma="רַע" strong="H7451c" x-morph="He,Ncfsc:Sp3mp" x-tw="rc://*/tw/dict/bible/kt/evil"\w*
 \w זָכָ֑רְתִּי|lemma="זָכַר" strong="H2142" x-morph="He,Vqp1cs"\w*
@@ -1721,8 +1721,8 @@
 \w שָׁרְשָׁ֥⁠ם|lemma="שֶׁרֶשׁ" strong="H8328" x-morph="He,Ncmsc:Sp3mp"\w*
 \w יָבֵ֖שׁ|lemma="יָבֵשׁ" strong="H3001" x-morph="He,Vqp3ms"\w*
 \w פְּרִ֣י|lemma="פְּרִי" strong="H6529" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/fruit"\w*
-\w בַֽל|lemma="בְּלִי" strong="H1077" x-morph="He,Tn"\w*־\w יַעֲשׂ֑וּ⁠ן|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqi3mp:Sn"\w*
-\f + \ft K \+w בלי|lemma="בְּלִי" strong="H1097" x-morph="He,Tn"\+w*\f*
+\w בַֽל|lemma="בְּלִי" strong="H1077" x-morph="He,Tn"\w*־\w יַעֲשׂ֑וּ⁠ן|lemma="עָשָׂה" strong="H6213a" x-morph="He,Vqi3mp:Sn"\w*
+\f + \ft K \+w בלי|lemma="בְּלִי" strong="H1097" x-morph="He,Tn"\+w*\f*
 \w גַּ֚ם|lemma="גַּם" strong="H1571" x-morph="He,Ta"\w*
 \w כִּ֣י|lemma="כִּי" strong="H3588a" x-morph="He,C"\w*
 \w יֵֽלֵד֔וּ⁠ן|lemma="יָלַד" strong="H3205" x-morph="He,Vqi3mp:Sn"\w*
