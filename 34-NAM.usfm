@@ -39,7 +39,7 @@
 \w אֶ֤רֶךְ|lemma="אָרֵךְ" strong="H0750" x-morph="He,Aamsc"\w*
 \w אַפַּ֨יִם֙|lemma="אַף" strong="H0639" x-morph="He,Ncmda"\w*
 \w ו⁠גדול|lemma="גָּדוֹל" strong="c:H1419a" x-morph="He,C:Aamsc"\w*־\w כֹּ֔חַ|lemma="כֹּחַ" strong="H3581b" x-morph="He,Ncmsa" x-tw="rc://*/tw/dict/bible/other/strength"\w*
-\f + \ft Q \+w וּגְדָל|lemma="גָּדַל" strong="c:H1419a" x-morph="He,C:Vqq3ms"\+w*\f*
+\f + \ft Q \+w וּגְדָל|lemma="גָּדַל" strong="c:H1431" x-morph="He,C:Vqq3ms"\+w*\f*
 \w וְ⁠נַקֵּ֖ה|lemma="נָקָה" strong="c:H5352" x-morph="He,C:Vpa"\w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*
 \w יְנַקֶּ֑ה|lemma="נָקָה" strong="H5352" x-morph="He,Vpi3ms"\w*
