@@ -8019,8 +8019,9 @@
 \w וְ⁠הִשְׁתַּנִּ֔ית|lemma="שָׁנָה" strong="c:H8138a" x-morph="He,C:Vtp2fs"\w*
 \w וְ⁠לֹ֣א|lemma="לֹא" strong="c:H3808" x-morph="He,C:Tn"\w*
 \w יֵֽדְע֔וּ|lemma="יָדַע" strong="H3045" x-morph="He,Vqi3mp"\w*
-\w כִּי|lemma="כִּי" strong="H3588a" x-morph="He,C"\w*־\w אתי|lemma="אַתְּ" strong="H0859b" x-morph="He,Pp2fs"\w*
-\f + \ft Q \+w אַ֖תְּ|lemma="אַתְּ" strong="H0859b" x-morph="He,Pp2fs"\+w*\f*
+\w כִּי|lemma="כִּי" strong="H3588a" x-morph="He,C"\w*־
+\w אַ֖תְּ|lemma="אַתְּ" strong="H0859b" x-morph="He,Pp2fs"\w*
+\f + \ft K \+w אתי|lemma="אַתְּ" strong="H0859b" x-morph="He,Pp2fs"\+w*\f*
 \w אֵ֣שֶׁת|lemma="אִשָּׁה" strong="H0802" x-morph="He,Ncfsc"\w*
 \w יָרָבְעָ֑ם|lemma="יָרׇבְעָם" strong="H3379" x-morph="He,Np"\w*
 \w וְ⁠הָלַ֣כְתְּ|lemma="הָלַךְ" strong="c:H1980" x-morph="He,C:Vqq2fs"\w*
