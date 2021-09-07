@@ -3653,7 +3653,7 @@
 \w אֲבֹתֶ֔י⁠ךָ|lemma="אָב" strong="H0001" x-morph="He,Ncmpc:Sp2ms"\w*
 \w מִ⁠יּ֗וֹם|lemma="יוֹם" strong="m:H3117" x-morph="He,R:Ncmsc"\w*
 \w הֱיוֹתָ⁠ם֙|lemma="הָיָה" strong="H1961" x-morph="He,Vqc:Sp3mp"\w*
-\w עַל|lemma="עַל" strong="H5921a" x-morph="He,R"\w*־\w הָ֣⁠אֲדָמָ֔ה|lemma="אֲדָמָה" strong="d:H0127" x-morph="He,Td:Ncfsa""\w*
+\w עַל|lemma="עַל" strong="H5921a" x-morph="He,R"\w*־\w הָ֣⁠אֲדָמָ֔ה|lemma="אֲדָמָה" strong="d:H0127" x-morph="He,Td:Ncfsa"\w*
 \w עַ֖ד|lemma="עַד" strong="H5704" x-morph="He,R"\w*
 \w הַ⁠יּ֣וֹם|lemma="יוֹם" strong="d:H3117" x-morph="He,Td:Ncmsa"\w*
 \w הַ⁠זֶּ֑ה|lemma="זֶה" strong="d:H2088" x-morph="He,Td:Pdxms"\w*
@@ -3671,7 +3671,7 @@
 \w יִהְיֶ֨ה|lemma="הָיָה" strong="H1961" x-morph="He,Vqi3ms"\w*
 \w זֶ֥ה|lemma="זֶה" strong="H2088" x-morph="He,Pdxms"\w*
 \w לָ֨⁠נוּ֙|lemma="" strong="l" x-morph="He,R:Sp1cp"\w*
-\w לְ⁠מוֹקֵ֔שׁ|lemma="מוֹקֵשׁ" strong="l:H4170" x-morph="He,R:Ncmsa""\w*
+\w לְ⁠מוֹקֵ֔שׁ|lemma="מוֹקֵשׁ" strong="l:H4170" x-morph="He,R:Ncmsa"\w*
 \w שַׁלַּח֙|lemma="שָׁלַח" strong="H7971" x-morph="He,Vpv2ms"\w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w הָ֣⁠אֲנָשִׁ֔ים|lemma="אִישׁ" strong="d:H0376" x-morph="He,Td:Ncmpa"\w*
 \w וְ⁠יַֽעַבְד֖וּ|lemma="עָבַד" strong="c:H5647" x-morph="He,C:Vqi3mp"\w*
