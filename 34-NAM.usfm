@@ -270,8 +270,8 @@
 \w יִזְכֹּר֙|lemma="זָכַר" strong="H2142" x-morph="He,Vqi3ms"\w*
 \w אַדִּירָ֔י⁠ו|lemma="אַדִּיר" strong="H0117" x-morph="He,Aampc:Sp3ms"\w*
 \w יִכָּשְׁל֖וּ|lemma="כָּשַׁל" strong="H3782" x-morph="He,VNi3mp"\w*
-\w ב⁠הלכות⁠ם|lemma="הֲלִיכָה" strong="b:H1979" x-morph="He,R:Ncfpc:Sp3mp"\w*
-\f + \ft Q \+w בַּהֲלִֽיכָתָ֑ם|lemma="הֲלִיכָה" strong="b:H1979" x-morph="He,R:Vqrfpc:Sp3mp"\+w*\f*
+\w ב⁠הלכות⁠ם|lemma="הָלַךְ" strong="b:H1980" x-morph="He,R:Vqrfpc:Sp3mp"\w*
+\f + \ft Q \+w בַּהֲלִֽיכָתָ֑ם|lemma="הֲלִיכָה" strong="b:H1979" x-morph="He,R:Ncfsc:Sp3mp"\+w*\f*
 \w יְמַֽהֲרוּ֙|lemma="מָהַר" strong="H4116a" x-morph="He,Vpi3mp"\w*
 \w חֽוֹמָתָ֔⁠הּ|lemma="חוֹמָה" strong="H2346" x-morph="He,Ncfsc:Sp3fs"\w*
 \w וְ⁠הֻכַ֖ן|lemma="כּוּן" strong="c:H3559a" x-morph="He,C:VHp3ms"\w*
