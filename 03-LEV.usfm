@@ -3273,7 +3273,7 @@
 \w וַ⁠יִּשָּׂ֨א|lemma="נָשָׂא" strong="c:H5375" x-morph="He,C:Vqw3ms"\w*
 \w אַהֲרֹ֧ן|lemma="אַהֲרוֹן" strong="H0175" x-morph="He,Np"\w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w יד⁠ו|lemma="יָד" strong="H3027" x-morph="He,Ncbsc:Sp3ms"\w*
-\f + \ft Q \+w יָדָ֛יו|lemma="יָד" strong="H3027" x-morph="He,Ncbdc:Sp3ms"\+w*\f*
+\f + \ft Q \+w יָדָ֛י⁠ו|lemma="יָד" strong="H3027" x-morph="He,Ncbdc:Sp3ms"\+w*\f*
 \w אֶל|lemma="אֵל" strong="H0413" x-morph="He,R"\w*־\w הָ⁠עָ֖ם|lemma="עַם" strong="d:H5971a" x-morph="He,Td:Ncmsa"\w*
 \w וַֽ⁠יְבָרְכֵ֑⁠ם|lemma="בָּרַךְ" strong="c:H1288" x-morph="He,C:Vpw3ms:Sp3mp"\w*
 \w וַ⁠יֵּ֗רֶד|lemma="יָרַד" strong="c:H3381" x-morph="He,C:Vqw3ms"\w*
@@ -3870,7 +3870,7 @@
 \w הָ⁠ע֔וֹף|lemma="עוֹף" strong="d:H5775" x-morph="He,Td:Ncmsa"\w*
 \w הַ⁠הֹלֵ֖ךְ|lemma="הָלַךְ" strong="d:H1980" x-morph="He,Td:Vqrmsa"\w*
 \w עַל|lemma="עַל" strong="H5921a" x-morph="He,R"\w*־\w אַרְבַּ֑ע|lemma="אַרְבַּע" strong="H0702" x-morph="He,Acfsa"\w*
-\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w ל֤וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms"\w*
+\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w ל֤⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms"\w*
 \f + \ft K \+w לא|lemma="לֹא" strong="H3808" x-morph="He,Tn"\+w*\f*
 \w כְרָעַ֨יִם֙|lemma="כָּרָע" strong="H3767" x-morph="He,Ncbda"\w*
 \w מִ⁠מַּ֣עַל|lemma="מַעַל" strong="m:H4605" x-morph="He,R:D"\w*
@@ -6768,7 +6768,7 @@
 \w וְ⁠סָמַ֨ךְ|lemma="סָמַךְ" strong="c:H5564" x-morph="He,C:Vqq3ms"\w*
 \w אַהֲרֹ֜ן|lemma="אַהֲרוֹן" strong="H0175" x-morph="He,Np"\w*
 \w אֶת|lemma="אֵת" strong="H0853" x-morph="He,To"\w*־\w שְׁתֵּ֣י|lemma="שְׁנַיִם" strong="H8147" x-morph="He,Acfdc"\w*
-\w יָדָ֗יו|lemma="יָד" strong="H3027" x-morph="He,Ncbdc:Sp3ms"\w*
+\w יָדָ֗י⁠ו|lemma="יָד" strong="H3027" x-morph="He,Ncbdc:Sp3ms"\w*
 \f + \ft K \+w יד⁠ו|lemma="יָד" strong="H3027" x-morph="He,Ncbsc:Sp3ms"\+w*\f*
 \w עַ֨ל|lemma="עַל" strong="H5921a" x-morph="He,R"\w*
 \w רֹ֣אשׁ|lemma="רֹאשׁ" strong="H7218a" x-morph="He,Ncmsc"\w*
@@ -10528,7 +10528,7 @@
 \w וְ֠⁠קָם|lemma="קוּם" strong="c:H6965b" x-morph="He,C:Vqp3ms"\w*
 \w הַ⁠בַּ֨יִת|lemma="בַּיִת" strong="d:H1004b" x-morph="He,Td:Ncmsa"\w*
 \w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w בָּ⁠עִ֜יר|lemma="עִיר" strong="b:H5892b" x-morph="He,Rd:Ncfsa"\w*
-\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w ל֣וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms"\w*
+\w אֲשֶׁר|lemma="אֲשֶׁר" strong="H0834a" x-morph="He,Tr"\w*־\w ל֣⁠וֹ|lemma="" strong="l" x-morph="He,R:Sp3ms"\w*
 \f + \ft K \+w לא|lemma="לֹא" strong="H3808" x-morph="He,Tn"\+w*\f*
 \w חֹמָ֗ה|lemma="חוֹמָה" strong="H2346" x-morph="He,Ncfsa"\w*
 \w לַ⁠צְּמִיתֻ֛ת|lemma="צְמִיתֻת" strong="l:H6783" x-morph="He,Rd:Ncfsa"\w*

@@ -369,7 +369,7 @@
 \w אֱלֹהֵי⁠הֶ֖ם|lemma="אֱלֹהִים" strong="H0430" x-morph="He,Ncmpc:Sp3mp"\w*
 \w וְ⁠שָׁ֥ב|lemma="שׁוּב" strong="c:H7725" x-morph="He,C:Vqq3ms"\w*
 \w שבות⁠ם|lemma="שְׁבוּת" strong="H7622" x-morph="He,Ncfsc:Sp3mp"\w*׃
-\f + \ft Q \+w שְׁבִיתָֽם|lemma="שְׁבוּת" strong="H7622" x-morph="He,Ncfsc:Sp3mp"\+w*\f*
+\f + \ft Q \+w שְׁבִיתָֽ⁠ם|lemma="שְׁבוּת" strong="H7622" x-morph="He,Ncfsc:Sp3mp"\+w*\f*
 
 \v 8
 \w שָׁמַ֨עְתִּי֙|lemma="שָׁמַע" strong="H8085" x-morph="He,Vqp1cs"\w*
@@ -407,7 +407,7 @@
 \w עַמִּ⁠י֙|lemma="עַם" strong="H5971a" x-morph="He,Ncmsc:Sp1cs"\w*
 \w יְבָזּ֔וּ⁠ם|lemma="בָּזַז" strong="H0962" x-morph="He,Vqi3mp:Sp3mp"\w*
 \w וְ⁠יֶ֥תֶר|lemma="יֶתֶר" strong="c:H3499a" x-morph="He,C:Ncmsc"\w*
-\w גּוֹיִ֖י|lemma="גּוֹי" strong="H1471a" x-morph="He,Ncmsa:Sp1cs"\w*
+\w גּוֹיִ֖⁠י|lemma="גּוֹי" strong="H1471a" x-morph="He,Ncmsa:Sp1cs"\w*
 \f + \ft K \+w גוי|lemma="גּוֹי" strong="H1471a" x-morph="He,Ncmsa"\+w*\f*
 \w יִנְחָלֽוּ⁠ם|lemma="נָחַל" strong="H5157" x-morph="He,Vqi3mp:Sp3mp"\w*׃
 
@@ -720,7 +720,7 @@
 \w בַּ⁠יּ֣וֹם|lemma="יוֹם" strong="b:H3117" x-morph="He,Rd:Ncmsa"\w*
 \w הַ⁠ה֔וּא|lemma="הוּא" strong="d:H1931" x-morph="He,Td:Pp3ms"\w*
 \w יֵאָמֵ֥ר|lemma="אָמַר" strong="H0559" x-morph="He,VNi3ms"\w*
-\w לִירֽוּשָׁלִַ֖ם|lemma="יְרוּשָׁלִַ͏ם" strong="l:H3389" x-morph="He,R:Np"\w*
+\w לִ⁠ירֽוּשָׁלִַ֖ם|lemma="יְרוּשָׁלִַ͏ם" strong="l:H3389" x-morph="He,R:Np"\w*
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn"\w*־\w תִּירָ֑אִי|lemma="יָרֵא" strong="H3372" x-morph="He,Vqj2fs"\w*
 \w צִיּ֖וֹן|lemma="צִיּוֹן" strong="H6726" x-morph="He,Np"\w*
 \w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn"\w*־\w יִרְפּ֥וּ|lemma="רָפָה" strong="H7503" x-morph="He,Vqj3mp"\w*
