@@ -3574,7 +3574,7 @@
 \w בָּֽתֵּי⁠הֶ֔ם|lemma="בַּיִת" strong="H1004b" x-morph="He,Ncmpc:Sp3mp"\w*
 \w וּ⁠נְשֵׁי⁠הֶ֖ם|lemma="אִשָּׁה" strong="c:H0802" x-morph="He,C:Ncfpc:Sp3mp"\w*
 \w תשגלנה|lemma="שָׁגַל" strong="H7693" x-morph="He,VNi3fp"\w*׃
-\f + \ft Q \+w תִּשָּׁכַֽבְנָה|lemma="שָׁכַב" strong="H7901" x-morph="He,VNi3fp"\+w*\f*
+\f + \ft Q \+w תִּשָּׁכַֽבְנָה|lemma="שָׁכַב" strong="H7901" x-morph="He,VNi3fp"\+w*\f*
 
 \v 17
 \w הִנְ⁠נִ֛י|lemma="הִנֵּה" strong="H2009" x-morph="He,Tm:Sp1cs"\w*
@@ -11570,8 +11570,8 @@
 
 \v 24
 \w מִֽי|lemma="מִי" strong="H4310" x-morph="He,Ti"\w*־\w נָתַ֨ן|lemma="נָתַן" strong="H5414" x-morph="He,Vqp3ms"\w*
-\w לִמְשִׁסָּ֧ה|lemma="מְשִׁסָּה" strong="l:H4933" x-morph="He,R:Ncfsa"\w*
-\f + \ft K \+w ל⁠משוסה|lemma="מְשִׁסָּה" strong="l:H4933" x-morph="He,R:Ncfsa"\+w*\f*
+\w לִמְשִׁסָּ֧ה|lemma="מְשִׁסָּה" strong="l:H4933" x-morph="He,R:Ncfsa"\w*
+\f + \ft K \+w ל⁠משוסה|lemma="מְשִׁסָּה" strong="l:H4933" x-morph="He,R:Ncfsa"\+w*\f*
 \w יַעֲקֹ֛ב|lemma="יַעֲקֹב" strong="H3290" x-morph="He,Np"\w*
 \w וְ⁠יִשְׂרָאֵ֥ל|lemma="יִשְׂרָאֵל" strong="c:H3478" x-morph="He,C:Np"\w*
 \w לְ⁠בֹזְזִ֖ים|lemma="בָּזַז" strong="l:H0962" x-morph="He,R:Vqrmpa"\w*
