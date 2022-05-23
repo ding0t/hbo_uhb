@@ -13145,7 +13145,7 @@
 \w וְ⁠עָרֶ֖י⁠ךָ|lemma="עִיר" strong="c:H5892b" x-morph="He,C:Ncfpc:Sp2ms"\w*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*
 \w תישבנה|lemma="יָשַׁב" strong="H3427" x-morph="He,Vqi3fp"\w*
-\f + \ft Q \+w תָשֹׁ֑בְנָה|lemma="שׁוּב" strong="H7725" x-morph="He,Vqi3fp"\+w*\f*
+\f + \ft Q \+w תָשֹׁ֑בְנָה|lemma="שׁוּב" strong="H7725" x-morph="He,Vqi3fp"\+w*\f*
 \w וִֽ⁠ידַעְתֶּ֖ם|lemma="יָדַע" strong="c:H3045" x-morph="He,C:Vqq2mp"\w*
 \w כִּֽי|lemma="כִּי" strong="H3588a" x-morph="He,C"\w*־\w אֲנִ֥י|lemma="אֲנִי" strong="H0589" x-morph="He,Pp1cs"\w*
 \w יְהוָֽה|lemma="יְהֹוָה" strong="H3068" x-morph="He,Np"\w*׃
@@ -13472,7 +13472,7 @@
 \w ו⁠גוי⁠ך|lemma="גּוֹי" strong="c:H1471a" x-morph="He,C:Ncmsc:Sp2fs"\w*
 \f + \ft Q \+w וְגוֹיַ֖יִךְ|lemma="גּוֹי" strong="c:H1471a" x-morph="He,C:Ncmpc:Sp2fs"\+w*\f*
 \w לֹ֣א|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*
-\w תְשַׁכְּלִי|lemma="שָׁכַל" strong="H7921" x-morph="He,Vpi2fs"\w*־\w ע֑וֹד|lemma="עוֹד" strong="H5750" x-morph="He,D"\w*
+\w תְשַׁכְּלִי|lemma="שָׁכַל" strong="H7921" x-morph="He,Vpi2fs"\w*־\w ע֑וֹד|lemma="עוֹד" strong="H5750" x-morph="He,D"\w*
 \f + \ft K \+w תכשלי|lemma="כָּשַׁל" strong="H3782" x-morph="He,Vpi2fs"\+w*\f*
 \w נְאֻ֖ם|lemma="נְאֻם" strong="H5002" x-morph="He,Ncmsc"\w*
 \w אֲדֹנָ֥⁠י|lemma="אֲדֹנָי" strong="H0136" x-morph="He,Ncmpc:Sp1cs"\w*
@@ -13491,7 +13491,7 @@
 \w ו⁠גוי⁠ך|lemma="גּוֹי" strong="c:H1471a" x-morph="He,C:Ncmsc:Sp2fs"\w*
 \f + \ft Q \+w וְגוֹיַ֙יִךְ֙|lemma="גּוֹי" strong="c:H1471a" x-morph="He,C:Ncmsc:Sp2fs"\+w*\f*
 \w לֹא|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*־\w תַכְשִׁ֣לִי|lemma="כָּשַׁל" strong="H3782" x-morph="He,Vhi2fs"\w*
-\f + \ft Or perhaps \+w תְשַׁכְּלִי|lemma="שָׁכַל" strong="H7921" x-morph="He,Vpi2fs"\+w*\f*
+\f + \ft Or perhaps \+w תְשַׁכְּלִי|lemma="שָׁכַל" strong="H7921" x-morph="He,Vpi2fs"\+w*\f*
 \w ע֔וֹד|lemma="עוֹד" strong="H5750" x-morph="He,D"\w*
 \w נְאֻ֖ם|lemma="נְאֻם" strong="H5002" x-morph="He,Ncmsc"\w*
 \w אֲדֹנָ֥⁠י|lemma="אֲדֹנָי" strong="H0136" x-morph="He,Ncmpc:Sp1cs"\w*
