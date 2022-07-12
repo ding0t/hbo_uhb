@@ -15,12 +15,12 @@ dublin_core:
   description: 'An open-licensed, lexically tagged, morphologically parsed Hebrew Old Testament. It enables the global Church to have access to the original texts of the Old Testament.'
   format: 'text/usfm3'
   identifier: 'uhb'
-  issued: '2022-06-28'
+  issued: '2022-07-11'
   language:
     direction: 'rtl'
     identifier: 'hbo'
     title: 'Ancient Hebrew'
-  modified: '2022-06-28'
+  modified: '2022-07-11'
   publisher: 'unfoldingWord'
   relation:
   - 'en/ult?v=37'
@@ -33,7 +33,7 @@ dublin_core:
   subject: 'Hebrew Old Testament'
   title: 'unfoldingWord® Hebrew Bible'
   type: 'bundle'
-  version: '2.1.26'
+  version: '2.1.27'
 checking:
   checking_entity:
   - 'unfoldingWord'
