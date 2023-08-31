@@ -1105,7 +1105,7 @@
 \w שָׁרְרֵ⁠ךְ֙|lemma="שֹׁרֶר" strong="H8326" x-morph="He,Ncmsc:Sp2fs"\w*
 \w אַגַּ֣ן|lemma="אַגָּן" strong="H0101" x-morph="He,Ncmsc"\w*
 \w הַ⁠סַּ֔הַר|lemma="סַהַר" strong="d:H5469" x-morph="He,Td:Ncmsa"\w*
-\w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn"\w*־\w יֶחְסַ֖ר|lemma="חָסֵר" strong="H2637" x-morph="He,Vqj3ms"\w*
+\w אַל|lemma="אַל" strong="H0408" x-morph="He,Tn"\w*־\w יֶחְסַ֖ר|lemma="חָסֵר" strong="H2637" x-morph="He,Vqi3ms"\w*
 \w הַ⁠מָּ֑זֶג|lemma="מֶזֶג" strong="d:H4197" x-morph="He,Td:Ncmsa"\w*
 \w בִּטְנֵ⁠ךְ֙|lemma="בֶּטֶן" strong="H0990" x-morph="He,Ncfsc:Sp2fs"\w*
 \w עֲרֵמַ֣ת|lemma="עָרֵם" strong="H6194" x-morph="He,Ncfsc"\w*
