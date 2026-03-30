@@ -1,0 +1,1061 @@
+{
+  "format": "scripture burrito",
+  "meta": {
+    "version": "1.0.0",
+    "category": "source",
+    "generator": {
+      "softwareName": "go-rc2sb",
+      "softwareVersion": "0.0.1",
+      "userName": ""
+    },
+    "defaultLocale": "en",
+    "dateCreated": "2026-03-30T12:48:58.291Z",
+    "normalization": "NFC"
+  },
+  "idAuthorities": {
+    "uWBurritos": {
+      "id": "https://git.door43.org/uW",
+      "name": {
+        "en": "Door43 uW Burritos"
+      }
+    }
+  },
+  "identification": {
+    "primary": {
+      "uWBurritos": {
+        "UHB": {
+          "revision": "1",
+          "timestamp": "2026-03-30T12:48:58.291Z"
+        }
+      }
+    },
+    "name": {
+      "en": "unfoldingWord® Hebrew Bible"
+    },
+    "description": {
+      "en": "unfoldingWord® Hebrew Bible"
+    },
+    "abbreviation": {
+      "en": "UHB"
+    }
+  },
+  "languages": [
+    {
+      "tag": "hbo",
+      "name": {
+        "en": "Ancient Hebrew"
+      },
+      "scriptDirection": "rtl"
+    }
+  ],
+  "type": {
+    "flavorType": {
+      "name": "scripture",
+      "flavor": {
+        "name": "textTranslation",
+        "usfmVersion": "3.0",
+        "translationType": "revision",
+        "audience": "common",
+        "projectType": "standard"
+      },
+      "currentScope": {
+        "1CH": [],
+        "1KI": [],
+        "1SA": [],
+        "2CH": [],
+        "2KI": [],
+        "2SA": [],
+        "AMO": [],
+        "DAN": [],
+        "DEU": [],
+        "ECC": [],
+        "EST": [],
+        "EXO": [],
+        "EZK": [],
+        "EZR": [],
+        "GEN": [],
+        "HAB": [],
+        "HAG": [],
+        "HOS": [],
+        "ISA": [],
+        "JDG": [],
+        "JER": [],
+        "JOB": [],
+        "JOL": [],
+        "JON": [],
+        "JOS": [],
+        "LAM": [],
+        "LEV": [],
+        "MAL": [],
+        "MIC": [],
+        "NAM": [],
+        "NEH": [],
+        "NUM": [],
+        "OBA": [],
+        "PRO": [],
+        "PSA": [],
+        "RUT": [],
+        "SNG": [],
+        "ZEC": [],
+        "ZEP": []
+      }
+    }
+  },
+  "confidential": false,
+  "localizedNames": {
+    "book-1ch": {
+      "abbr": {
+        "en": "1Ch",
+        "hbo": "1Ch"
+      },
+      "short": {
+        "en": "First Chronicles",
+        "hbo": "First Chronicles"
+      },
+      "long": {
+        "en": "The First Book of the Chronicles",
+        "hbo": "The First Book of the Chronicles"
+      }
+    },
+    "book-1ki": {
+      "abbr": {
+        "en": "1Ki",
+        "hbo": "1Ki"
+      },
+      "short": {
+        "en": "First Kings",
+        "hbo": "First Kings"
+      },
+      "long": {
+        "en": "The First Book of Kings",
+        "hbo": "The First Book of Kings"
+      }
+    },
+    "book-1sa": {
+      "abbr": {
+        "en": "1Sa",
+        "hbo": "1Sa"
+      },
+      "short": {
+        "en": "First Samuel",
+        "hbo": "First Samuel"
+      },
+      "long": {
+        "en": "The First Book of Samuel",
+        "hbo": "The First Book of Samuel"
+      }
+    },
+    "book-2ch": {
+      "abbr": {
+        "en": "2Ch",
+        "hbo": "2Ch"
+      },
+      "short": {
+        "en": "Second Chronicles",
+        "hbo": "Second Chronicles"
+      },
+      "long": {
+        "en": "The Second Book of the Chronicles",
+        "hbo": "The Second Book of the Chronicles"
+      }
+    },
+    "book-2ki": {
+      "abbr": {
+        "en": "2Ki",
+        "hbo": "2Ki"
+      },
+      "short": {
+        "en": "Second Kings",
+        "hbo": "Second Kings"
+      },
+      "long": {
+        "en": "The Second Book of Kings",
+        "hbo": "The Second Book of Kings"
+      }
+    },
+    "book-2sa": {
+      "abbr": {
+        "en": "2Sa",
+        "hbo": "2Sa"
+      },
+      "short": {
+        "en": "Second Samuel",
+        "hbo": "Second Samuel"
+      },
+      "long": {
+        "en": "The Second Book of Samuel",
+        "hbo": "The Second Book of Samuel"
+      }
+    },
+    "book-amo": {
+      "abbr": {
+        "en": "Amo",
+        "hbo": "Amo"
+      },
+      "short": {
+        "en": "Amos",
+        "hbo": "Amos"
+      },
+      "long": {
+        "en": "The Book of Amos",
+        "hbo": "The Book of Amos"
+      }
+    },
+    "book-dan": {
+      "abbr": {
+        "en": "Dan",
+        "hbo": "Dan"
+      },
+      "short": {
+        "en": "Daniel",
+        "hbo": "Daniel"
+      },
+      "long": {
+        "en": "The Book of Daniel",
+        "hbo": "The Book of Daniel"
+      }
+    },
+    "book-deu": {
+      "abbr": {
+        "en": "Deu",
+        "hbo": "Deu"
+      },
+      "short": {
+        "en": "Deuteronomy",
+        "hbo": "Deuteronomy"
+      },
+      "long": {
+        "en": "The Book of Deuteronomy",
+        "hbo": "The Book of Deuteronomy"
+      }
+    },
+    "book-ecc": {
+      "abbr": {
+        "en": "Ecc",
+        "hbo": "Ecc"
+      },
+      "short": {
+        "en": "Ecclesiastes",
+        "hbo": "Ecclesiastes"
+      },
+      "long": {
+        "en": "The Book of Ecclesiastes",
+        "hbo": "The Book of Ecclesiastes"
+      }
+    },
+    "book-est": {
+      "abbr": {
+        "en": "Est",
+        "hbo": "Est"
+      },
+      "short": {
+        "en": "Esther",
+        "hbo": "Esther"
+      },
+      "long": {
+        "en": "The Book of Esther",
+        "hbo": "The Book of Esther"
+      }
+    },
+    "book-exo": {
+      "abbr": {
+        "en": "Exo",
+        "hbo": "Exo"
+      },
+      "short": {
+        "en": "Exodus",
+        "hbo": "Exodus"
+      },
+      "long": {
+        "en": "The Book of Exodus",
+        "hbo": "The Book of Exodus"
+      }
+    },
+    "book-ezk": {
+      "abbr": {
+        "en": "Ezk",
+        "hbo": "Ezk"
+      },
+      "short": {
+        "en": "Ezekiel",
+        "hbo": "Ezekiel"
+      },
+      "long": {
+        "en": "The Book of Ezekiel",
+        "hbo": "The Book of Ezekiel"
+      }
+    },
+    "book-ezr": {
+      "abbr": {
+        "en": "Ezr",
+        "hbo": "Ezr"
+      },
+      "short": {
+        "en": "Ezra",
+        "hbo": "Ezra"
+      },
+      "long": {
+        "en": "The Book of Ezra",
+        "hbo": "The Book of Ezra"
+      }
+    },
+    "book-gen": {
+      "abbr": {
+        "en": "Gen",
+        "hbo": "Gen"
+      },
+      "short": {
+        "en": "Genesis",
+        "hbo": "Genesis"
+      },
+      "long": {
+        "en": "The Book of Genesis",
+        "hbo": "The Book of Genesis"
+      }
+    },
+    "book-hab": {
+      "abbr": {
+        "en": "Hab",
+        "hbo": "Hab"
+      },
+      "short": {
+        "en": "Habakkuk",
+        "hbo": "Habakkuk"
+      },
+      "long": {
+        "en": "The Book of Habakkuk",
+        "hbo": "The Book of Habakkuk"
+      }
+    },
+    "book-hag": {
+      "abbr": {
+        "en": "Hag",
+        "hbo": "Hag"
+      },
+      "short": {
+        "en": "Haggai",
+        "hbo": "Haggai"
+      },
+      "long": {
+        "en": "The Book of Haggai",
+        "hbo": "The Book of Haggai"
+      }
+    },
+    "book-hos": {
+      "abbr": {
+        "en": "Hos",
+        "hbo": "Hos"
+      },
+      "short": {
+        "en": "Hosea",
+        "hbo": "Hosea"
+      },
+      "long": {
+        "en": "The Book of Hosea",
+        "hbo": "The Book of Hosea"
+      }
+    },
+    "book-isa": {
+      "abbr": {
+        "en": "Isa",
+        "hbo": "Isa"
+      },
+      "short": {
+        "en": "Isaiah",
+        "hbo": "Isaiah"
+      },
+      "long": {
+        "en": "The Book of Isaiah",
+        "hbo": "The Book of Isaiah"
+      }
+    },
+    "book-jdg": {
+      "abbr": {
+        "en": "Jdg",
+        "hbo": "Jdg"
+      },
+      "short": {
+        "en": "Judges",
+        "hbo": "Judges"
+      },
+      "long": {
+        "en": "The Book of Judges",
+        "hbo": "The Book of Judges"
+      }
+    },
+    "book-jer": {
+      "abbr": {
+        "en": "Jer",
+        "hbo": "Jer"
+      },
+      "short": {
+        "en": "Jeremiah",
+        "hbo": "Jeremiah"
+      },
+      "long": {
+        "en": "The Book of Jeremiah",
+        "hbo": "The Book of Jeremiah"
+      }
+    },
+    "book-job": {
+      "abbr": {
+        "en": "Job",
+        "hbo": "Job"
+      },
+      "short": {
+        "en": "Job",
+        "hbo": "Job"
+      },
+      "long": {
+        "en": "The Book of Job",
+        "hbo": "The Book of Job"
+      }
+    },
+    "book-jol": {
+      "abbr": {
+        "en": "Jol",
+        "hbo": "Jol"
+      },
+      "short": {
+        "en": "Joel",
+        "hbo": "Joel"
+      },
+      "long": {
+        "en": "The Book of Joel",
+        "hbo": "The Book of Joel"
+      }
+    },
+    "book-jon": {
+      "abbr": {
+        "en": "Jon",
+        "hbo": "Jon"
+      },
+      "short": {
+        "en": "Jonah",
+        "hbo": "Jonah"
+      },
+      "long": {
+        "en": "The Book of Jonah",
+        "hbo": "The Book of Jonah"
+      }
+    },
+    "book-jos": {
+      "abbr": {
+        "en": "Jos",
+        "hbo": "Jos"
+      },
+      "short": {
+        "en": "Joshua",
+        "hbo": "Joshua"
+      },
+      "long": {
+        "en": "The Book of Joshua",
+        "hbo": "The Book of Joshua"
+      }
+    },
+    "book-lam": {
+      "abbr": {
+        "en": "Lam",
+        "hbo": "Lam"
+      },
+      "short": {
+        "en": "Lamentations",
+        "hbo": "Lamentations"
+      },
+      "long": {
+        "en": "The Book of Lamentations",
+        "hbo": "The Book of Lamentations"
+      }
+    },
+    "book-lev": {
+      "abbr": {
+        "en": "Lev",
+        "hbo": "Lev"
+      },
+      "short": {
+        "en": "Leviticus",
+        "hbo": "Leviticus"
+      },
+      "long": {
+        "en": "The Book of Leviticus",
+        "hbo": "The Book of Leviticus"
+      }
+    },
+    "book-mal": {
+      "abbr": {
+        "en": "Mal",
+        "hbo": "Mal"
+      },
+      "short": {
+        "en": "Malachi",
+        "hbo": "Malachi"
+      },
+      "long": {
+        "en": "The Book of Malachi",
+        "hbo": "The Book of Malachi"
+      }
+    },
+    "book-mic": {
+      "abbr": {
+        "en": "Mic",
+        "hbo": "Mic"
+      },
+      "short": {
+        "en": "Micah",
+        "hbo": "Micah"
+      },
+      "long": {
+        "en": "The Book of Micah",
+        "hbo": "The Book of Micah"
+      }
+    },
+    "book-nam": {
+      "abbr": {
+        "en": "Nam",
+        "hbo": "Nam"
+      },
+      "short": {
+        "en": "Nahum",
+        "hbo": "Nahum"
+      },
+      "long": {
+        "en": "The Book of Nahum",
+        "hbo": "The Book of Nahum"
+      }
+    },
+    "book-neh": {
+      "abbr": {
+        "en": "Neh",
+        "hbo": "Neh"
+      },
+      "short": {
+        "en": "Nehemiah",
+        "hbo": "Nehemiah"
+      },
+      "long": {
+        "en": "The Book of Nehemiah",
+        "hbo": "The Book of Nehemiah"
+      }
+    },
+    "book-num": {
+      "abbr": {
+        "en": "Num",
+        "hbo": "Num"
+      },
+      "short": {
+        "en": "Numbers",
+        "hbo": "Numbers"
+      },
+      "long": {
+        "en": "The Book of Numbers",
+        "hbo": "The Book of Numbers"
+      }
+    },
+    "book-oba": {
+      "abbr": {
+        "en": "Oba",
+        "hbo": "Oba"
+      },
+      "short": {
+        "en": "Obadiah",
+        "hbo": "Obadiah"
+      },
+      "long": {
+        "en": "The Book of Obadiah",
+        "hbo": "The Book of Obadiah"
+      }
+    },
+    "book-pro": {
+      "abbr": {
+        "en": "Pro",
+        "hbo": "Pro"
+      },
+      "short": {
+        "en": "Proverbs",
+        "hbo": "Proverbs"
+      },
+      "long": {
+        "en": "The Book of Proverbs",
+        "hbo": "The Book of Proverbs"
+      }
+    },
+    "book-psa": {
+      "abbr": {
+        "en": "Psa",
+        "hbo": "Psa"
+      },
+      "short": {
+        "en": "Psalms",
+        "hbo": "Psalms"
+      },
+      "long": {
+        "en": "The Book of Psalms",
+        "hbo": "The Book of Psalms"
+      }
+    },
+    "book-rut": {
+      "abbr": {
+        "en": "Rut",
+        "hbo": "Rut"
+      },
+      "short": {
+        "en": "Ruth",
+        "hbo": "Ruth"
+      },
+      "long": {
+        "en": "The Book of Ruth",
+        "hbo": "The Book of Ruth"
+      }
+    },
+    "book-sng": {
+      "abbr": {
+        "en": "Sng",
+        "hbo": "Sng"
+      },
+      "short": {
+        "en": "Song of Songs",
+        "hbo": "Song of Songs"
+      },
+      "long": {
+        "en": "The Song of Songs",
+        "hbo": "The Song of Songs"
+      }
+    },
+    "book-zec": {
+      "abbr": {
+        "en": "Zec",
+        "hbo": "Zec"
+      },
+      "short": {
+        "en": "Zechariah",
+        "hbo": "Zechariah"
+      },
+      "long": {
+        "en": "The Book of Zechariah",
+        "hbo": "The Book of Zechariah"
+      }
+    },
+    "book-zep": {
+      "abbr": {
+        "en": "Zep",
+        "hbo": "Zep"
+      },
+      "short": {
+        "en": "Zephaniah",
+        "hbo": "Zephaniah"
+      },
+      "long": {
+        "en": "The Book of Zephaniah",
+        "hbo": "The Book of Zephaniah"
+      }
+    }
+  },
+  "ingredients": {
+    "ingredients/1CH.usfm": {
+      "checksum": {
+        "md5": "61e6dc2b6ead2afa52df8e5015f609da"
+      },
+      "mimeType": "text/plain",
+      "size": 895200,
+      "scope": {
+        "1CH": []
+      }
+    },
+    "ingredients/1KI.usfm": {
+      "checksum": {
+        "md5": "699d114c8e893c0c9bbef0d1c63bf2f0"
+      },
+      "mimeType": "text/plain",
+      "size": 1069120,
+      "scope": {
+        "1KI": []
+      }
+    },
+    "ingredients/1SA.usfm": {
+      "checksum": {
+        "md5": "6aaf0610a944ae21a5d566fee38f5a27"
+      },
+      "mimeType": "text/plain",
+      "size": 1077981,
+      "scope": {
+        "1SA": []
+      }
+    },
+    "ingredients/2CH.usfm": {
+      "checksum": {
+        "md5": "8d201af753ed2ccfa9b249c37b16f2f4"
+      },
+      "mimeType": "text/plain",
+      "size": 1103743,
+      "scope": {
+        "2CH": []
+      }
+    },
+    "ingredients/2KI.usfm": {
+      "checksum": {
+        "md5": "abda96738a7882b94ec7f1da6ec680dd"
+      },
+      "mimeType": "text/plain",
+      "size": 1001983,
+      "scope": {
+        "2KI": []
+      }
+    },
+    "ingredients/2SA.usfm": {
+      "checksum": {
+        "md5": "e6b0bd6c0186575e63a28c6f68d7d2ca"
+      },
+      "mimeType": "text/plain",
+      "size": 899274,
+      "scope": {
+        "2SA": []
+      }
+    },
+    "ingredients/AMO.usfm": {
+      "checksum": {
+        "md5": "f85e7bf4c0d4e2cca687c69703e3d071"
+      },
+      "mimeType": "text/plain",
+      "size": 164958,
+      "scope": {
+        "AMO": []
+      }
+    },
+    "ingredients/DAN.usfm": {
+      "checksum": {
+        "md5": "cc977d0aabee8a9e8d54ca391d1c6b5d"
+      },
+      "mimeType": "text/plain",
+      "size": 487693,
+      "scope": {
+        "DAN": []
+      }
+    },
+    "ingredients/DEU.usfm": {
+      "checksum": {
+        "md5": "b0bb57d03274ba8886e79f019c9629ce"
+      },
+      "mimeType": "text/plain",
+      "size": 1159081,
+      "scope": {
+        "DEU": []
+      }
+    },
+    "ingredients/ECC.usfm": {
+      "checksum": {
+        "md5": "41b14d5dc39e6a764ff130c56ba16c76"
+      },
+      "mimeType": "text/plain",
+      "size": 237877,
+      "scope": {
+        "ECC": []
+      }
+    },
+    "ingredients/EST.usfm": {
+      "checksum": {
+        "md5": "68ec5b6d9cb4841025bd4eb360aa9de7"
+      },
+      "mimeType": "text/plain",
+      "size": 251853,
+      "scope": {
+        "EST": []
+      }
+    },
+    "ingredients/EXO.usfm": {
+      "checksum": {
+        "md5": "346cee9a597ea7c3bbedcc636671cf58"
+      },
+      "mimeType": "text/plain",
+      "size": 1350707,
+      "scope": {
+        "EXO": []
+      }
+    },
+    "ingredients/EZK.usfm": {
+      "checksum": {
+        "md5": "0502adda54d41df1cb2f1719e94587a5"
+      },
+      "mimeType": "text/plain",
+      "size": 1536623,
+      "scope": {
+        "EZK": []
+      }
+    },
+    "ingredients/EZR.usfm": {
+      "checksum": {
+        "md5": "25080654dee35307d25ead4301541ea0"
+      },
+      "mimeType": "text/plain",
+      "size": 316552,
+      "scope": {
+        "EZR": []
+      }
+    },
+    "ingredients/GEN.usfm": {
+      "checksum": {
+        "md5": "7c0929bb7f553aa80b7985479a2b31f6"
+      },
+      "mimeType": "text/plain",
+      "size": 1656194,
+      "scope": {
+        "GEN": []
+      }
+    },
+    "ingredients/HAB.usfm": {
+      "checksum": {
+        "md5": "8b0f8716b2d4258453e5d73305f69366"
+      },
+      "mimeType": "text/plain",
+      "size": 54184,
+      "scope": {
+        "HAB": []
+      }
+    },
+    "ingredients/HAG.usfm": {
+      "checksum": {
+        "md5": "3f2193434c190ffa4659f2d25371378d"
+      },
+      "mimeType": "text/plain",
+      "size": 48607,
+      "scope": {
+        "HAG": []
+      }
+    },
+    "ingredients/HOS.usfm": {
+      "checksum": {
+        "md5": "1de3ded32c3e4cd111193ac69787fe45"
+      },
+      "mimeType": "text/plain",
+      "size": 193888,
+      "scope": {
+        "HOS": []
+      }
+    },
+    "ingredients/ISA.usfm": {
+      "checksum": {
+        "md5": "185479e1ac9a057a26cdaa565877c792"
+      },
+      "mimeType": "text/plain",
+      "size": 1377159,
+      "scope": {
+        "ISA": []
+      }
+    },
+    "ingredients/JDG.usfm": {
+      "checksum": {
+        "md5": "1028e6731cf33923a1e9b1f5cb6d46f4"
+      },
+      "mimeType": "text/plain",
+      "size": 803774,
+      "scope": {
+        "JDG": []
+      }
+    },
+    "ingredients/JER.usfm": {
+      "checksum": {
+        "md5": "ffb4e1b39e7f2b9f7b3e6e112a9795ad"
+      },
+      "mimeType": "text/plain",
+      "size": 1750502,
+      "scope": {
+        "JER": []
+      }
+    },
+    "ingredients/JOB.usfm": {
+      "checksum": {
+        "md5": "af81fda70a22693a410ccf098b4ce3c7"
+      },
+      "mimeType": "text/plain",
+      "size": 678967,
+      "scope": {
+        "JOB": []
+      }
+    },
+    "ingredients/JOL.usfm": {
+      "checksum": {
+        "md5": "476a723b1b81e47c9d46545ca2dabcd6"
+      },
+      "mimeType": "text/plain",
+      "size": 78565,
+      "scope": {
+        "JOL": []
+      }
+    },
+    "ingredients/JON.usfm": {
+      "checksum": {
+        "md5": "c2c2cc44a6fc42fd2dce55f8dea14789"
+      },
+      "mimeType": "text/plain",
+      "size": 55663,
+      "scope": {
+        "JON": []
+      }
+    },
+    "ingredients/JOS.usfm": {
+      "checksum": {
+        "md5": "1bbd7a9270d2ab3b58c62224cee713b2"
+      },
+      "mimeType": "text/plain",
+      "size": 823893,
+      "scope": {
+        "JOS": []
+      }
+    },
+    "ingredients/LAM.usfm": {
+      "checksum": {
+        "md5": "aef9f00f4542d5a1dfcc6666cb119d68"
+      },
+      "mimeType": "text/plain",
+      "size": 126715,
+      "scope": {
+        "LAM": []
+      }
+    },
+    "ingredients/LEV.usfm": {
+      "checksum": {
+        "md5": "a8cda7298f00a0e0da2487df680ad474"
+      },
+      "mimeType": "text/plain",
+      "size": 959916,
+      "scope": {
+        "LEV": []
+      }
+    },
+    "ingredients/LICENSE.md": {
+      "checksum": {
+        "md5": "b8dcce165d1417879e580ff909db7264"
+      },
+      "mimeType": "text/markdown",
+      "size": 1693
+    },
+    "ingredients/MAL.usfm": {
+      "checksum": {
+        "md5": "d5475954a6a46ef318e912f76b941907"
+      },
+      "mimeType": "text/plain",
+      "size": 70535,
+      "scope": {
+        "MAL": []
+      }
+    },
+    "ingredients/MIC.usfm": {
+      "checksum": {
+        "md5": "23e56043a62371ede6953a12ed88ea4e"
+      },
+      "mimeType": "text/plain",
+      "size": 114152,
+      "scope": {
+        "MIC": []
+      }
+    },
+    "ingredients/NAM.usfm": {
+      "checksum": {
+        "md5": "06608b1d527505f639dc7dc478c5b46e"
+      },
+      "mimeType": "text/plain",
+      "size": 46338,
+      "scope": {
+        "NAM": []
+      }
+    },
+    "ingredients/NEH.usfm": {
+      "checksum": {
+        "md5": "72f39cb89c983eda367f169e398d890e"
+      },
+      "mimeType": "text/plain",
+      "size": 447390,
+      "scope": {
+        "NEH": []
+      }
+    },
+    "ingredients/NUM.usfm": {
+      "checksum": {
+        "md5": "d40ea60b0b8798f45041bea6ecceb693"
+      },
+      "mimeType": "text/plain",
+      "size": 1334315,
+      "scope": {
+        "NUM": []
+      }
+    },
+    "ingredients/OBA.usfm": {
+      "checksum": {
+        "md5": "1f076963a9556f1169395ab25129a466"
+      },
+      "mimeType": "text/plain",
+      "size": 23532,
+      "scope": {
+        "OBA": []
+      }
+    },
+    "ingredients/PRO.usfm": {
+      "checksum": {
+        "md5": "b62e1caa3dc39e3acb73d73236f2b548"
+      },
+      "mimeType": "text/plain",
+      "size": 565689,
+      "scope": {
+        "PRO": []
+      }
+    },
+    "ingredients/PSA.usfm": {
+      "checksum": {
+        "md5": "865eea972e6b6ba9e96f3b668d792bed"
+      },
+      "mimeType": "text/plain",
+      "size": 1633641,
+      "scope": {
+        "PSA": []
+      }
+    },
+    "ingredients/RUT.usfm": {
+      "checksum": {
+        "md5": "984e293793f2c95d77b5738bca03d806"
+      },
+      "mimeType": "text/plain",
+      "size": 105249,
+      "scope": {
+        "RUT": []
+      }
+    },
+    "ingredients/SNG.usfm": {
+      "checksum": {
+        "md5": "9ac37f4c1e3fe7ea2e7898a9af165923"
+      },
+      "mimeType": "text/plain",
+      "size": 104369,
+      "scope": {
+        "SNG": []
+      }
+    },
+    "ingredients/ZEC.usfm": {
+      "checksum": {
+        "md5": "89741ba77cd0356336d9f6d4bd0589d0"
+      },
+      "mimeType": "text/plain",
+      "size": 254485,
+      "scope": {
+        "ZEC": []
+      }
+    },
+    "ingredients/ZEP.usfm": {
+      "checksum": {
+        "md5": "79f2c147115d10a159951ba0e0f02de1"
+      },
+      "mimeType": "text/plain",
+      "size": 62097,
+      "scope": {
+        "ZEP": []
+      }
+    }
+  },
+  "copyright": {
+    "shortStatements": [
+      {
+        "statement": "© unfoldingWord 2024, CC BY-SA 4.0",
+        "mimetype": "text/plain",
+        "lang": "en"
+      }
+    ]
+  }
+}
