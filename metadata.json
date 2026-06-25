@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-03-30T12:48:58.291Z",
+    "dateCreated": "2026-06-25T08:46:56.925Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -25,7 +25,7 @@
       "uWBurritos": {
         "UHB": {
           "revision": "1",
-          "timestamp": "2026-03-30T12:48:58.291Z"
+          "timestamp": "2026-06-25T08:46:56.925Z"
         }
       }
     },
@@ -663,20 +663,20 @@
     },
     "ingredients/1KI.usfm": {
       "checksum": {
-        "md5": "699d114c8e893c0c9bbef0d1c63bf2f0"
+        "md5": "2dd7751e53cf680e5d0994537f217d24"
       },
       "mimeType": "text/plain",
-      "size": 1069120,
+      "size": 1069126,
       "scope": {
         "1KI": []
       }
     },
     "ingredients/1SA.usfm": {
       "checksum": {
-        "md5": "6aaf0610a944ae21a5d566fee38f5a27"
+        "md5": "b9f454223da7abd68b583accf541af6f"
       },
       "mimeType": "text/plain",
-      "size": 1077981,
+      "size": 1077980,
       "scope": {
         "1SA": []
       }
@@ -1000,10 +1000,10 @@
     },
     "ingredients/PSA.usfm": {
       "checksum": {
-        "md5": "865eea972e6b6ba9e96f3b668d792bed"
+        "md5": "8434987dab40fdd6b3d4e29f55851584"
       },
       "mimeType": "text/plain",
-      "size": 1633641,
+      "size": 1633655,
       "scope": {
         "PSA": []
       }
@@ -1052,7 +1052,7 @@
   "copyright": {
     "shortStatements": [
       {
-        "statement": "© unfoldingWord 2024, CC BY-SA 4.0",
+        "statement": "© unfoldingWord 2026, CC BY-SA 4.0",
         "mimetype": "text/plain",
         "lang": "en"
       }

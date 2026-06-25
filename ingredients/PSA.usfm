@@ -14894,12 +14894,15 @@
 \w וְ⁠אָמֵֽן|lemma="אָמֵן" strong="c:H0543" x-morph="He,C:D"\w*׃
 
 \c 90
-\p
 
-\v 1
+\d
+\va 1\va*
 \w תְּפִלָּה֮|lemma="תְּפִלָּה" strong="H8605" x-morph="He,Ncfsa"\w*
 \w לְ⁠מֹשֶׁ֪ה|lemma="מֹשֶׁה" strong="l:H4872" x-morph="He,R:Np"\w*
 \w אִֽישׁ|lemma="אִישׁ" strong="H0376" x-morph="He,Ncmsc"\w*־\w הָ⁠אֱלֹ֫הִ֥ים|lemma="אֱלֹהִים" strong="d:H0430" x-morph="He,Td:Ncmpa"\w*
+
+\p
+\v 1
 \w אֲֽדֹנָ֗⁠י|lemma="אֲדֹנָי" strong="H0136" x-morph="He,Ncmpc:Sp1cs"\w*
 \w מָע֣וֹן|lemma="מָעוֹן" strong="H4583" x-morph="He,Ncbsa"\w*
 \w אַ֭תָּה|lemma="אַתָּה" strong="H0859a" x-morph="He,Pp2ms"\w*
