@@ -22,9 +22,7 @@ dublin_core:
     title: 'Ancient Hebrew'
   modified: '2026-04-12'
   publisher: 'unfoldingWord'
-  relation:
-  - 'en/ult?v=83'
-  - 'en/ust?v=83'
+  relation: []
   rights: 'CC BY-SA 4.0'
   source:
   - identifier: 'oshb'
