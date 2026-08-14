@@ -201,8 +201,8 @@
 \w לֹ֨א|lemma="לֹא" strong="H3808" x-morph="He,Tn"\w*
 \w יוֹסִ֥יף|lemma="יָסַף" strong="H3254" x-morph="He,Vhi3ms"\w*
 \w ע֛וֹד|lemma="עוֹד" strong="H5750" x-morph="He,D"\w*
-\w לַֽעֲבָר|lemma="עָבַר" strong="l:H5674a" x-morph="He,R:Vqc"\w*־\w בָּ֥⁠ךְ|lemma="" strong="b" x-morph="He,R:Sp2fs"\w*
-\f + \ft K \+w ל⁠עבור|lemma="עָבַר" strong="l:H5674a" x-morph="He,R:Vqa"\+w*\f*
+\w ל⁠עבור|lemma="עָבַר" strong="l:H5674a" x-morph="He,R:Vqa"\w*־\w בָּ֥⁠ךְ|lemma="" strong="b" x-morph="He,R:Sp2fs"\w*
+\f + \ft Q \+w לַֽעֲבָר|lemma="עָבַר" strong="l:H5674a" x-morph="He,R:Vqc"\+w*\f*
 \w בְּלִיַּ֖עַל|lemma="בְּלִיַּעַל" strong="H1100" x-morph="He,Ncmsa"\w*
 \w כֻּלֹּ֥⁠ה|lemma="כֹּל" strong="H3605" x-morph="He,Ncmsc:Sp3fs"\w*
 \w נִכְרָֽת|lemma="כָּרַת" strong="H3772" x-morph="He,VNp3ms"\w*׃
@@ -432,8 +432,8 @@
 \w וְ⁠אֵ֥ין|lemma="אַיִן" strong="c:H0369" x-morph="He,C:Tn"\w*
 \w קֵ֨צֶה֙|lemma="קָצֶה" strong="H7097b" x-morph="He,Ncbsa"\w*
 \w לַ⁠גְּוִיָּ֔ה|lemma="גְּוִיָּה" strong="l:H1472" x-morph="He,Rd:Ncfsa"\w*
-\w וְכָשְׁל֖וּ|lemma="כָּשַׁל" strong="c:H3782" x-morph="He,C:Vqq3cp"\w*
-\f + \ft K \+w יכשלו|lemma="כָּשַׁל" strong="H3782" x-morph="He,Vqi3mp"\+w*\f*
+\w יכשלו|lemma="כָּשַׁל" strong="H3782" x-morph="He,Vqi3mp"\w*
+\f + \ft Q \+w וְכָשְׁל֖וּ|lemma="כָּשַׁל" strong="c:H3782" x-morph="He,C:Vqq3cp"\+w*\f*
 \w בִּ⁠גְוִיָּתָֽ⁠ם|lemma="גְּוִיָּה" strong="b:H1472" x-morph="He,R:Ncfsc:Sp3mp"\w*׃
 
 \v 4
