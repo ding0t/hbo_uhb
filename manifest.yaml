@@ -27,11 +27,11 @@ dublin_core:
   source:
   - identifier: 'oshb'
     language: 'hbo'
-    version: '2.1.31'
+    version: '2.1.32'
   subject: 'Hebrew Old Testament'
   title: 'unfoldingWord® Hebrew Bible'
   type: 'bundle'
-  version: '2.1.32'
+  version: '3.0.0'
 checking:
   checking_entity:
   - 'unfoldingWord'
