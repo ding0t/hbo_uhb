@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-09-07T12:42:25.056Z",
+    "dateCreated": "2026-09-12T11:31:42.629Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -25,7 +25,7 @@
       "dcs": {
         "unfoldingWord/hbo_uhb": {
           "revision": "b3a5dbf6bb7d2874cccf828d38b3e6fd8c231670",
-          "timestamp": "2026-09-07T12:42:25.056Z"
+          "timestamp": "2026-09-12T11:31:42.629Z"
         }
       }
     },
